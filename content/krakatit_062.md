@@ -3,13 +3,9 @@ title: První vydání knih Karla Čapka
 contentType: prose
 ---
 
-  
-
 **1917**
 
 – Boží muka
-
-  
 
 **1918**
 
@@ -23,8 +19,6 @@ contentType: prose
 
 – Nůše pohádek
 
-  
-
 **1920**
 
   
@@ -37,8 +31,6 @@ contentType: prose
 
 – R.U.R.
 
-  
-
 **1921**
 
   
@@ -46,8 +38,6 @@ contentType: prose
 – Trapné povídky
 
 – Ze života hmyzu (společně s Josefem Čapkem)
-
-  
 
 **1922**
 
@@ -65,13 +55,9 @@ contentType: prose
 
 – Věc Makropulos
 
-  
-
 **1923**
 
 – Italské listy
-
-  
 
 **1924**
 
@@ -81,8 +67,6 @@ contentType: prose
 
 – Anglické listy
 
-  
-
 **1925**
 
   
@@ -90,8 +74,6 @@ contentType: prose
 – Jak vzniká divadelní hra a průvodce po zákulisí
 
 – O nejbližších věcech
-
-  
 
 **1927**
 
@@ -101,13 +83,9 @@ contentType: prose
 
 – Skandální aféra Josefa Holouška
 
-  
-
 **1928**
 
 – Hovory s T. G. M. (1. díl)
-
-  
 
 **1929**
 
@@ -121,13 +99,9 @@ contentType: prose
 
 – Zahradníkův rok
 
-  
-
 **1930**
 
 – Výlet do Španěl
-
-  
 
 **1931**
 
@@ -136,8 +110,6 @@ contentType: prose
 – Hovory s T. G. M. (2. díl)
 
 – Marsyas čili na okraji literatury
-
-  
 
 **1932**
 
@@ -155,8 +127,6 @@ contentType: prose
 
 – O věcech obecných čili Zoon politikon
 
-  
-
 **1933**
 
   
@@ -164,8 +134,6 @@ contentType: prose
 – Dášeňka čili život štěněte
 
 – Hordubal
-
-  
 
 **1934**
 
@@ -175,8 +143,6 @@ contentType: prose
 
 – Obyčejný život
 
-  
-
 **1935**
 
   
@@ -185,8 +151,6 @@ contentType: prose
 
 – Mlčení s T. G. Masarykem
 
-  
-
 **1936**
 
   
@@ -194,8 +158,6 @@ contentType: prose
 – Válka s mloky
 
 – Cesta na sever
-
-  
 
 **1937**
 
@@ -209,8 +171,6 @@ contentType: prose
 
 – První parta
 
-  
-
 **1938**
 
   
@@ -218,8 +178,6 @@ contentType: prose
 – Matka
 
 – Jak se co dělá
-
-  
 
 **1939**
 
