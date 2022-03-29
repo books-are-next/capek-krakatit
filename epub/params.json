@@ -26,7 +26,7 @@
       "blockquote": "",
       "figure": "mlpobrazky",
       "em": "mlpdopispodpisi mlpznakkurziva11b",
-      "strong": "mlptextbez1radkub mlptirazautoranazev mlpznaktucne11b",
+      "strong": "mlptirazautoranazev mlpznaktucne11b",
       "remove": "",
       "ignore": ""
     },
@@ -1347,6 +1347,6 @@
       "user": "books-are-next",
       "repo": "capek-krakatit"
     },
-    "generatedAt": 1648541441005
+    "generatedAt": 1648541758576
   }
 }
