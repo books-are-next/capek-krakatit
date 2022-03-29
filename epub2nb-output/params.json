@@ -21,7 +21,7 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3 mlptextbez1radkub",
+      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3",
       "brAfter": "",
       "blockquote": "",
       "figure": "mlpobrazky",
@@ -94,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předmluva"
+            "title": "Předmluva",
+            "children": []
           },
           {
             "filename": "krakatit_006.md",
@@ -107,8 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I."
+            "title": "I.",
+            "children": []
           },
           {
             "filename": "krakatit_007.md",
@@ -120,8 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II."
+            "title": "II.",
+            "children": []
           },
           {
             "filename": "krakatit_008.md",
@@ -133,8 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III."
+            "title": "III.",
+            "children": []
           },
           {
             "filename": "krakatit_009.md",
@@ -146,8 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV."
+            "title": "IV.",
+            "children": []
           },
           {
             "filename": "krakatit_010.md",
@@ -159,8 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V."
+            "title": "V.",
+            "children": []
           },
           {
             "filename": "krakatit_011.md",
@@ -172,8 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI."
+            "title": "VI.",
+            "children": []
           },
           {
             "filename": "krakatit_012.md",
@@ -185,8 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII."
+            "title": "VII.",
+            "children": []
           },
           {
             "filename": "krakatit_013.md",
@@ -198,8 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII."
+            "title": "VIII.",
+            "children": []
           },
           {
             "filename": "krakatit_014.md",
@@ -211,8 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX."
+            "title": "IX.",
+            "children": []
           },
           {
             "filename": "krakatit_015.md",
@@ -224,8 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "X."
+            "title": "X.",
+            "children": []
           },
           {
             "filename": "krakatit_016.md",
@@ -237,8 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XI."
+            "title": "XI.",
+            "children": []
           },
           {
             "filename": "krakatit_017.md",
@@ -250,8 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XII."
+            "title": "XII.",
+            "children": []
           },
           {
             "filename": "krakatit_018.md",
@@ -263,8 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIII."
+            "title": "XIII.",
+            "children": []
           },
           {
             "filename": "krakatit_019.md",
@@ -276,8 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIV."
+            "title": "XIV.",
+            "children": []
           },
           {
             "filename": "krakatit_020.md",
@@ -289,8 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XV."
+            "title": "XV.",
+            "children": []
           },
           {
             "filename": "krakatit_021.md",
@@ -302,8 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVI."
+            "title": "XVI.",
+            "children": []
           },
           {
             "filename": "krakatit_022.md",
@@ -315,8 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVII."
+            "title": "XVII.",
+            "children": []
           },
           {
             "filename": "krakatit_023.md",
@@ -328,8 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVIII."
+            "title": "XVIII.",
+            "children": []
           },
           {
             "filename": "krakatit_024.md",
@@ -341,8 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIX."
+            "title": "XIX.",
+            "children": []
           },
           {
             "filename": "krakatit_025.md",
@@ -354,8 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XX."
+            "title": "XX.",
+            "children": []
           },
           {
             "filename": "krakatit_026.md",
@@ -367,8 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXI."
+            "title": "XXI.",
+            "children": []
           },
           {
             "filename": "krakatit_027.md",
@@ -380,8 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXII."
+            "title": "XXII.",
+            "children": []
           },
           {
             "filename": "krakatit_028.md",
@@ -393,8 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXIII."
+            "title": "XXIII.",
+            "children": []
           },
           {
             "filename": "krakatit_029.md",
@@ -406,8 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXIV."
+            "title": "XXIV.",
+            "children": []
           },
           {
             "filename": "krakatit_030.md",
@@ -419,8 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXV."
+            "title": "XXV.",
+            "children": []
           },
           {
             "filename": "krakatit_031.md",
@@ -432,8 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXVI."
+            "title": "XXVI.",
+            "children": []
           },
           {
             "filename": "krakatit_032.md",
@@ -445,8 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXVII."
+            "title": "XXVII.",
+            "children": []
           },
           {
             "filename": "krakatit_033.md",
@@ -458,8 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXVIII."
+            "title": "XXVIII.",
+            "children": []
           },
           {
             "filename": "krakatit_034.md",
@@ -471,8 +471,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXIX."
+            "title": "XXIX.",
+            "children": []
           },
           {
             "filename": "krakatit_035.md",
@@ -484,8 +484,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXX."
+            "title": "XXX.",
+            "children": []
           },
           {
             "filename": "krakatit_036.md",
@@ -497,8 +497,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXI."
+            "title": "XXXI.",
+            "children": []
           },
           {
             "filename": "krakatit_037.md",
@@ -510,8 +510,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXII."
+            "title": "XXXII.",
+            "children": []
           },
           {
             "filename": "krakatit_038.md",
@@ -523,8 +523,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXIII."
+            "title": "XXXIII.",
+            "children": []
           },
           {
             "filename": "krakatit_039.md",
@@ -536,8 +536,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXIV."
+            "title": "XXXIV.",
+            "children": []
           },
           {
             "filename": "krakatit_040.md",
@@ -549,8 +549,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXV."
+            "title": "XXXV.",
+            "children": []
           },
           {
             "filename": "krakatit_041.md",
@@ -562,8 +562,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXVI."
+            "title": "XXXVI.",
+            "children": []
           },
           {
             "filename": "krakatit_042.md",
@@ -575,8 +575,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXVII."
+            "title": "XXXVII.",
+            "children": []
           },
           {
             "filename": "krakatit_043.md",
@@ -588,8 +588,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXVIII."
+            "title": "XXXVIII.",
+            "children": []
           },
           {
             "filename": "krakatit_044.md",
@@ -601,8 +601,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXXIX."
+            "title": "XXXIX.",
+            "children": []
           },
           {
             "filename": "krakatit_045.md",
@@ -614,8 +614,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XL."
+            "title": "XL.",
+            "children": []
           },
           {
             "filename": "krakatit_046.md",
@@ -627,8 +627,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLI."
+            "title": "XLI.",
+            "children": []
           },
           {
             "filename": "krakatit_047.md",
@@ -640,8 +640,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLII."
+            "title": "XLII.",
+            "children": []
           },
           {
             "filename": "krakatit_048.md",
@@ -653,8 +653,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLIII."
+            "title": "XLIII.",
+            "children": []
           },
           {
             "filename": "krakatit_049.md",
@@ -666,8 +666,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLIV."
+            "title": "XLIV.",
+            "children": []
           },
           {
             "filename": "krakatit_050.md",
@@ -679,8 +679,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLV."
+            "title": "XLV.",
+            "children": []
           },
           {
             "filename": "krakatit_051.md",
@@ -692,8 +692,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLVI."
+            "title": "XLVI.",
+            "children": []
           },
           {
             "filename": "krakatit_052.md",
@@ -705,8 +705,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLVII."
+            "title": "XLVII.",
+            "children": []
           },
           {
             "filename": "krakatit_053.md",
@@ -718,8 +718,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLVIII."
+            "title": "XLVIII.",
+            "children": []
           },
           {
             "filename": "krakatit_054.md",
@@ -731,8 +731,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XLIX."
+            "title": "XLIX.",
+            "children": []
           },
           {
             "filename": "krakatit_055.md",
@@ -744,8 +744,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "L."
+            "title": "L.",
+            "children": []
           },
           {
             "filename": "krakatit_056.md",
@@ -757,8 +757,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "LI."
+            "title": "LI.",
+            "children": []
           },
           {
             "filename": "krakatit_057.md",
@@ -770,8 +770,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "LII."
+            "title": "LII.",
+            "children": []
           },
           {
             "filename": "krakatit_058.md",
@@ -783,8 +783,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "LIII."
+            "title": "LIII.",
+            "children": []
           },
           {
             "filename": "krakatit_059.md",
@@ -796,8 +796,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "LIV."
+            "title": "LIV.",
+            "children": []
           },
           {
             "filename": "krakatit_060.md",
@@ -809,8 +809,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "krakatit_061.md",
@@ -822,8 +822,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Život a doba spisovatele Karla Čapka v datech"
+            "title": "Život a doba spisovatele Karla Čapka v datech",
+            "children": []
           },
           {
             "filename": "krakatit_062.md",
@@ -835,8 +835,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "První vydání knih Karla Čapka"
+            "title": "První vydání knih Karla Čapka",
+            "children": []
           },
           {
             "filename": "krakatit_063.md",
@@ -848,8 +848,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "children": []
           },
           {
             "filename": "krakatit_064.md",
@@ -1346,6 +1346,6 @@
       "user": "books-are-next",
       "repo": "capek-krakatit"
     },
-    "generatedAt": 1648541441005
+    "generatedAt": 1648541758576
   }
 }
