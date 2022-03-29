@@ -1,1 +1,1293 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Krakatit",
+      "identifier": "74414371-756d-460e-8ac9-ed803497fc2f",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-10-16T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "mlpuroven2kapitola",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "mlptextbez1radku mlptextbez1radku1 mlptextbez1radku2 mlptextbez1radku3 mlptextbez1radkub",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "mlpobrazky",
+      "em": "mlpdopispodpisi mlpznakkurziva11b",
+      "strong": "mlptextbez1radkub mlptirazautoranazev mlpznaktucne11b",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "krakatit_001.md",
+            "xhtml": "krakatit_001.html",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_002.md",
+            "xhtml": "krakatit_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_003.md",
+            "xhtml": "krakatit_003.html",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_004.md",
+            "xhtml": "krakatit_004.html",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_005.md",
+            "xhtml": "krakatit_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_006.md",
+            "xhtml": "krakatit_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_007.md",
+            "xhtml": "krakatit_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_008.md",
+            "xhtml": "krakatit_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_009.md",
+            "xhtml": "krakatit_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_010.md",
+            "xhtml": "krakatit_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_011.md",
+            "xhtml": "krakatit_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_012.md",
+            "xhtml": "krakatit_012.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_013.md",
+            "xhtml": "krakatit_013.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_014.md",
+            "xhtml": "krakatit_014.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_015.md",
+            "xhtml": "krakatit_015.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_016.md",
+            "xhtml": "krakatit_016.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_017.md",
+            "xhtml": "krakatit_017.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_018.md",
+            "xhtml": "krakatit_018.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_019.md",
+            "xhtml": "krakatit_019.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_020.md",
+            "xhtml": "krakatit_020.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_021.md",
+            "xhtml": "krakatit_021.html",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_022.md",
+            "xhtml": "krakatit_022.html",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_023.md",
+            "xhtml": "krakatit_023.html",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_024.md",
+            "xhtml": "krakatit_024.html",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_025.md",
+            "xhtml": "krakatit_025.html",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_026.md",
+            "xhtml": "krakatit_026.html",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_027.md",
+            "xhtml": "krakatit_027.html",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_028.md",
+            "xhtml": "krakatit_028.html",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_029.md",
+            "xhtml": "krakatit_029.html",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_030.md",
+            "xhtml": "krakatit_030.html",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_031.md",
+            "xhtml": "krakatit_031.html",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_032.md",
+            "xhtml": "krakatit_032.html",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_033.md",
+            "xhtml": "krakatit_033.html",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_034.md",
+            "xhtml": "krakatit_034.html",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_035.md",
+            "xhtml": "krakatit_035.html",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_036.md",
+            "xhtml": "krakatit_036.html",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_037.md",
+            "xhtml": "krakatit_037.html",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_038.md",
+            "xhtml": "krakatit_038.html",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_039.md",
+            "xhtml": "krakatit_039.html",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_040.md",
+            "xhtml": "krakatit_040.html",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_041.md",
+            "xhtml": "krakatit_041.html",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_042.md",
+            "xhtml": "krakatit_042.html",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_043.md",
+            "xhtml": "krakatit_043.html",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_044.md",
+            "xhtml": "krakatit_044.html",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_045.md",
+            "xhtml": "krakatit_045.html",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_046.md",
+            "xhtml": "krakatit_046.html",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_047.md",
+            "xhtml": "krakatit_047.html",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_048.md",
+            "xhtml": "krakatit_048.html",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_049.md",
+            "xhtml": "krakatit_049.html",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_050.md",
+            "xhtml": "krakatit_050.html",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_051.md",
+            "xhtml": "krakatit_051.html",
+            "id": 50,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_052.md",
+            "xhtml": "krakatit_052.html",
+            "id": 51,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_053.md",
+            "xhtml": "krakatit_053.html",
+            "id": 52,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_054.md",
+            "xhtml": "krakatit_054.html",
+            "id": 53,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_055.md",
+            "xhtml": "krakatit_055.html",
+            "id": 54,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_056.md",
+            "xhtml": "krakatit_056.html",
+            "id": 55,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_057.md",
+            "xhtml": "krakatit_057.html",
+            "id": 56,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_058.md",
+            "xhtml": "krakatit_058.html",
+            "id": 57,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_059.md",
+            "xhtml": "krakatit_059.html",
+            "id": 58,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_060.md",
+            "xhtml": "krakatit_060.html",
+            "id": 59,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_061.md",
+            "xhtml": "krakatit_061.html",
+            "id": 60,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_062.md",
+            "xhtml": "krakatit_062.html",
+            "id": 61,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_063.md",
+            "xhtml": "krakatit_063.html",
+            "id": 62,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "krakatit_064.md",
+            "xhtml": "krakatit_064.html",
+            "id": 63,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Krakatit",
+      "identifier": "74414371-756d-460e-8ac9-ed803497fc2f",
+      "author": "Karel Čapek",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2017-10-16T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_001.md",
+        "xhtml": "krakatit_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_002.md",
+        "xhtml": "krakatit_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_003.md",
+        "xhtml": "krakatit_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_004.md",
+        "xhtml": "krakatit_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_005.md",
+        "xhtml": "krakatit_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_006.md",
+        "xhtml": "krakatit_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_007.md",
+        "xhtml": "krakatit_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_008.md",
+        "xhtml": "krakatit_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_009.md",
+        "xhtml": "krakatit_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_010.md",
+        "xhtml": "krakatit_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_011.md",
+        "xhtml": "krakatit_011.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_012.md",
+        "xhtml": "krakatit_012.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_013.md",
+        "xhtml": "krakatit_013.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_014.md",
+        "xhtml": "krakatit_014.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_015.md",
+        "xhtml": "krakatit_015.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_016.md",
+        "xhtml": "krakatit_016.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_017.md",
+        "xhtml": "krakatit_017.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_018.md",
+        "xhtml": "krakatit_018.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_019.md",
+        "xhtml": "krakatit_019.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_020.md",
+        "xhtml": "krakatit_020.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_021.md",
+        "xhtml": "krakatit_021.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_022.md",
+        "xhtml": "krakatit_022.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_023.md",
+        "xhtml": "krakatit_023.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_024.md",
+        "xhtml": "krakatit_024.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_025.md",
+        "xhtml": "krakatit_025.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_026.md",
+        "xhtml": "krakatit_026.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_027.md",
+        "xhtml": "krakatit_027.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_028.md",
+        "xhtml": "krakatit_028.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_029.md",
+        "xhtml": "krakatit_029.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_030.md",
+        "xhtml": "krakatit_030.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_031.md",
+        "xhtml": "krakatit_031.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_032.md",
+        "xhtml": "krakatit_032.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_033.md",
+        "xhtml": "krakatit_033.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_034.md",
+        "xhtml": "krakatit_034.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_035.md",
+        "xhtml": "krakatit_035.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_036.md",
+        "xhtml": "krakatit_036.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_037.md",
+        "xhtml": "krakatit_037.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_038.md",
+        "xhtml": "krakatit_038.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_039.md",
+        "xhtml": "krakatit_039.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_040.md",
+        "xhtml": "krakatit_040.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_041.md",
+        "xhtml": "krakatit_041.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_042.md",
+        "xhtml": "krakatit_042.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_043.md",
+        "xhtml": "krakatit_043.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_044.md",
+        "xhtml": "krakatit_044.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_045.md",
+        "xhtml": "krakatit_045.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_046.md",
+        "xhtml": "krakatit_046.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_047.md",
+        "xhtml": "krakatit_047.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_048.md",
+        "xhtml": "krakatit_048.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_049.md",
+        "xhtml": "krakatit_049.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_050.md",
+        "xhtml": "krakatit_050.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_051.md",
+        "xhtml": "krakatit_051.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_052.md",
+        "xhtml": "krakatit_052.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_053.md",
+        "xhtml": "krakatit_053.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_054.md",
+        "xhtml": "krakatit_054.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_055.md",
+        "xhtml": "krakatit_055.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_056.md",
+        "xhtml": "krakatit_056.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_057.md",
+        "xhtml": "krakatit_057.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_058.md",
+        "xhtml": "krakatit_058.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_059.md",
+        "xhtml": "krakatit_059.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_060.md",
+        "xhtml": "krakatit_060.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_061.md",
+        "xhtml": "krakatit_061.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_062.md",
+        "xhtml": "krakatit_062.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_063.md",
+        "xhtml": "krakatit_063.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "krakatit_064.md",
+        "xhtml": "krakatit_064.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image003.png"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre14",
+      "calibre15",
+      "calibre16",
+      "calibre17",
+      "calibre18",
+      "calibre19",
+      "calibre20",
+      "calibre22",
+      "calibre23",
+      "calibre24",
+      "calibre3",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "mlpdopispodpisi",
+      "mlplicencehypertext",
+      "mlplicenceobrazek",
+      "mlplicencetext",
+      "mlpobrazky",
+      "mlptext",
+      "mlptext1",
+      "mlptext2",
+      "mlptextbez1radku",
+      "mlptextbez1radku1",
+      "mlptextbez1radku2",
+      "mlptextbez1radku3",
+      "mlptextbez1radkub",
+      "mlptextcapekseznam",
+      "mlptirazautoranazev",
+      "mlptitulkaautor",
+      "mlptitulkanazev",
+      "mlpuroven2kapitola",
+      "mlpznakkurziva11b",
+      "mlpznaktucne11b",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "textpoznpodarouchar",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "capek-krakatit"
+    },
+    "generatedAt": 1648540484294
+  }
+}
