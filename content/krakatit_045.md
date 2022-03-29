@@ -1,8 +1,9 @@
 ---
+title: XL.
 contentType: prose
 ---
 
-## XL.
+  
 
 Pršelo. S bílým šátkem parlamentáře přišel tlustý cousin navrhnout Prokopovi, aby toho nechal; že zase dostane svou laboratoř a kdesi cosi. Prokop prohlásil, že odtud nepůjde, ledaže by ho vyhodili do povětří; ale dřív že on něco udělá, to budete koukat! S touto temnou hrozbou se cousin vracel; v zámku patrně nesli velmi těžce, že vlastní vjezd do zámku je blokován, ale nechtěli s věcí dělat žádný hluk.
 

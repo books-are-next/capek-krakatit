@@ -1,8 +1,9 @@
 ---
+title: XXXII.
 contentType: prose
 ---
 
-## XXXII.
+  
 
 Konec všemu: byla to skoro úleva, nebo alespoň něco jistého a bez pochyb; a Prokop se do toho zahryzl s buldočí houževnatostí. Dobrá, je konec, není se již tedy čeho bát. Nepřišla schválně; stačí, tenhle políček stačí; je tedy konec. Seděl v lenošce neschopen vstát, znovu a znovu se opíjeje svým ponížením. Odkopnutý sluha. Nestoudná, nadutá, bez citu. Jistě mne dávala k lepšímu svým galánům. Nuže, dohráno; tím lépe.
 
@@ -40,6 +41,8 @@ Až daleko za zámkem, na úhorové půdě střelnice, zaryl Prokop tvář do hl
 
 Deset kroků stranou seděl vážný a soustředěný pan Holz.
 
+  
+
 Noc, která nastala, byla dusná a tíživá, neobyčejně černá; chýlilo se k bouři. V takové chvíli jsou lidé divně podrážděni a nemají se nijak rozhodovat o svém osudu; neboť nedobrý je to čas.
 
 K jedenácté vyrazil Prokop ze dveří laboratoře a omráčil židlí dřímajícího pana Holze natolik, že mu unikl a zmizel v noční tmě. Chvíli nato padly dva výstřely u závodního nádraží. Nízko na horizontu se ošklivě blýskalo; pak bylo tím černěji. Ale z vysoké hráze u vchodu vyletěl ostrý pruh siného světla a posunoval se kolem nádraží; zachycoval vagony, rampy, hromady uhlí, a nyní popadl černou postavu, která uhání, kličkuje, padá k zemi a opět mizí ve stínu. Nyní utíká mezi baráky k parku; několik postav se vrhá za ní. Reflektor se otáčí k zámku; opět dva poplašné výstřely, a běžící postava se zarývá do houští.
@@ -47,6 +50,8 @@ K jedenácté vyrazil Prokop ze dveří laboratoře a omráčil židlí dřímaj
 Krátce nato zadrnčelo okno ložnice princezniny; princezna vyskočila a otevřela, a tu vletěl dovnitř zmuchlaný list papíru zatížený kamínkem. Na jedné straně bylo něco naprosto nečitelně naškrabáno přelomenou tužkou; na druhé straně byly hustě a drobně psané výpočty. Princezna na sebe házela šaty, ale tu již padl výstřel za rybníkem; podle zvuku to bylo naostro. Ztuhlými prsty princezna zadrhovala háčky šatů, zatímco komorná, potřeštěná koza, se třásla pod peřinou strachy ze střílení. Ale než mohla princezna vyjít, viděla oknem, jak dva vojáci vlekou někoho černého; burácel jako lev a hleděl je setřást; nebyl tedy raněn.
 
 Jen na obzoru se blýská širokými žlutými plameny; ale ulevující bouře se ještě nespustila.
+
+  
 
 Vystřízlivělý Prokop se vrhl střemhlav do laboratorní práce, nebo aspoň se k tomu nutil. Před chvílí odešel od něho Carson; byl studeně popuzen a prohlásil zřetelně, že podle všeho bude pan Prokop co nejdříve transferován jinam, na místo bezpečnější; když prý to nejde po dobrém, tedy to půjde po zlém. Nu, vše jedno; na ničem už nezáleží. Zkumavka praskla Prokopovi v prstech.
 

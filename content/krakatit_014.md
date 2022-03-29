@@ -1,8 +1,9 @@
 ---
+title: IX.
 contentType: prose
 ---
 
-## IX.
+  
 
 Nyní už smí Prokop na nějakou hodinku denně vylézt z postele; dosud táhne nohy všelijak a bohužel není s ním mnoho řeči; říkejte si mu co chcete, většinou odpoví nějak skoupě a přitom se omlouvá plachým úsměvem.
 

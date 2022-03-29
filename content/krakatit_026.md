@@ -1,8 +1,9 @@
 ---
+title: XXI.
 contentType: prose
 ---
 
-## XXI.
+  
 
 „Počkejte,“ zarazil ho Prokop. „Dovolte, abych vás představil. Inženýr Carson, sir Reginald Carson.“
 

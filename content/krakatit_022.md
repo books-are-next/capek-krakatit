@@ -1,8 +1,9 @@
 ---
+title: XVII.
 contentType: prose
 ---
 
-## XVII.
+  
 
 Prokop s úžasem vzhlédl na pana Carsona. Kupodivu, teď už to nebyla ta mopsličí tvář lesknoucí se blahem; všecko zvážnělo a zpřísnělo na horlivém mužíkovi, oči zapadly pod těžkými víčky a jen chvílemi se zařízly matným břitem. „Nebuďte blázen,“ pronesl důrazně. „Prodejte nám Krakatit, a je to.“
 

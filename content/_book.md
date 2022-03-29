@@ -2,18 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Krakatit
   identifier: 74414371-756d-460e-8ac9-ed803497fc2f
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2017-10-16T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - krakatit_001.html
   - krakatit_002.html
-  - krakatit_003.html
-  - krakatit_004.html
   - krakatit_005.html
   - krakatit_006.html
   - krakatit_007.html
@@ -73,11 +74,12 @@ readingOrder:
   - krakatit_061.html
   - krakatit_062.html
   - krakatit_063.html
-  - krakatit_064.html
+  - colophon.html
 tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

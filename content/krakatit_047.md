@@ -1,8 +1,9 @@
 ---
+title: XLII.
 contentType: prose
 ---
 
-## XLII.
+  
 
 Vytřeštil se ze spánku zalit a promočen hrozným potem. Kde – kde to je? Strop nad ním se kymácí a hourá; nenene, padá, šroubuje se dolů, sváží se pomalu jako ohromný hydraulický lis. Prokop chtěl zařvat, ale nemohl; a strop už je tak nízko, že na něm rozeznává sedící průsvitnou mušku, zrnéčko písku v omítce, každou nepravidelnost nátěru; a pořád to klesá níž, a Prokop se na to dívá s bezdechou hrůzou a jen sípe, nemoha ze sebe dostati hlasu. Světlo zhaslo, je černá tma; teď ho to rozmačká. Prokop už cítí, jak se strop dotýká jeho zježených vlasů, a bezhlase piští. Ahaha, teď nahmatal dveře, vyrazil je a vrhl se ven; i tam je taková tma, ale není to tma, je to mlha, vlčí mlha, mlha tak hustá, že nemohl dýchat a dusil se škytaje děsem. Teď mne to udusí, zhrozil se a dal se na útěk, šlapaje popopo po nějakých ži-živých tělech, jež se ještě kroutí. Sklonil se tedy a sáhl, a cítil pod rukou mladé široké ňadro. To – to – to je Anči, lekl se, a hmatal jí po hlavě; ale místo hlavy to mělo mísu, por-ce-lánovou mísu s něčím slizkým a houbovitým jako hovězí plíce. Bylo mu k zvracení děsno a chtěl od toho odtrhnout ruce; ale ono to k nim lne, třese se to, přisává se to a plazí se mu to po pažích nahoru. A ona je to krakatice, mokrá a rosolovitá sépie s lesklýma očima princezny, jež se na něho upírají náruživě a zamilovaně; sune se mu po holém těle a hledá, kam usadí svou ohavnou, prýštící řiť. Prokop nemůže vydechnout, rve se s ní, zarývá prsty do povolné klihovité hmoty; a procitl.
 

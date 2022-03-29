@@ -1,8 +1,9 @@
 ---
+title: L.
 contentType: prose
 ---
 
-## L.
+  
 
 Vůz zastavil v černém, lesnatém údolí. Prokop rozeznal potmě těžné věže a haldy. „Tak, tady jsme,“ zabručel Daimon. „To je můj rudný důl a hamr; nestojí to za nic. Nu, vystupte!“
 

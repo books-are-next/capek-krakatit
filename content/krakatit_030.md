@@ -1,8 +1,9 @@
 ---
+title: XXV.
 contentType: prose
 ---
 
-## XXV.
+  
 
 Půl roku neměl Prokop v rukou milované nádobíčko chemika.
 

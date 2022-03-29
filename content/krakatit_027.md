@@ -1,8 +1,9 @@
 ---
+title: XXII.
 contentType: prose
 ---
 
-## XXII.
+  
 
 „Musím postupovat metodicky,“ umiňoval si Prokop. Dobrá, tedy po předlouhém rozvažování a nejpodivnějších nápadech ustanovil se na tomto postupu:
 

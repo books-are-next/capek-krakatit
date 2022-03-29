@@ -1,8 +1,9 @@
 ---
+title: I.
 contentType: prose
 ---
 
-## I.
+  
 
 S večerem zhoustla mlha sychravého dne. Je ti, jako by ses protlačoval řídkou vlhkou hmotou, jež se za tebou neodvratně zavírá. Chtěl bys být doma. Doma, u své lampy, v krabici čtyř stěn. Nikdy ses necítil tak opuštěn.
 

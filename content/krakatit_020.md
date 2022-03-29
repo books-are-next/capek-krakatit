@@ -1,8 +1,9 @@
 ---
+title: XV.
 contentType: prose
 ---
 
-## XV.
+  
 
 Jakmile přistál v Praze, hnal se do Tomšova bytu. U Muzea se zarazil: Zatraceně, kde vlastně Tomeš bydlí? Šel jsem, ano, šel jsem tehdy, otřásán zimnicí, na dráhu podle Muzea; ale odkud? Z které ulice? Zuře a klna bloudil Prokop kolem Muzea, hledaje pravděpodobný směr; nenašel nic, i pustil se na policejní ředitelství, oddělení dotazy. Jiří Tomeš, listoval zaprášený oficiál v knihách, inženýr Tomeš Jiří, to je prosím na Smíchově, ulice ta a ta. Byla to patrně stará adresa. Nicméně letěl Prokop na Smíchov do ulice té a té. Domovník kroutil hlavou, když se ho ptal po Jiřím Tomši. Toť že tu ten jistý bydlel, ale už víc než před rokem; kde bydlí teď, neví nikdo; ostatně nechal tu po sobě všelijaké dluhy –
 

@@ -1,8 +1,9 @@
 ---
+title: XIV.
 contentType: prose
 ---
 
-## XIV.
+  
 
 Zatím už doktor Tomeš sedí u snídaně funě a bruče po těžkém porodu; přitom vrhá na Anči pohledy zkoumavé a nespokojené. Anči sedí jako zařezaná, nejí, nepije, nevěří prostě svým očím, že se Prokop ještě neukázal; nějak se jí třesou rty, patrně užuž přijdou slzy. Tu vejde Prokop jaksi zbytečně rázně, je bledý a nemůže si ani sednout, jak má naspěch; jen taktak že pozdraví, přeběhne Anči očima, jako by ji ani neznal, a hned se ptá s popudlivou netrpělivostí: „Kde je teď váš Jirka?“
 

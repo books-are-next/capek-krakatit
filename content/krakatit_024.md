@@ -1,8 +1,9 @@
 ---
+title: XIX.
 contentType: prose
 ---
 
-## XIX.
+  
 
 „Vy tedy myslíte,“ koktal Prokop, „že… že snad…“
 

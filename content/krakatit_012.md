@@ -1,8 +1,9 @@
 ---
+title: VII.
 contentType: prose
 ---
 
-## VII.
+  
 
 Nebylo nic; jen jako kdyby se časem protrhly mlhy, zjevil se vzorek malované stěny, řezaná římsa skříně, cíp záclony či frýzek[\[5\]](./resources/undefined) stropu vlys; nebo se naklonila nějaká tvář jakoby nad otvorem studně, ale nebylo vidět jejích rysů. Něco se dělo, někdo časem svlažil horké rty nebo pozvedal bezvládné tělo, ale vše mizelo v plynoucích útržcích snění. Byly to krajiny, kobercové vzory, diferenciální počty, ohnivé koule, chemické formule; jen časem něco vyplulo navrch a stalo se na okamžik jasnějším snem, aby se to vzápětí zas rozplynulo v širokotokém bezvědomí.
 

@@ -1,8 +1,9 @@
 ---
+title: XLV.
 contentType: prose
 ---
 
-## XLV.
+  
 
 Bděli přimknuti k sobě a s očima vytřeštěnýma do polotmy. Cítil její srdce horečně bíti; nepromluvila slova za ty hodiny, líbala ho nenasytně a opět se odtrhla, kladla šáteček mezi své a jeho rty, jako by se bála na něho dechnout; i nyní odvrací tvář a zírá horečně do tmy –
 

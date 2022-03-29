@@ -1,8 +1,9 @@
 ---
+title: VIII.
 contentType: prose
 ---
 
-## VIII.
+  
 
 Někdo ho zatahal za rukáv. „Nu, nu,“ povídá ten někdo, „už bychom nemuseli spát, co?“ Prokop otevřel oči a viděl starého pána, má růžovou pleš a bílou bradu, zlaté brejličky na čele a náramně čilý koukej. „Už nespěte, velectěný,“ povídá, „už toho je dost; nebo se probudíte na onom světě.“
 

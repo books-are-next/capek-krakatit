@@ -1,8 +1,9 @@
 ---
+title: XLVIII.
 contentType: prose
 ---
 
-## XLVIII.
+  
 
 Daimon spustil motor a skočil do vozu. „Hned tam budeme.“ Auto se sváželo s Hory Pokušení do širokého údolí, letělo němou nocí, přesmyklo se přes pokojné sedlo a stanulo před rozlehlým dřevěným domem mezi olšemi; vypadalo to jako starý mlýn. Daimon vyskočil z vozu a vedl Prokopa k dřevěným schodům; ale tam se jim postavil do cesty člověk s vyhrnutým límcem. „Heslo?“ ptal se. „I kuš,“ zahučel Daimon a strhl si automobilové brýle; člověk ustoupil a Daimon se hnal nahoru. Vešli do veliké nízké jizby, jež byla jako školní světnice: dvě řady lavic, pódium a katedra a tabule; jenomže tam bylo plno dýmu a výparů a křiku. Lavice byly přeplněny lidmi s klobouky na hlavách; všichni se hádali, na pódiu křičel rudovousý kolohnát, za katedrou stál suchý, pedantický stařík a zuřivě zvonil.
 

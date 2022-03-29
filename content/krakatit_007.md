@@ -1,8 +1,9 @@
 ---
+title: II.
 contentType: prose
 ---
 
-## II.
+  
 
 První, co si Prokop uvědomil, bylo, že se s ním všechno otřásá v drnčivém rachotu a že ho někdo pevně drží kolem pasu. Hrozně se bál otevřít oči; myslel, že se to na něj řítí. Ale když to neustávalo, otevřel oči a viděl před sebou matný čtyřúhelník, kterým se sunou mlhavé světelné koule a pruhy. Neuměl si to vysvětlit; díval se zmateně na uplývající a poskakující mátohy, trpně odevzdán ve vše, co se s ním bude dít. Pak pochopil, že ten horlivý rachot jsou kola vozu a venku že míjejí jenom svítilny v mlze; a unaven tolikerým pozorováním zavřel opět oči a nechal se unášet.
 

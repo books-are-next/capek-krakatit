@@ -1,8 +1,9 @@
 ---
+title: XXXIX.
 contentType: prose
 ---
 
-## XXXIX.
+  
 
 Ráno se rozhodl nejít do parku; měl právem za to, že by tam překážel. Umístil se v poměrně úzké a polopusté končině, kde byla přímá cesta od zámku k laboratořím, proražená skrze starý zarostlý val. Vydrápal se na val, odkud, jakžtakž skryt, mohl vidět roh zámku a malou část parku. Místo se mu zalíbilo; zahrabal si tam několik svých ručních granátů a pozoroval střídavě park, chvátajícího střevlíka a vrabce na rozhoupaných větvičkách. Jednou tam slétla dokonce červenka, a Prokop bez dechu pozoroval její brunátné hrdélko; tíkla něco, mžikla ocasem a frr, pryč.
 

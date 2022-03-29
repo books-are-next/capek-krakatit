@@ -1,8 +1,9 @@
 ---
+title: XXVIII.
 contentType: prose
 ---
 
-## XXVIII.
+  
 
 To se rozumí, slavný chirurg neuznal práci vojenského řezníka, roztahoval znovu Prokopovy zlomeniny a nakonec to vše zalil do sádry a řekl, že levá extremita zůstane podle všeho chromá.
 
