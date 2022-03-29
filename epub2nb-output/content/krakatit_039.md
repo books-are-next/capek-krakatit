@@ -1,8 +1,9 @@
 ---
+title: XXXIV.
 contentType: prose
 ---
 
-## XXXIV.
+  
 
 Když přišel po večeři, nevěřící už a celý ve střehu, stěží ji poznal, jak byla krásná. Cítila jeho užaslý a žárlivý pohled, pohled, který ji obléval od hlavy k patě; i zazářila a oddávala se mu očima tak bez ohledu k ostatním, že trnul. Byl tam nějaký nový host, d’Hémon se jmenoval, diplomat či co: člověk mongolského typu s fialovými pysky a krátkými černými vousy kolem. Tenhle pán tedy byl patrně znalý fyzikální chemie; Becquerel, Planck, Niels Bohr, Millikan a taková jména mu jen lítala od huby; znal Prokopa z literatury a ohromně se interesoval o jeho práci. Prokop se dal strhnout, rozpovídal se, zapomněl na okamžik dívat se na princeznu; za to utržil pod stolem takové kopnutí do bérce, že sykl a byl by jí to málem vrátil; nádavkem dostal planoucí pohled žárlivosti. V té chvíli musel zodpovědět hloupou otázku prince Suwalského, co je to vlastně ta energie, o které tu pořád povídají; i popadl cukřenku, vrhl na princeznu pohled tak rozhořčený, jako by jí to chtěl hodit na hlavu, a vysvětloval, kdyby se podařilo naráz vyvinout a vybít všecku energii obsaženou v tomhle, že by to vyhodilo do povětří Montblanc i s Chamonix; ale to že se nepodaří.
 

@@ -1,8 +1,9 @@
 ---
+title: XLIV.
 contentType: prose
 ---
 
-## XLIV.
+  
 
 Ten den byl podmračný a sychravý. Princezna pokašlávala, mrazilo ji a opět hořela, ale nevydržela v posteli: čekala odpověď Prokopovu. Vyhlížela oknem, nevyjde-li ven, a zase zavolala Paula. Stále totéž: pan inženýr přechází po pokoji. A neříká nic? Ne, nic neříká. Vlekla se od stěny ke stěně, jako by ho chtěla provázet; a zas usedla a kolébala se celým tělem, aby opila svůj zimničný nepokoj. Oh, ani to už nelze snést! Zničehonic mu začala psát dlouhý dopis; zapřísahala ho, aby si ji vzal za ženu; že nemusí vydat nic, žádné své tajemství, žádný Krakatit; že ona za ním půjde do jeho života a bude mu sloužit, děj se co děj. „Miluji Tě tak,“ psala, „že mně už žádná oběť nestačí, abych Ti ji přinesla. Podrob mne zkoušce, zůstaň chudý a neznámý; půjdu s Tebou jako Tvá žena, a nikdy již se nebudu moci vrátit do světa, který opustím. Vím, že mne miluješ málo a jen roztržitým koutkem srdce; ale zvykneš si na mne. Byla jsem pyšná, zlá a vášnivá; změnila jsem se, chodím mezi starými věcmi jako cizí, přestala jsem být –“ Přečtla to a roztrhala to na kousky tiše sténajíc. Byl večer, a od Prokopa zpráva nepřicházela.
 

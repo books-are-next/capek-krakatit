@@ -1,8 +1,9 @@
 ---
+title: XXIV.
 contentType: prose
 ---
 
-## XXIV.
+  
 
 Prokop se coural po parku mrze se na cosi a nevyspale zívaje. Divil se, co s ním vlastně chtějí, a měřil s nelibostí své boty podobné vojenským bagančatům i své unošené nohavice. Ponořen v tyto myšlenky divže nevlezl až doprostřed tenisového hřiště, kde princezna hrála se dvěma panáky v bílých šatech. Uhnul rychle a pustil se směrem, kde předpokládal konec parku. Nu, na této straně končil se pak park jakousi terasou: kamenná balustrádka a kolmo dolů zeď nějakých dvanáct metrů vysoká. Možno se pokochat vyhlídkou na borové lesíky a na vojáčka, který dole přechází s nasazeným bajonetem.
 

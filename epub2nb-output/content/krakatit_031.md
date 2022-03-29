@@ -1,8 +1,9 @@
 ---
+title: XXVI.
 contentType: prose
 ---
 
-## XXVI.
+  
 
 Prokop čekal, kdoví co že bude následovat po oné noci; nenásledovalo nic, či spíše následoval ho onen člověk s lulkou – jediný, kterého se Prokop jaksi bál. Ten člověk se jmenoval Holz, – jméno, jež povídalo velmi málo o jeho tiché a bdělé podstatě. Kamkoliv se Prokop hnul, pohyboval se svých pět kroků za nim; Prokopa to divoce dráždilo a týral ho po celý den způsobem nejrafinovanějším: například pobíhal sem tam, sem tam po krátké cestičce padesátkrát a stokrát, čekaje, že pana Holze omrzí udělat vždycky po dvaceti krocích čelem vzad; pana Holze to však neomrzelo. I jal se Prokop utíkat a běžel třikrát round celým parkem; pan Holz mlčky uháněl za ním a ani nepřestal pouštět obláčky kouře, zatímco Prokop se udýchal, až to v něm hvízdalo.
 

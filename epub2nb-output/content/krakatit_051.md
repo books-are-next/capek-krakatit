@@ -1,8 +1,9 @@
 ---
+title: XLVI.
 contentType: prose
 ---
 
-## XLVI.
+  
 
 Stanul a naslouchal trna hrůzou, zda nezaslechne praskot vozu roztříštěného někde v zákrutu silnice. Není to výbušné hučení motoru z dálky? Není to děsné a smrtelné ticho konce? Bez sebe uháněl Prokop po silnici za ní. Seběhl serpentinou dolů, k patě svahu; ani památky po voze. Utíkal opět nahoru, pátral po úbočích, slézal drásaje si ruce, kde rozeznával něco temného nebo světlého; bylo to hloží nebo kamení, a tu opět klopýtal a drápal se na silnici a zarýval se očima do tmy, zda… zda není někde hromada trosek, a pod ní…
 

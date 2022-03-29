@@ -1,8 +1,9 @@
 ---
+title: XXXVII.
 contentType: prose
 ---
 
-## XXXVII.
+  
 
 Když doběhl k laboratoři, chtěl zavřít Holzovi dveře před nosem, aby se uvnitř opevnil; ale panu Holzovi se povedlo ještě včas zašeptat: „Princezna.“
 

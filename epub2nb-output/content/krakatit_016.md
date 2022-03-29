@@ -1,8 +1,9 @@
 ---
+title: XI.
 contentType: prose
 ---
 
-## XI.
+  
 
 Té noci se mu zdálo, že studuje veleučený článek v The Chemist. Zarazil se u vzorce AnCi a nevěděl si s ním rady; hloubal, kousal se do kloubů a najednou pochopil, že to znamená Anči. A vida, ona je vlastně tady a posmívá se mu s pažemi založenými za hlavou; přistoupil k ní, chytil ji oběma rukama a začal ji líbat a kousat do úst. Anči se divoce brání koleny a lokty; drží ji brutálně a jednou rukou z ní trhá šaty v dlouhých pásech. Už cítí dlaněmi její mladé maso; Anči sebou zběsile zmítá, vlasy padly jí přes tvář, teď, teď náhle ochabuje a klesá; Prokop se vrhá k ní, ale nalézá pod rukama jen samé dlouhé hadříky a fáče; trhá je, rve je, chce se z nich vyprostit, a probouzí se.
 

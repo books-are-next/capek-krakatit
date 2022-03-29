@@ -1,8 +1,9 @@
 ---
+title: XII.
 contentType: prose
 ---
 
-## XII.
+  
 
 Hned ráno ji zastihl, jak drhne mydlinkami Honzíka v neckách; psisko zoufale vytřepávalo vodu, ale Anči se nedala, držela ho za čupřiny a náruživě mydlila, postříkaná, zmáčená na břiše a usmátá. „Pozor,“ křičela z dálky, „postříká vás!“ Vypadala jako mladá nadšená maminka; oj bože, jak je vše prosté a jasné na tomto slunném světě!
 

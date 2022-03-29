@@ -1,8 +1,9 @@
 ---
+title: XXX.
 contentType: prose
 ---
 
-## XXX.
+  
 
 Pan Carson běžel napřed k místu výbuchu. Princezna – patrně schválně – se opozdila; Prokop myslel, že mu chce něco říci, ale ona jen ukázala prstem na tváři: pozor, tady – Prokop si rychle sáhl na tvář; našel tam krvavé stopy jejího kousnutí, i zvedl hrst hlíny a rozmazal si ji po líci, jako by ho při výbuchu zasáhla hrouda.
 
@@ -24,7 +25,11 @@ Prokopovi pukalo srdce náhlou přemírou něžnosti. „Kdy,“ bručel, „kdy
 
 Jejich prsty se palčivě spletly; nevěda o tom táhl ji k sobě. „Nesmíš, teď nesmíš,“ zasykla a ožehla ho plamenným pohledem.
 
+  
+
 Jinaké větší škody pokusný výbuch Vicitu nezpůsobil. Shodilo to jen několik komínů na blízkých barácích a vyrazily se tlakem vzduchu nějaké okenní tabulky. Také velké vitráže v pokoji knížete Hagena pukly; v tu chvíli se chromý pán namáhavě vztyčil a stoje, jako voják, očekával další katastrofu.
+
+  
 
 Společnost v panském křídle seděla po večeři u černé kávy, když vešel Prokop rovnou hledaje očima princeznu; nemohl už snést řeřavá muka pochybností. Princezna zbledla; ale žoviální strýček Rohn se hned Prokopa ujal a gratuloval mu ke skvělému výkonu a kdesi cosi. Dokonce nadutý Suwalski se vyptával se zájmem, je-li to pravda, že pán může každou věc obrátit v třaskavinu. „Dejme tomu takový cukr,“ opakoval pořád, a žasl, když Prokop zabručel, že cukrem se střílelo už dávno za Veliké války. Po jistou dobu byl Prokop vůbec středem zájmu; ale koktal, odbýval všechny otázky a za živého boha nerozuměl povzbuzujícím pohledům princezniným; jen je chytal svýma krvavýma očima s děsnou pozorností. Princezna byla jako na trní.
 

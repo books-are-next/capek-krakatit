@@ -1,8 +1,9 @@
 ---
+title: XLI.
 contentType: prose
 ---
 
-## XLI.
+  
 
 Ráno se Krafft probudil teprve Paulovým kukáním; chtěl vyskočit, ale byl úplně zdřevěnělý, neboť celou noc mrzl a spal stočen jako pes. Když se konečně jakžtakž sebral, shledal, že je Prokop pryč; a jedna lodička z jejich flotily se kolébala u břehu. Měl velikou úzkost o svého vůdce, byl by ho šel hledat, ale bál se opustit pevnost tak dobře vybudovanou. I zlepšoval na ní, co ještě mohl, a vyhlížel krátkozrakýma očima Prokopa.
 

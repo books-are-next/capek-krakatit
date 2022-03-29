@@ -1,8 +1,9 @@
 ---
+title: XVI.
 contentType: prose
 ---
 
-## XVI.
+  
 
 Nalézti Tomše: lidi, jako by tohle bylo tak lehké! Prokop provedl znovu generální prohlídku celého bytu; řádil ve všech skříních i zásuvkách, nenacházeje krom prašiviny starých účtů, milostných dopisů, fotografií a jiného mládeneckého neřádu nic, co by jakkoliv osvětlilo Tomšovu záležitost. Nu ovšem, má-li někdo tolik másla na hlavě, dovede už důkladně zmizet!
 

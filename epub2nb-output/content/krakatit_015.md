@@ -1,8 +1,9 @@
 ---
+title: X.
 contentType: prose
 ---
 
-## X.
+  
 
 Nuže, bylo lépe; den za dnem se Prokopovi vracel život drobnými krůčky. Cítil jen malátnost hlavy, bylo mu stále trochu jako ve snách. Nezbývalo než poděkovat doktorovi a jeti po svém. Chtěl to ohlásit jednou po večeři, ale zrovna všichni mlčeli jako zařezaní. A pak vzal starý doktor Prokopa pod paží a dovedl si ho do ordinace; po nějakém okolkování vyhrkl s rozpačitou hrubostí, že jako Prokop nemusí odjíždět, ať raději odpočívá, že nemá ještě vyhráno, a vůbec ať si tu zůstane a dost. Prokop se matně bránil; faktum ovšem bylo, že se ještě necítil v sedle a že se poněkud rozmazlil. Zkrátka o odjezdu nebylo zatím řeči.
 

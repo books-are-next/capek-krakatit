@@ -1,8 +1,9 @@
 ---
+title: XLVII.
 contentType: prose
 ---
 
-## XLVII.
+  
 
 Daimon přitáhl židli k Prokopovi a usedl.
 

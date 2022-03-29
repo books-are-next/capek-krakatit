@@ -1,8 +1,9 @@
 ---
+title: III.
 contentType: prose
 ---
 
-## III.
+  
 
 Zdálo se mu, že slyší hukot jakoby nesčetných kol. „To je nějaká továrna,“ myslel si a běžel po schodech nahoru. Zničehonic se ocitl před velikými dveřmi, kde stálo na skleněné tabulce: Plinius. Zaradoval se nesmírně a vešel dovnitř. „Je tu pan Plinius?“ ptal se nějaké slečinky u psacího stroje. „Hned přijde,“ řekla slečinka, a tu k němu přistoupil vysoký oholený muž v cutawayi a s ohromnými kruhovými skly na očích. „Co si přejete?“ řekl.
 

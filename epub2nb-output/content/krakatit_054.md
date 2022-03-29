@@ -1,8 +1,9 @@
 ---
+title: XLIX.
 contentType: prose
 ---
 
-## XLIX.
+  
 
 Bylo chvíli rozpačité ticho.
 

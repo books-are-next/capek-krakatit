@@ -1,8 +1,9 @@
 ---
+title: XXIII.
 contentType: prose
 ---
 
-## XXIII.
+  
 
 Rozhodlo se to bohužel jinak, než mínil.
 

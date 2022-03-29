@@ -1,8 +1,9 @@
 ---
+title: XXIX.
 contentType: prose
 ---
 
-## XXIX.
+  
 
 Prokopa dráždila a znepokojovala ta silná ženská vůně, když pracoval skloněn nad krabičkou pudru; bylo mu, jako by sama princezna byla v laboratoři a nahýbala se nad jeho ramenem.
 

@@ -1,8 +1,9 @@
 ---
+title: LII.
 contentType: prose
 ---
 
-## LII.
+  
 
 Divně se točí dráhy světa. Kdybys sčetl všechny své kroky a cesty, jakou složitou podobu by to nakreslilo? Neboť svými kroky rýsuje každý svou mapu země.
 

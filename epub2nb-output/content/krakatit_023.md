@@ -1,8 +1,9 @@
 ---
+title: XVIII.
 contentType: prose
 ---
 
-## XVIII.
+  
 
 Pan Carson si sedl a zapálil si velmi tlusté cigáro, načež usilovně přemítal. „Tjaja,“ řekl po chvíli. „Tak vám to taky vybuchlo. Kdy to bylo? Datum.“
 

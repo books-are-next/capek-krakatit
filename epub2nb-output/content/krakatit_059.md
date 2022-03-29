@@ -1,8 +1,9 @@
 ---
+title: LIV.
 contentType: prose
 ---
 
-## LIV.
+  
 
 Prokopovi bylo, jako by jeli mírnou krajinou jeho dětství; ale bylo příliš mlhy, a světélko dosahovalo stěží po kraj cesty mžikavými kmity; po obou stranách silnice pak byl svět neznámý a zamlklý.
 

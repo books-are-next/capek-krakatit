@@ -1,8 +1,9 @@
 ---
+title: XXVII.
 contentType: prose
 ---
 
-## XXVII.
+  
 
 Nuže, po bouřce s Carsonem jako by se vyčistil vzduch. Prokop sice prohlásil, že při nejbližší příležitosti uteče, ale zavázal se čestným slovem, že až do té doby se zdrží všech násilností a výstrah; za to byl pan Holz odsunut do vzdálenosti patnácti kroků a Prokopovi dovoleno v jeho průvodu se volně pohybovat v okruhu čtyř kilometrů od sedmi ráno do sedmi večer, spát v laboratoři a stravovat se, kde mu libo. Naproti tomu však nasadil mu Carson přímo do laboratoře ženu s dvěma dětmi, náhodou zrovna vdovu po dělníkovi zabitém při výbuchu Krakatitu, jako jisté morální rukojemství proti jakékoliv (řekněme) neopatrnosti. Krom toho vysazen Prokopovi znamenitý plat ve zlatě a necháno mu na vůli, aby se prozatím bavil nebo zaměstnával, jak mu libo.
 

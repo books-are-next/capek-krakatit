@@ -1,0 +1,1250 @@
+{
+  "author": "Karel Čapek",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "capek-krakatit-b4d8178",
+  "languagecode": "cs",
+  "modified": "2017-10-16T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Krakatit",
+  "revision": "b4d8178",
+  "generatedAt": {
+    "date": "Tue Mar 29 2022 08:05:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648541107200
+  },
+  "documents": [
+    {
+      "title": "Krakatit",
+      "file": "krakatit_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krakatit_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předmluva • Krakatit",
+      "file": "krakatit_005.html",
+      "words": 141,
+      "chars": 931,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "krakatit_002.html",
+      "next": "krakatit_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předmluva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I. • Krakatit",
+      "file": "krakatit_006.html",
+      "words": 1018,
+      "chars": 5707,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 2,
+      "prev": "krakatit_005.html",
+      "next": "krakatit_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II. • Krakatit",
+      "file": "krakatit_007.html",
+      "words": 988,
+      "chars": 5645,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 3,
+      "prev": "krakatit_006.html",
+      "next": "krakatit_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. • Krakatit",
+      "file": "krakatit_008.html",
+      "words": 1924,
+      "chars": 11528,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 4,
+      "prev": "krakatit_007.html",
+      "next": "krakatit_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV. • Krakatit",
+      "file": "krakatit_009.html",
+      "words": 1479,
+      "chars": 8372,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 5,
+      "prev": "krakatit_008.html",
+      "next": "krakatit_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V. • Krakatit",
+      "file": "krakatit_010.html",
+      "words": 1131,
+      "chars": 6510,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 6,
+      "prev": "krakatit_009.html",
+      "next": "krakatit_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI. • Krakatit",
+      "file": "krakatit_011.html",
+      "words": 1330,
+      "chars": 7706,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 7,
+      "prev": "krakatit_010.html",
+      "next": "krakatit_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII. • Krakatit",
+      "file": "krakatit_012.html",
+      "words": 1278,
+      "chars": 7524,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 8,
+      "prev": "krakatit_011.html",
+      "next": "krakatit_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII. • Krakatit",
+      "file": "krakatit_013.html",
+      "words": 1211,
+      "chars": 7005,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 9,
+      "prev": "krakatit_012.html",
+      "next": "krakatit_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX. • Krakatit",
+      "file": "krakatit_014.html",
+      "words": 970,
+      "chars": 5943,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 10,
+      "prev": "krakatit_013.html",
+      "next": "krakatit_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X. • Krakatit",
+      "file": "krakatit_015.html",
+      "words": 1134,
+      "chars": 6647,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 11,
+      "prev": "krakatit_014.html",
+      "next": "krakatit_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI. • Krakatit",
+      "file": "krakatit_016.html",
+      "words": 2107,
+      "chars": 11876,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 12,
+      "prev": "krakatit_015.html",
+      "next": "krakatit_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII. • Krakatit",
+      "file": "krakatit_017.html",
+      "words": 2346,
+      "chars": 13459,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 13,
+      "prev": "krakatit_016.html",
+      "next": "krakatit_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII. • Krakatit",
+      "file": "krakatit_018.html",
+      "words": 1520,
+      "chars": 8650,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 14,
+      "prev": "krakatit_017.html",
+      "next": "krakatit_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV. • Krakatit",
+      "file": "krakatit_019.html",
+      "words": 1171,
+      "chars": 6901,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 15,
+      "prev": "krakatit_018.html",
+      "next": "krakatit_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV. • Krakatit",
+      "file": "krakatit_020.html",
+      "words": 1223,
+      "chars": 7395,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 16,
+      "prev": "krakatit_019.html",
+      "next": "krakatit_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI. • Krakatit",
+      "file": "krakatit_021.html",
+      "words": 1208,
+      "chars": 7373,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 17,
+      "prev": "krakatit_020.html",
+      "next": "krakatit_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII. • Krakatit",
+      "file": "krakatit_022.html",
+      "words": 1397,
+      "chars": 8284,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 18,
+      "prev": "krakatit_021.html",
+      "next": "krakatit_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII. • Krakatit",
+      "file": "krakatit_023.html",
+      "words": 1420,
+      "chars": 8384,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 19,
+      "prev": "krakatit_022.html",
+      "next": "krakatit_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX. • Krakatit",
+      "file": "krakatit_024.html",
+      "words": 1006,
+      "chars": 6150,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 20,
+      "prev": "krakatit_023.html",
+      "next": "krakatit_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX. • Krakatit",
+      "file": "krakatit_025.html",
+      "words": 1344,
+      "chars": 8341,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 21,
+      "prev": "krakatit_024.html",
+      "next": "krakatit_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI. • Krakatit",
+      "file": "krakatit_026.html",
+      "words": 1082,
+      "chars": 6661,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 22,
+      "prev": "krakatit_025.html",
+      "next": "krakatit_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII. • Krakatit",
+      "file": "krakatit_027.html",
+      "words": 1169,
+      "chars": 6829,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 23,
+      "prev": "krakatit_026.html",
+      "next": "krakatit_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIII. • Krakatit",
+      "file": "krakatit_028.html",
+      "words": 1489,
+      "chars": 9002,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 24,
+      "prev": "krakatit_027.html",
+      "next": "krakatit_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIV. • Krakatit",
+      "file": "krakatit_029.html",
+      "words": 2394,
+      "chars": 14145,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 25,
+      "prev": "krakatit_028.html",
+      "next": "krakatit_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXV. • Krakatit",
+      "file": "krakatit_030.html",
+      "words": 1309,
+      "chars": 7767,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 26,
+      "prev": "krakatit_029.html",
+      "next": "krakatit_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVI. • Krakatit",
+      "file": "krakatit_031.html",
+      "words": 1246,
+      "chars": 7577,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 27,
+      "prev": "krakatit_030.html",
+      "next": "krakatit_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVII. • Krakatit",
+      "file": "krakatit_032.html",
+      "words": 1762,
+      "chars": 10764,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 28,
+      "prev": "krakatit_031.html",
+      "next": "krakatit_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXVIII. • Krakatit",
+      "file": "krakatit_033.html",
+      "words": 1648,
+      "chars": 10204,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 29,
+      "prev": "krakatit_032.html",
+      "next": "krakatit_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXIX. • Krakatit",
+      "file": "krakatit_034.html",
+      "words": 1368,
+      "chars": 8131,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 30,
+      "prev": "krakatit_033.html",
+      "next": "krakatit_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXX. • Krakatit",
+      "file": "krakatit_035.html",
+      "words": 1500,
+      "chars": 8994,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 31,
+      "prev": "krakatit_034.html",
+      "next": "krakatit_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXI. • Krakatit",
+      "file": "krakatit_036.html",
+      "words": 1853,
+      "chars": 10887,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 32,
+      "prev": "krakatit_035.html",
+      "next": "krakatit_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXII. • Krakatit",
+      "file": "krakatit_037.html",
+      "words": 1272,
+      "chars": 7615,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 33,
+      "prev": "krakatit_036.html",
+      "next": "krakatit_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIII. • Krakatit",
+      "file": "krakatit_038.html",
+      "words": 1442,
+      "chars": 8115,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 34,
+      "prev": "krakatit_037.html",
+      "next": "krakatit_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIV. • Krakatit",
+      "file": "krakatit_039.html",
+      "words": 1670,
+      "chars": 10097,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 35,
+      "prev": "krakatit_038.html",
+      "next": "krakatit_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXV. • Krakatit",
+      "file": "krakatit_040.html",
+      "words": 1414,
+      "chars": 7863,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 36,
+      "prev": "krakatit_039.html",
+      "next": "krakatit_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVI. • Krakatit",
+      "file": "krakatit_041.html",
+      "words": 1302,
+      "chars": 7590,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 37,
+      "prev": "krakatit_040.html",
+      "next": "krakatit_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVII. • Krakatit",
+      "file": "krakatit_042.html",
+      "words": 1129,
+      "chars": 6796,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 38,
+      "prev": "krakatit_041.html",
+      "next": "krakatit_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXVIII. • Krakatit",
+      "file": "krakatit_043.html",
+      "words": 1311,
+      "chars": 8006,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 39,
+      "prev": "krakatit_042.html",
+      "next": "krakatit_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXXIX. • Krakatit",
+      "file": "krakatit_044.html",
+      "words": 1517,
+      "chars": 9164,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 40,
+      "prev": "krakatit_043.html",
+      "next": "krakatit_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXXIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XL. • Krakatit",
+      "file": "krakatit_045.html",
+      "words": 1387,
+      "chars": 8288,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 41,
+      "prev": "krakatit_044.html",
+      "next": "krakatit_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XL.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLI. • Krakatit",
+      "file": "krakatit_046.html",
+      "words": 1513,
+      "chars": 8694,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 42,
+      "prev": "krakatit_045.html",
+      "next": "krakatit_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLII. • Krakatit",
+      "file": "krakatit_047.html",
+      "words": 1559,
+      "chars": 9082,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 43,
+      "prev": "krakatit_046.html",
+      "next": "krakatit_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIII. • Krakatit",
+      "file": "krakatit_048.html",
+      "words": 1618,
+      "chars": 9531,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 44,
+      "prev": "krakatit_047.html",
+      "next": "krakatit_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIV. • Krakatit",
+      "file": "krakatit_049.html",
+      "words": 1600,
+      "chars": 9018,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 45,
+      "prev": "krakatit_048.html",
+      "next": "krakatit_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLV. • Krakatit",
+      "file": "krakatit_050.html",
+      "words": 1744,
+      "chars": 10094,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 46,
+      "prev": "krakatit_049.html",
+      "next": "krakatit_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVI. • Krakatit",
+      "file": "krakatit_051.html",
+      "words": 1516,
+      "chars": 9008,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 47,
+      "prev": "krakatit_050.html",
+      "next": "krakatit_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVII. • Krakatit",
+      "file": "krakatit_052.html",
+      "words": 1033,
+      "chars": 6285,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 48,
+      "prev": "krakatit_051.html",
+      "next": "krakatit_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLVIII. • Krakatit",
+      "file": "krakatit_053.html",
+      "words": 1343,
+      "chars": 8167,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 49,
+      "prev": "krakatit_052.html",
+      "next": "krakatit_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLVIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XLIX. • Krakatit",
+      "file": "krakatit_054.html",
+      "words": 1363,
+      "chars": 8028,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 50,
+      "prev": "krakatit_053.html",
+      "next": "krakatit_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XLIX.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "L. • Krakatit",
+      "file": "krakatit_055.html",
+      "words": 1469,
+      "chars": 8558,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 51,
+      "prev": "krakatit_054.html",
+      "next": "krakatit_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "L.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LI. • Krakatit",
+      "file": "krakatit_056.html",
+      "words": 1709,
+      "chars": 9756,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 52,
+      "prev": "krakatit_055.html",
+      "next": "krakatit_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LI.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LII. • Krakatit",
+      "file": "krakatit_057.html",
+      "words": 1662,
+      "chars": 9742,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 53,
+      "prev": "krakatit_056.html",
+      "next": "krakatit_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIII. • Krakatit",
+      "file": "krakatit_058.html",
+      "words": 1281,
+      "chars": 7508,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 54,
+      "prev": "krakatit_057.html",
+      "next": "krakatit_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIII.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "LIV. • Krakatit",
+      "file": "krakatit_059.html",
+      "words": 1708,
+      "chars": 9957,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 55,
+      "prev": "krakatit_058.html",
+      "next": "krakatit_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "LIV.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Krakatit",
+      "file": "krakatit_060.html",
+      "words": 77,
+      "chars": 616,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 56,
+      "prev": "krakatit_059.html",
+      "next": "krakatit_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Krakatit",
+      "file": "krakatit_061.html",
+      "words": 293,
+      "chars": 2024,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 57,
+      "prev": "krakatit_060.html",
+      "next": "krakatit_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První vydání knih Karla Čapka • Krakatit",
+      "file": "krakatit_062.html",
+      "words": 233,
+      "chars": 1155,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 58,
+      "prev": "krakatit_061.html",
+      "next": "krakatit_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První vydání knih Karla Čapka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Krakatit",
+      "file": "krakatit_063.html",
+      "words": 427,
+      "chars": 2668,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 59,
+      "prev": "krakatit_062.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Krakatit",
+      "file": "colophon.html",
+      "words": 130,
+      "chars": 872,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "krakatit_063.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 78893,
+      "chars": 465619,
+      "ideas": 2113
+    },
+    "chapters": {
+      "words": 78758,
+      "chars": 464717,
+      "ideas": 2086
+    }
+  }
+}

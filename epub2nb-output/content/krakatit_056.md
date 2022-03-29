@@ -1,8 +1,9 @@
 ---
+title: LI.
 contentType: prose
 ---
 
-## LI.
+  
 
 Daimon spěchal, aby už byl doma. „Kde je vlastně Grottup?“ zeptal se Prokop zčistajasna, když už byli dole.
 

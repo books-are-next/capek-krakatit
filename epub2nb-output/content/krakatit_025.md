@@ -1,8 +1,9 @@
 ---
+title: XX.
 contentType: prose
 ---
 
-## XX.
+  
 
 Den nato se probudil Prokop se strašně těžkou hlavou a nemohl zprvu pochopit, kde vlastně je; čekal, že uslyší kvokání slepic nebo hlaholné vyštěkávání Honzíkovo. Pomalu si uvědomoval, že už není v Týnici; že leží v hotelu, kam jej pan Carson dopravil opilého do bezvědomí, nalitého, řvoucího jako zvíře; ale teprve když si pustil na hlavu proud studené vody, upamatoval se na celý včerejšek a byl by se propadl hanbou.
 
@@ -12,11 +13,19 @@ Pak ho, křičícího „Krakatit“, vsadili do auta. Ďas ví, kam ho vezli; u
 
 S mračným znechucením studoval Prokop v zrcadle svou odřenou tvář. Z té trapné podívané ho vyrušil vrátný hotelu, jenž mu – s patřičnými omluvami – přinášel k vyplnění přihlašovací list. Prokop vyplnil své nacionále a doufal, že tím je věc odbyta; ale sotva si vrátný přečetl jeho jméno a stav, oživl náramně a prosil Prokopa, aby teď neodcházel; že prý jeden pán z ciziny si vyžádal, aby mu hned z hotelu zatelefonovali, kdyby se tam pan inženýr Prokop snad ráčil ubytovat. Jestli tedy pan inženýr dovolí atd. Pan inženýr byl tak rozlícen na sebe sama, že by byl dovolil i to, aby mu uřízli krk. Sedl si tedy a čekal, trpně odevzdán ve své bolení hlavy. Za čtvrt hodiny tu byl vrátný zas a odevzdával navštívenku. Bylo na ní:
 
+  
+
 SIR REGINALD CARSON
+
+  
 
 Col. B. A., M. R. A., M. P., D. S. etc.
 
+  
+
 President of Marconi’s Wireless Co
+
+  
 
 LONDON
 
@@ -69,6 +78,8 @@ Sir Reginald Carson ho zarazil. „Fantazie,“ řekl s politováním, „čiré
 Zaklepáno. „Vstupte,“ řekl Prokop, a vešel sklepník s vizitkou: „Nějaký pán prosí –“
 
 Na vizitce stálo:
+
+  
 
 ING. CARSON, Balttin
 
