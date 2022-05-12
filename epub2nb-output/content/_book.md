@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - krakatit_002.html
+  - promo.html
   - krakatit_005.html
   - krakatit_006.html
   - krakatit_007.html

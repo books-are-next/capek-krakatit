@@ -1,22 +1,86 @@
 {
-  "author": "Karel Čapek",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "capek-krakatit-f4a86b0",
-  "languagecode": "cs",
-  "modified": "2017-10-16T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Krakatit",
-  "revision": "f4a86b0",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-krakatit-c8f4b1e",
+  "revision": "c8f4b1e",
+  "readingOrder": [
+    "promo.html",
+    "krakatit_005.html",
+    "krakatit_006.html",
+    "krakatit_007.html",
+    "krakatit_008.html",
+    "krakatit_009.html",
+    "krakatit_010.html",
+    "krakatit_011.html",
+    "krakatit_012.html",
+    "krakatit_013.html",
+    "krakatit_014.html",
+    "krakatit_015.html",
+    "krakatit_016.html",
+    "krakatit_017.html",
+    "krakatit_018.html",
+    "krakatit_019.html",
+    "krakatit_020.html",
+    "krakatit_021.html",
+    "krakatit_022.html",
+    "krakatit_023.html",
+    "krakatit_024.html",
+    "krakatit_025.html",
+    "krakatit_026.html",
+    "krakatit_027.html",
+    "krakatit_028.html",
+    "krakatit_029.html",
+    "krakatit_030.html",
+    "krakatit_031.html",
+    "krakatit_032.html",
+    "krakatit_033.html",
+    "krakatit_034.html",
+    "krakatit_035.html",
+    "krakatit_036.html",
+    "krakatit_037.html",
+    "krakatit_038.html",
+    "krakatit_039.html",
+    "krakatit_040.html",
+    "krakatit_041.html",
+    "krakatit_042.html",
+    "krakatit_043.html",
+    "krakatit_044.html",
+    "krakatit_045.html",
+    "krakatit_046.html",
+    "krakatit_047.html",
+    "krakatit_048.html",
+    "krakatit_049.html",
+    "krakatit_050.html",
+    "krakatit_051.html",
+    "krakatit_052.html",
+    "krakatit_053.html",
+    "krakatit_054.html",
+    "krakatit_055.html",
+    "krakatit_056.html",
+    "krakatit_057.html",
+    "krakatit_058.html",
+    "krakatit_059.html",
+    "krakatit_060.html",
+    "krakatit_061.html",
+    "krakatit_062.html",
+    "krakatit_063.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 29 2022 08:24:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648542270478
+    "date": "Thu May 12 2022 10:41:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352077609
   },
   "documents": [
     {
-      "title": "Krakatit",
-      "file": "krakatit_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +88,17 @@
       "order": 0,
       "prev": null,
       "next": "krakatit_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Krakatit",
+      "title": "Předmluva",
       "file": "krakatit_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "krakatit_002.html",
+      "prev": "promo.html",
       "next": "krakatit_006.html",
       "toc": [
         {
@@ -55,7 +111,7 @@
       ]
     },
     {
-      "title": "I. • Krakatit",
+      "title": "I.",
       "file": "krakatit_006.html",
       "words": 1018,
       "chars": 5707,
@@ -75,7 +131,7 @@
       ]
     },
     {
-      "title": "II. • Krakatit",
+      "title": "II.",
       "file": "krakatit_007.html",
       "words": 988,
       "chars": 5645,
@@ -95,7 +151,7 @@
       ]
     },
     {
-      "title": "III. • Krakatit",
+      "title": "III.",
       "file": "krakatit_008.html",
       "words": 1924,
       "chars": 11528,
@@ -115,7 +171,7 @@
       ]
     },
     {
-      "title": "IV. • Krakatit",
+      "title": "IV.",
       "file": "krakatit_009.html",
       "words": 1479,
       "chars": 8372,
@@ -135,7 +191,7 @@
       ]
     },
     {
-      "title": "V. • Krakatit",
+      "title": "V.",
       "file": "krakatit_010.html",
       "words": 1131,
       "chars": 6510,
@@ -155,7 +211,7 @@
       ]
     },
     {
-      "title": "VI. • Krakatit",
+      "title": "VI.",
       "file": "krakatit_011.html",
       "words": 1330,
       "chars": 7706,
@@ -175,7 +231,7 @@
       ]
     },
     {
-      "title": "VII. • Krakatit",
+      "title": "VII.",
       "file": "krakatit_012.html",
       "words": 1278,
       "chars": 7524,
@@ -195,7 +251,7 @@
       ]
     },
     {
-      "title": "VIII. • Krakatit",
+      "title": "VIII.",
       "file": "krakatit_013.html",
       "words": 1211,
       "chars": 7005,
@@ -215,7 +271,7 @@
       ]
     },
     {
-      "title": "IX. • Krakatit",
+      "title": "IX.",
       "file": "krakatit_014.html",
       "words": 970,
       "chars": 5943,
@@ -235,7 +291,7 @@
       ]
     },
     {
-      "title": "X. • Krakatit",
+      "title": "X.",
       "file": "krakatit_015.html",
       "words": 1134,
       "chars": 6647,
@@ -255,7 +311,7 @@
       ]
     },
     {
-      "title": "XI. • Krakatit",
+      "title": "XI.",
       "file": "krakatit_016.html",
       "words": 2107,
       "chars": 11876,
@@ -275,7 +331,7 @@
       ]
     },
     {
-      "title": "XII. • Krakatit",
+      "title": "XII.",
       "file": "krakatit_017.html",
       "words": 2346,
       "chars": 13459,
@@ -295,7 +351,7 @@
       ]
     },
     {
-      "title": "XIII. • Krakatit",
+      "title": "XIII.",
       "file": "krakatit_018.html",
       "words": 1520,
       "chars": 8650,
@@ -315,7 +371,7 @@
       ]
     },
     {
-      "title": "XIV. • Krakatit",
+      "title": "XIV.",
       "file": "krakatit_019.html",
       "words": 1171,
       "chars": 6901,
@@ -335,7 +391,7 @@
       ]
     },
     {
-      "title": "XV. • Krakatit",
+      "title": "XV.",
       "file": "krakatit_020.html",
       "words": 1223,
       "chars": 7395,
@@ -355,7 +411,7 @@
       ]
     },
     {
-      "title": "XVI. • Krakatit",
+      "title": "XVI.",
       "file": "krakatit_021.html",
       "words": 1208,
       "chars": 7373,
@@ -375,7 +431,7 @@
       ]
     },
     {
-      "title": "XVII. • Krakatit",
+      "title": "XVII.",
       "file": "krakatit_022.html",
       "words": 1397,
       "chars": 8284,
@@ -395,7 +451,7 @@
       ]
     },
     {
-      "title": "XVIII. • Krakatit",
+      "title": "XVIII.",
       "file": "krakatit_023.html",
       "words": 1420,
       "chars": 8384,
@@ -415,7 +471,7 @@
       ]
     },
     {
-      "title": "XIX. • Krakatit",
+      "title": "XIX.",
       "file": "krakatit_024.html",
       "words": 1006,
       "chars": 6150,
@@ -435,7 +491,7 @@
       ]
     },
     {
-      "title": "XX. • Krakatit",
+      "title": "XX.",
       "file": "krakatit_025.html",
       "words": 1344,
       "chars": 8341,
@@ -455,7 +511,7 @@
       ]
     },
     {
-      "title": "XXI. • Krakatit",
+      "title": "XXI.",
       "file": "krakatit_026.html",
       "words": 1082,
       "chars": 6661,
@@ -475,7 +531,7 @@
       ]
     },
     {
-      "title": "XXII. • Krakatit",
+      "title": "XXII.",
       "file": "krakatit_027.html",
       "words": 1169,
       "chars": 6829,
@@ -495,7 +551,7 @@
       ]
     },
     {
-      "title": "XXIII. • Krakatit",
+      "title": "XXIII.",
       "file": "krakatit_028.html",
       "words": 1489,
       "chars": 9002,
@@ -515,7 +571,7 @@
       ]
     },
     {
-      "title": "XXIV. • Krakatit",
+      "title": "XXIV.",
       "file": "krakatit_029.html",
       "words": 2394,
       "chars": 14145,
@@ -535,7 +591,7 @@
       ]
     },
     {
-      "title": "XXV. • Krakatit",
+      "title": "XXV.",
       "file": "krakatit_030.html",
       "words": 1309,
       "chars": 7767,
@@ -555,7 +611,7 @@
       ]
     },
     {
-      "title": "XXVI. • Krakatit",
+      "title": "XXVI.",
       "file": "krakatit_031.html",
       "words": 1246,
       "chars": 7577,
@@ -575,7 +631,7 @@
       ]
     },
     {
-      "title": "XXVII. • Krakatit",
+      "title": "XXVII.",
       "file": "krakatit_032.html",
       "words": 1762,
       "chars": 10764,
@@ -595,7 +651,7 @@
       ]
     },
     {
-      "title": "XXVIII. • Krakatit",
+      "title": "XXVIII.",
       "file": "krakatit_033.html",
       "words": 1648,
       "chars": 10204,
@@ -615,7 +671,7 @@
       ]
     },
     {
-      "title": "XXIX. • Krakatit",
+      "title": "XXIX.",
       "file": "krakatit_034.html",
       "words": 1368,
       "chars": 8131,
@@ -635,7 +691,7 @@
       ]
     },
     {
-      "title": "XXX. • Krakatit",
+      "title": "XXX.",
       "file": "krakatit_035.html",
       "words": 1500,
       "chars": 8994,
@@ -655,7 +711,7 @@
       ]
     },
     {
-      "title": "XXXI. • Krakatit",
+      "title": "XXXI.",
       "file": "krakatit_036.html",
       "words": 1853,
       "chars": 10887,
@@ -675,7 +731,7 @@
       ]
     },
     {
-      "title": "XXXII. • Krakatit",
+      "title": "XXXII.",
       "file": "krakatit_037.html",
       "words": 1272,
       "chars": 7615,
@@ -695,7 +751,7 @@
       ]
     },
     {
-      "title": "XXXIII. • Krakatit",
+      "title": "XXXIII.",
       "file": "krakatit_038.html",
       "words": 1442,
       "chars": 8115,
@@ -715,7 +771,7 @@
       ]
     },
     {
-      "title": "XXXIV. • Krakatit",
+      "title": "XXXIV.",
       "file": "krakatit_039.html",
       "words": 1670,
       "chars": 10097,
@@ -735,7 +791,7 @@
       ]
     },
     {
-      "title": "XXXV. • Krakatit",
+      "title": "XXXV.",
       "file": "krakatit_040.html",
       "words": 1414,
       "chars": 7863,
@@ -755,7 +811,7 @@
       ]
     },
     {
-      "title": "XXXVI. • Krakatit",
+      "title": "XXXVI.",
       "file": "krakatit_041.html",
       "words": 1302,
       "chars": 7590,
@@ -775,7 +831,7 @@
       ]
     },
     {
-      "title": "XXXVII. • Krakatit",
+      "title": "XXXVII.",
       "file": "krakatit_042.html",
       "words": 1129,
       "chars": 6796,
@@ -795,7 +851,7 @@
       ]
     },
     {
-      "title": "XXXVIII. • Krakatit",
+      "title": "XXXVIII.",
       "file": "krakatit_043.html",
       "words": 1311,
       "chars": 8006,
@@ -815,7 +871,7 @@
       ]
     },
     {
-      "title": "XXXIX. • Krakatit",
+      "title": "XXXIX.",
       "file": "krakatit_044.html",
       "words": 1517,
       "chars": 9164,
@@ -835,7 +891,7 @@
       ]
     },
     {
-      "title": "XL. • Krakatit",
+      "title": "XL.",
       "file": "krakatit_045.html",
       "words": 1387,
       "chars": 8288,
@@ -855,7 +911,7 @@
       ]
     },
     {
-      "title": "XLI. • Krakatit",
+      "title": "XLI.",
       "file": "krakatit_046.html",
       "words": 1513,
       "chars": 8694,
@@ -875,7 +931,7 @@
       ]
     },
     {
-      "title": "XLII. • Krakatit",
+      "title": "XLII.",
       "file": "krakatit_047.html",
       "words": 1559,
       "chars": 9082,
@@ -895,7 +951,7 @@
       ]
     },
     {
-      "title": "XLIII. • Krakatit",
+      "title": "XLIII.",
       "file": "krakatit_048.html",
       "words": 1618,
       "chars": 9531,
@@ -915,7 +971,7 @@
       ]
     },
     {
-      "title": "XLIV. • Krakatit",
+      "title": "XLIV.",
       "file": "krakatit_049.html",
       "words": 1600,
       "chars": 9018,
@@ -935,7 +991,7 @@
       ]
     },
     {
-      "title": "XLV. • Krakatit",
+      "title": "XLV.",
       "file": "krakatit_050.html",
       "words": 1744,
       "chars": 10094,
@@ -955,7 +1011,7 @@
       ]
     },
     {
-      "title": "XLVI. • Krakatit",
+      "title": "XLVI.",
       "file": "krakatit_051.html",
       "words": 1516,
       "chars": 9008,
@@ -975,7 +1031,7 @@
       ]
     },
     {
-      "title": "XLVII. • Krakatit",
+      "title": "XLVII.",
       "file": "krakatit_052.html",
       "words": 1033,
       "chars": 6285,
@@ -995,7 +1051,7 @@
       ]
     },
     {
-      "title": "XLVIII. • Krakatit",
+      "title": "XLVIII.",
       "file": "krakatit_053.html",
       "words": 1343,
       "chars": 8167,
@@ -1015,7 +1071,7 @@
       ]
     },
     {
-      "title": "XLIX. • Krakatit",
+      "title": "XLIX.",
       "file": "krakatit_054.html",
       "words": 1363,
       "chars": 8028,
@@ -1035,7 +1091,7 @@
       ]
     },
     {
-      "title": "L. • Krakatit",
+      "title": "L.",
       "file": "krakatit_055.html",
       "words": 1469,
       "chars": 8558,
@@ -1055,7 +1111,7 @@
       ]
     },
     {
-      "title": "LI. • Krakatit",
+      "title": "LI.",
       "file": "krakatit_056.html",
       "words": 1709,
       "chars": 9756,
@@ -1075,7 +1131,7 @@
       ]
     },
     {
-      "title": "LII. • Krakatit",
+      "title": "LII.",
       "file": "krakatit_057.html",
       "words": 1662,
       "chars": 9742,
@@ -1095,7 +1151,7 @@
       ]
     },
     {
-      "title": "LIII. • Krakatit",
+      "title": "LIII.",
       "file": "krakatit_058.html",
       "words": 1281,
       "chars": 7508,
@@ -1115,7 +1171,7 @@
       ]
     },
     {
-      "title": "LIV. • Krakatit",
+      "title": "LIV.",
       "file": "krakatit_059.html",
       "words": 1708,
       "chars": 9957,
@@ -1135,7 +1191,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Krakatit",
+      "title": "Ediční poznámka",
       "file": "krakatit_060.html",
       "words": 77,
       "chars": 616,
@@ -1155,11 +1211,11 @@
       ]
     },
     {
-      "title": "Život\na doba spisovatele\nKarla Čapka v datech • Krakatit",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "krakatit_061.html",
       "words": 293,
-      "chars": 2024,
-      "ideas": 33,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 57,
       "prev": "krakatit_060.html",
@@ -1168,14 +1224,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život\na doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První vydání knih Karla Čapka • Krakatit",
+      "title": "První vydání knih Karla Čapka",
       "file": "krakatit_062.html",
       "words": 233,
       "chars": 1155,
@@ -1195,7 +1251,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Krakatit",
+      "title": "Poznámky pod čarou",
       "file": "krakatit_063.html",
       "words": 427,
       "chars": 2668,
@@ -1215,11 +1271,11 @@
       ]
     },
     {
-      "title": "Tiráž • Krakatit",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 130,
-      "chars": 872,
-      "ideas": 23,
+      "words": 102,
+      "chars": 689,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "krakatit_063.html",
@@ -1237,14 +1293,14 @@
   ],
   "totals": {
     "all": {
-      "words": 78893,
-      "chars": 465619,
-      "ideas": 2113
+      "words": 78865,
+      "chars": 465438,
+      "ideas": 2102
     },
     "chapters": {
       "words": 78758,
-      "chars": 464717,
-      "ideas": 2086
+      "chars": 464719,
+      "ideas": 2084
     }
   }
 }
