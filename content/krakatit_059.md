@@ -1,5 +1,5 @@
 ---
-title: LIV.
+title: LIV\.
 contentType: prose
 ---
 
