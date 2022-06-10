@@ -3,7 +3,7 @@ title: XLVIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Daimon spustil motor a skočil do vozu. „Hned tam budeme.“ Auto se sváželo s Hory Pokušení do širokého údolí, letělo němou nocí, přesmyklo se přes pokojné sedlo a stanulo před rozlehlým dřevěným domem mezi olšemi; vypadalo to jako starý mlýn. Daimon vyskočil z vozu a vedl Prokopa k dřevěným schodům; ale tam se jim postavil do cesty člověk s vyhrnutým límcem. „Heslo?“ ptal se. „I kuš,“ zahučel Daimon a strhl si automobilové brýle; člověk ustoupil a Daimon se hnal nahoru. Vešli do veliké nízké jizby, jež byla jako školní světnice: dvě řady lavic, pódium a katedra a tabule; jenomže tam bylo plno dýmu a výparů a křiku. Lavice byly přeplněny lidmi s klobouky na hlavách; všichni se hádali, na pódiu křičel rudovousý kolohnát, za katedrou stál suchý, pedantický stařík a zuřivě zvonil.
 
@@ -44,3 +44,5 @@ Zápasil se slovy, namáhal se obsáhnout něco nevýslovného; ztrácel to kaž
 „Prožil jsem,“ pokračoval tápavě a poněkud již rozdrážděn, „prožil jsem tolik… co člověk může prožít. Proč vám to říkám? Protože nemám dost na tom; protože… doposud nejsem vykoupen; nebylo v tom to nejvyšší. Je to… zapadlé v člověku jako ve hmotě síla. Hmotu musíš porušit, aby vydala svou sílu. Člověk se musí rozpoutat, a porušit, a roztříštit, aby vydal svůj nejvyšší plamen. Aá, to by… to by už bylo příliš, aby ani pak nenašel, že… že dosáhl… že… že…“
 
 Zakoktal se, zamračil se, hodil krabici s Krakatitem na katedru a usedl.
+
+</section>

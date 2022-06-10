@@ -3,7 +3,7 @@ title: XVI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Nalézti Tomše: lidi, jako by tohle bylo tak lehké! Prokop provedl znovu generální prohlídku celého bytu; řádil ve všech skříních i zásuvkách, nenacházeje krom prašiviny starých účtů, milostných dopisů, fotografií a jiného mládeneckého neřádu nic, co by jakkoliv osvětlilo Tomšovu záležitost. Nu ovšem, má-li někdo tolik másla na hlavě, dovede už důkladně zmizet!
 
@@ -54,3 +54,5 @@ Pan Carson vysunul zkoumavý pohled. „Nu,“ vycedil obezřele, „my o něm v
 „Co vlastně chcete?“ vydralo se z Prokopa.
 
 Tu sedl pan Carson na kavalec vedle něho, vzal ho nesmírně vřele za ruku a povídal najednou docela jiným hlasem: „Jen se neplašte. Můžete vydělat celou hromadu milionů.“
+
+</section>

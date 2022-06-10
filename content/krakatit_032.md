@@ -3,7 +3,7 @@ title: XXVII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Nuže, po bouřce s Carsonem jako by se vyčistil vzduch. Prokop sice prohlásil, že při nejbližší příležitosti uteče, ale zavázal se čestným slovem, že až do té doby se zdrží všech násilností a výstrah; za to byl pan Holz odsunut do vzdálenosti patnácti kroků a Prokopovi dovoleno v jeho průvodu se volně pohybovat v okruhu čtyř kilometrů od sedmi ráno do sedmi večer, spát v laboratoři a stravovat se, kde mu libo. Naproti tomu však nasadil mu Carson přímo do laboratoře ženu s dvěma dětmi, náhodou zrovna vdovu po dělníkovi zabitém při výbuchu Krakatitu, jako jisté morální rukojemství proti jakékoliv (řekněme) neopatrnosti. Krom toho vysazen Prokopovi znamenitý plat ve zlatě a necháno mu na vůli, aby se prozatím bavil nebo zaměstnával, jak mu libo.
 
@@ -30,3 +30,5 @@ Sotva zmizelo toto zjevení, ťuká někdo na dveře a pan Paul šeptá s nějak
 Princezna se zarděla tak, že by to nikdo do ní neřekl; až ji to samu zamrzelo a uvedlo do rozpaků. Nicméně se přemohla, a rázem je z ní vznešená hostitelka; hlásí, že přijede chirurg profesor, a ptá se, co si Prokop žádá k jídlu, ke čtení a podobně; ještě nařídí Paulovi, aby dvakrát denně jí podával zdravotní zprávu, jaksi z dálky urovná cosi na polštáři a s malým kývnutím hlavy odejde.
 
 Když zanedlouho přijel slavný chirurg autem, bylo mu několik hodin čekati, byť nad tím sebevíc kroutil hlavou. Pan inženýr Prokop totiž ráčil hluboce usnout.
+
+</section>

@@ -3,7 +3,7 @@ title: XXXIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Seděla na kavalci jako ztuhlá, s koleny až pod bradou, změtené vlasy proudem vrženy přes tvář a ruce stočeny kolem šíje jako v křeči. Hroze se toho, co učinil, páčil jí hlavu nazad, líbal kolena, ruce, vlasy, smýkal se po zemi, drtil prosby a laskání; neviděla a neslyšela. Zdálo se mu, že se otřásá odporem při každém jeho doteku; vlasy se mu lepily k čelu potem úzkosti, i běžel k hydrantu a pustil si na hlavu proud studené vody.
 
@@ -78,3 +78,5 @@ Zašeptal jí do ucha: „… Zítra?“
 Pohlédla na něho, a sklonila trpně hlavu; bylo to… přece jen přitakání.
 
 Vyšel až dlouho po ní do vlčího soumraku. Někdo se sto kroků dále zvedl se země a čistil si rukávem šaty. Mlčelivý pan Holz.
+
+</section>

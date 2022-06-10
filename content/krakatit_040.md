@@ -3,7 +3,7 @@ title: XXXV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Tlustý cousin měl pravdu: starého Hagena ranila z radosti mrtvice, ale nedorazila ho ještě; ležel bez vlády obklopen doktory a namáhal se otevřít levé oko. Narychlo byl přivolán oncle Rohn a jiné příbuzenstvo; starý kníže se stále pokoušel zvednout levé víčko, aby pohleděl na svou dceru a řekl jí cosi svým jediným živým okem.
 
@@ -25,7 +25,9 @@ Koně, koně, to mne zrovna opíjelo. Když mám koně, myslela jsem, že nepot�
 
 Vždycky se mi zdálo, že láska, víš, je něco sprostého a… hrozně ošklivého. Vidíš, teď se mi to už nezdá; a to mne právě tak děsí a pokořuje. A zas mne až těší, že jsem jako každá jiná. Když jsem byla malá, bála jsem se vody. Učili mne plavat na suchu, ale do rybníka jsem nešla; vymyslila jsem si, že tam jsou pavouci. A jednou to na mne přišlo, taková odvaha nebo zoufalství: zavřela jsem oči, udělala křížek a skočila. Neptej se, jak jsem byla potom pyšná; jako bych ve zkoušce obstála, jako bych všechno poznala, jako bych se celá změnila. Jako bych teprv teď vyspěla… Milý, milý, zapomněla jsem udělat křížek.“
 
-  
+</section>
+
+<section>
 
 Kvečeru přišla do laboratoře, neklidná a zaražená. Když ji vzal do náruče, koktala s hrůzou: „Otevřel oko, otevřel oko, oh!“ Myslela tím starého Hagena; odpoledne (neboť Prokop číhal jako blázen) měla dlouhý hovor s oncle Rohnem, ale nechtěla o tom mluvit. Vůbec zdálo se, že dychtí něčemu uniknout; vrhala se do Prokopova objetí tak žíznivě a oddaně, jako by se chtěla za každou cenu omámit do bezvědomí. Konečně strnula s očima zavřenýma, chabá jako věchýtek; myslel, že spí, ale tu počala šeptat: „Milý, nejmilejší, já něco provedu, já provedu něco hrozného; ale pak, pak mne už nesmíš opustit. Přísahej, přísahej mi,“ drtila divoce a vyskočila, ale hned to zas přemohla. „Ach ne. Co bys mi mohl přísahat? V kartách mně vyšlo, že odejdeš. Chceš-li to udělat, udělej to, udělej to ještě teď, dokud není pozdě.“
 
@@ -44,3 +46,5 @@ Prudce k němu obrátila tvář. „Nač jsi teď myslel?“
 Uhnul plaše očima. Nemohl jí přece říci, že viděl před sebou tatarskou princeznu v její slávě, tvora veličenského a ztuhlého pýchou, a to že je ta, kterou i teď… kterou v muce a touze…
 
 „Nic, nic,“ zabručel nad pokorným a šťastným uzlíčkem na svých kolenou, a pohladil snědé líčko. Zapálilo se milostnou vášnivostí.
+
+</section>

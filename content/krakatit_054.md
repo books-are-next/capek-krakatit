@@ -3,7 +3,7 @@ title: XLIX\.
 contentType: prose
 ---
 
-  
+<section>
 
 Bylo chvíli rozpačité ticho.
 
@@ -84,3 +84,5 @@ Prokop dělal, jako by přeslechl jeho cynismus; ale spoutaný balík v jeho pa�
 Auto se protáčí spícím městečkem a klesá do širého kraje. „Tak co,“ obrací se Daimon, „co říkáte kamarádům?“
 
 „Tiše,“ šeptá nehybný Prokop „usnula.“
+
+</section>

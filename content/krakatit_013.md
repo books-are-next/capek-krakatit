@@ -3,7 +3,7 @@ title: VIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Někdo ho zatahal za rukáv. „Nu, nu,“ povídá ten někdo, „už bychom nemuseli spát, co?“ Prokop otevřel oči a viděl starého pána, má růžovou pleš a bílou bradu, zlaté brejličky na čele a náramně čilý koukej. „Už nespěte, velectěný,“ povídá, „už toho je dost; nebo se probudíte na onom světě.“
 
@@ -82,3 +82,5 @@ Někde venku se chraptivě a směšně rozkřikl mladý kohoutek. Najednou se ta
 „Já nevím, o čem povídat,“ řekla po chvíli s nejkrásnější prostotou. „Já vám přečtu noviny, chcete?“
 
 Prokop se usmál. A už tu byla s novinami a pustila se odvážně do úvodníku. Finanční rovnováha, státní rozpočet, nekrytý úvěr… Líbezný a nejistý hlásek odříkával klidně ty nesmírně vážné věci, a Prokopovi, jenž naprosto neposlouchal, bylo lépe, než kdyby hluboce spal.
+
+</section>

@@ -3,7 +3,7 @@ title: XXXIX\.
 contentType: prose
 ---
 
-  
+<section>
 
 Ráno se rozhodl nejít do parku; měl právem za to, že by tam překážel. Umístil se v poměrně úzké a polopusté končině, kde byla přímá cesta od zámku k laboratořím, proražená skrze starý zarostlý val. Vydrápal se na val, odkud, jakžtakž skryt, mohl vidět roh zámku a malou část parku. Místo se mu zalíbilo; zahrabal si tam několik svých ručních granátů a pozoroval střídavě park, chvátajícího střevlíka a vrabce na rozhoupaných větvičkách. Jednou tam slétla dokonce červenka, a Prokop bez dechu pozoroval její brunátné hrdélko; tíkla něco, mžikla ocasem a frr, pryč.
 
@@ -36,3 +36,5 @@ Mží chladně a protivně; co nyní? Rychle přezkoumal situaci; napadlo ho za�
 Nepřátelská strana nepodnikla žádný útok; patrně nechtěla, aby došlo ke skandálu za přítomnosti vznešeného hosta. Prokop si lámal hlavu, jak by mohl zámek vyhladovět; přeřízl sice telefonní vedení, ale zbývala ještě trojí vrátka, nepočítajíc cestu zahurským valem k závodům. Vzdal se tedy – byť nerad – plánu oblehnout zámek ze všech stran.
 
 Pršelo ustavičně. Princeznino okno se otevřelo, a světlá postavička psala rukou do vzduchu veliká písmena. Prokop nebyl s to je rozluštit, přesto však se postavil před domek a psal rovněž do vzduchu povzbuzující vzkazy, máchaje rukama jako větrník. Kvečeru přeběhl k povstalcům dr. Krafft; ve svém ušlechtilém zápalu zapomněl s sebou přinést jakoukoliv zbraň, takže tato posila byla spíše jen mravní. Večer se přišoural pan Paul a nesl v koši nádhernou studenou večeři a množství rudého a šampaňského vína; tvrdil, že ho nikdo s tím neposlal. Nicméně Prokop po něm naléhavě – neříkaje komu – vzkázal, „že děkuje a že se nevzdá“. Při bohatýrské večeři se dr. Krafft poprvé odhodlal pít víno, snad aby dokázal svou mužnost; následek toho byla na jeho místě blažená lunatická němota, zatímco Prokop a pan Holz se pustili do zpěvu válečných písní. Každý sice zpíval jiným jazykem a docela jinou písničku, ale zdálky, zejména potmě za šelestění drobného deště, to splývalo v souzvuk dosti strašlivý a chmurný. Někdo v zámku dokonce otevřel okno, aby poslouchal; pak se pokusil je zdálky doprovázet na klavíru, ale zvrhlo se to v Eroiku a potom v nesmyslné bouchání do kláves. Když zámek pohasl, zatarasil Holz dveře nesmírnou barikádou, a tři bohatýři pokojně usnuli. Probudil je teprve důtklivým boucháním pan Paul, když jim ráno nesl tři kávy pečlivě je rozlévaje po táce.
+
+</section>

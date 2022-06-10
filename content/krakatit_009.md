@@ -3,7 +3,7 @@ title: IV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Teď jsem něco vyžvanil, uvědomoval si Prokop jasnějším cípem mozku; ale jinak mu to bylo svrchovaně lhostejno; chtělo se mu jen spát, nesmírně spát. Viděl jakýsi turecký koberec, jehož vzor se bez konce přesunoval, prostupoval a měnil. Nebylo to nic, a přece ho to jaksi rozčilovalo; i ve spaní zatoužil vidět znovu Plinia. Snažil se vybavit si jeho podobu; místo toho měl před sebou ohavnou zešklebenou tvář, jež skřípala žlutými vyžranými zuby, až se drtily, a pak je po kouskách vyplivovala. Chtěl tomu uniknout; napadlo ho slovo „rybář“, a hle, zjevil se mu rybář nad šedivou vodou i s rybami v čeřenu; řekl si „lešení“, a viděl skutečné lešení do poslední skoby a vazby. Dlouho se bavil tím, že vymýšlel slova a pozoroval obrázky jimi promítnuté; ale pak, pak už si živou mocí nemohl na žádné slovo vzpomenout. Namáhal se usilovně, aby našel aspoň jedno jediné slovo nebo věc, ale marně; tu ho zalila hrůza bezmoci studeným potem. Musím postupovat metodicky, umínil si; začnu zas od začátku, nebo jsem ztracen. Šťastně si vzpomněl na slovo „rybář“, ale zjevil se mu hliněný prázdný galon od petroleje; bylo to děsné. Řekl si „židle“, a ukázal se mu s podivnou podrobností dehtovaný tovární plot s trochou smutné zaprášené trávy a rezavými obručemi. To je šílenství, řekl si s mrazivou jasností; to je, pánové, typická pomatenost, hyperofabula ugongi dugongi Darwin. Tu se mu tento odborný název zazdál neznámo proč ukrutně směšný, a dal se do hlasitého, zrovna zalykavého smíchu, jímž se probudil.
 
@@ -92,3 +92,5 @@ Prokop zasténal a otevřel oči. Je to Tomšova holka, řekl si se slepým vzte
 Tu ho napadla spásná myšlenka. Uteku domů, do svého laboratorního baráku tam nahoře. A ona, ať si sem přijde! ať si pak dělá, co chce! Ať – ať – ať si jede za ním sama, když… když jí na tom záleží –
 
 Rozhlédl se po pokoji; viděl zválenou postel, zastyděl se a ustlal ji, jak byl zvyklý doma. Pak se mu nezdála dost slušně ustlaná, přestlal ji, rovnal a hladil, a pak už rovnal všechno všudy, uklízel, pokoušel se pěkně zřasit i záclony, načež usedl s hlavou zmotanou a hrudí drcenou bolestným tlakem a čekal.
+
+</section>

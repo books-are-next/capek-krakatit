@@ -3,7 +3,7 @@ title: XIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Když svítalo, nemohl už vydržet doma: umínil si, že poběží natrhat květin; pak je položí na práh Ančiny ložnice, a až ona vyskočí… Okřídlen radostí vykradl se Prokop z domu málem už ve čtyři ráno. Lidi, je to krása; každý květ jiskří jako oči (ona má mírné, veliké oči kravičky) (ona má tak dlouhé řasy) (teď spí, má víčka oblá a něžná jako vajíčka holubí) (bože, znát její sny) (má-li ruce složeny na prsou, zvedají se dechem; ale má-li je pod hlavou, tu jistě se jí shrnul rukáv a je vidět loket, kolečko drsné a růžové) (onehdy říkala, že spí dosud v železné dětské postýlce) (říkala, že v říjnu jí bude už devatenáct) (má na krku mateřské znamínko) (jak jen je možno, že mne má ráda, to je tak divné), vskutku, nic se nevyrovná kráse letního jitra, ale Prokop se dívá do země, usmívá se, pokud to vůbec dovede, a putuje samými závorkami až k řece. Tam objeví – ale u druhého břehu – poupata leknínů; tu zhrdaje vším nebezpečím se svlékne, vrhne se do hustého slizu zátoky, pořeže si nohy o nějakou zákeřnou ostřici a vrací se s náručí leknínů. Leknín je květina poetická, ale pouští ošklivou vodu z tučných stvolů; i běží Prokop s poetickou kořistí domů a přemýšlí, z čeho by udělal na svou kytku pořádnou manžetu. Vida, na lavičce před domem zapomněl doktor svou včerejší Političku. Prokop ji chutě trhá, zhola přehlížeje jakousi balkánskou mobilizaci, i to, že se houpe nějaké ministerstvo a že někdo v černém rámečku zemřel, oplakáván ovšem celým národem, a balí do toho mokré řapíky. Když pak se chtěl s pýchou podívat na své dílo, hrklo v něm hrozně. Na manžetě z novin našel totiž jedno slovo. Bylo to KRAKATIT.
 
@@ -34,3 +34,5 @@ Dobrá, nejprve musím nalézt Tomše, zloděje; dám mu tady ten zapečetěný 
 Uspokojen tímto rytířským řešením stanul Prokop nad nešťastnou obálkou. Ach, vědět jen to, jen to jediné, zda byla milenkou Tomšovou! Zase ji viděl, jak stojí, sličná a silná; ani pohledem, ani mžiknutím tehdy nezavadila o hříšné lože Tomšovo. Což bylo by možno tak lhát očima, tak lhát takovýma očima –
 
 Tu syknuv utrpením zlomil pečetě, přerval provázek a roztrhl obálku. Byly tam bankovky a dopis.
+
+</section>

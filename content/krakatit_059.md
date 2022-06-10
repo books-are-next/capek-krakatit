@@ -3,7 +3,7 @@ title: LIV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Prokopovi bylo, jako by jeli mírnou krajinou jeho dětství; ale bylo příliš mlhy, a světélko dosahovalo stěží po kraj cesty mžikavými kmity; po obou stranách silnice pak byl svět neznámý a zamlklý.
 
@@ -120,3 +120,5 @@ Prokopovi se svíraly oči mrazivou něžností. Vždyť je to… vždyť je to 
 Tu počal dědeček měkce prozpěvovat divnou a tichou píseň: „Lalala hou, dadada pán, binkili bunkili hou ta ta…“
 
 Prokop konečně usnul pokojným a posilujícím spánkem beze snů.
+
+</section>

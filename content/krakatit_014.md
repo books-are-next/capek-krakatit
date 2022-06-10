@@ -3,7 +3,7 @@ title: IX\.
 contentType: prose
 ---
 
-  
+<section>
 
 Nyní už smí Prokop na nějakou hodinku denně vylézt z postele; dosud táhne nohy všelijak a bohužel není s ním mnoho řeči; říkejte si mu co chcete, většinou odpoví nějak skoupě a přitom se omlouvá plachým úsměvem.
 
@@ -26,3 +26,5 @@ Prokop mnoho čte nebo se tváří, jako by četl. Jeho zjizvená, těžká tvá
 Večery u lampy. Nejvíc toho napovídá doktor, nadšený přírodovědec bez jakýchkoliv znalostí. Zejména jej okouzlují poslední záhady světa: radioaktivita, nekonečnost prostoru, elektřina, relativita, původ hmoty a stáří lidstva. Je zapřisáhlý materialista, a právě proto cítí tajemnou a sladkou hrůzu neřešitelných věcí. Někdy se Prokop nezdrží a opravuje büchnerovskou naivitu[\[10\]](./resources/undefined) jeho názorů. Tu starý pán naslouchá přímo pobožně a počíná si Prokopa nesmírně vážit, zejména tam, kde mu přestává rozumět, řekněme takhle o rezonančním potenciálu nebo teorii kvant. Anči, ta prostě sedí opírajíc se bradou o stůl; je sice na tuto pozici už trochu veliká, ale patrně od maminčiny smrti zapomněla dospívat. Ani nemrká a dívá se velkýma očima z táty na Prokopa a vice versa.
 
 A noci, noci jsou pokojné a širé jako všude venku. Chvílemi zařinčí z kravína řetězy, chvílemi se blízko nebo daleko rozštěkají psi; po nebi se mihne padající hvězda, jarní déšť zašumí v zahradě nebo stříbrným zvukem odkapává osamělá studna. Čirý, hlubinný chlad vane otevřeným oknem, a člověk usíná požehnaným spánkem bez vidin.
+
+</section>

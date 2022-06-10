@@ -3,7 +3,7 @@ title: LII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Divně se točí dráhy světa. Kdybys sčetl všechny své kroky a cesty, jakou složitou podobu by to nakreslilo? Neboť svými kroky rýsuje každý svou mapu země.
 
@@ -128,3 +128,5 @@ Ráz na ráz se vyvalil druhý a třetí masiv, roztrhl se rudým šlehnutím a 
 Teprve nyní doletěl zoufalý praskot skoseného lesa grottupského; ale už se přes něj valila nárazová kanonáda hořících skladů. Šestý výbuch se roztrhl tvrdým ostrým třesknutím; patrně kresylit; vzápětí hlouběji, basově zahoukla exploze sudů s dynamonem. Bleskem vyletí ohromný planoucí projektil dopolou nebes; vyšlehne vysoký plamen, zhasne a vyskočí o kus dál, ale teprve po vteřinách zahlučí rána a zaburácí hromový otřes. Na chvíli ticho, že slyšíš praskot ohně, jako když se roští láme; nový rachotící a těžký náraz, a nad grottupskými závody rázem se slehne plamen, nechávaje jen nízké žíření; prudkým letícím plápolem hoří město Grottup.
 
 Ztuhlý úděsem zvedl se Prokop a klopýtal odtud.
+
+</section>

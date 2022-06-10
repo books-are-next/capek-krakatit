@@ -3,7 +3,7 @@ title: XXXVII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Když doběhl k laboratoři, chtěl zavřít Holzovi dveře před nosem, aby se uvnitř opevnil; ale panu Holzovi se povedlo ještě včas zašeptat: „Princezna.“
 
@@ -100,3 +100,5 @@ Prokop k němu skočil, až to zařinčelo. „Co jste to řekl? Cože jsem nem�
 Řinče železem pustil se Prokop do parku, těžký a masivní jako houfnice. Před zámkem stála skupina pánů; sotva ho zdálky zahlédli, dali se poněkud zmateně na ústup, patrně už informováni o brizantním a nabitém zuřivci; a jejich záda vyjadřovala nejsilnější pohoršení, že se „něco takového trpí“. Tamhle jde pan Krafft s Egonem, konaje peripatetické vyučování; jak vidí Prokopa, nechá Egona stát a běží k němu. „Můžete mi podat ruku?“ ptá se a zardívá se nad vlastním hrdinstvím. „Teď dostanu jistě výpověď,“ praví s hrdostí. Od Kraffta tedy zvěděl, že v zámku se rychlostí blesku rozneslo, že prý on, Prokop, je anarchista; a ježto zrovna dnes večer má sem zavítat jistý následník trůnu… Zkrátka chtějí Jeho Výsosti telegrafovat, aby svůj příjezd odložil; zrovna se o tom koná velká rodinná rada.
 
 Prokop se obrací na patě a jde do zámku. Dva komorníci na chodbě se před ním rozletí a s hrůzou se tisknou ke zdi, nechávajíce beze slova projít chřestícího, naditého útočníka. Ve velkém salonu zasedá porada; oncle Rohn ustaraně přechází, starší příbuzné se děsně rozčilují nad zvrhlostí anarchistů, tlustý cousin mlčí a jakýsi jiný pán rozhorleně navrhuje poslat na toho šíleného chlapa jednoduše vojáky: buď se vzdá, nebo bude zastřelen. V tu chvíli se otevřely dveře a chrastě valí se Prokop do salonu. Hledá očima princeznu; není tu, a zatímco všichni tuhnou strachem a vstávají v očekávání toho nejhoršího, povídá chraptivě k Rohnovi: „Jdu vám jenom říci, že se následníkovi nic nestane. Teď to víš.“ Pokynul hlavou a mocně se vzdálil jako socha komtura[\[36\]](./resources/undefined).
+
+</section>

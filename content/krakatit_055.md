@@ -3,7 +3,7 @@ title: L\.
 contentType: prose
 ---
 
-  
+<section>
 
 Vůz zastavil v černém, lesnatém údolí. Prokop rozeznal potmě těžné věže a haldy. „Tak, tady jsme,“ zabručel Daimon. „To je můj rudný důl a hamr; nestojí to za nic. Nu, vystupte!“
 
@@ -88,3 +88,5 @@ Na obzoru bylo vidět jen slaboučkou červenou záři.
 „Zůstal tam i vynálezce naší stanice. Zůstali tam všichni. Teď tedy to vezmete do ruky sám – Hleďte, poslouchejte, jak je ticho. A přece odtud, tady z těch drátů, šlehá do prostoru němá a přesná kanonáda. Teď jsme zastavili všechny bezdrátové spoje, a telegrafistům to práská do uší, krach, krach! Ať se vztekají. Zatím se pan Tomeš někde v Grottup pachtí dodělat Krakatit – Nenajde to nikdy. A kdyby, kdyby! v tom okamžiku, jak by se mu to pod rukou sloučilo, byl by konec – Tak jen pracuj, staničko, jiskři potichu a bombarduj celý vesmír; nikdo, nikdo kromě vás nebude pánem Krakatitu. Teď jste jen vy, vy sám, vy jediný –“ Položil mu ruku na rameno a ukázal mlčky kolem dokola: celý svět. Byla tma bezhvězdná a pustá; jen na obzoru žířila nízká ohnivá záplava.
 
 „Ah, jsem unaven,“ zívl Daimon. „Byl to slušný den. Pojďme dolů.“
+
+</section>

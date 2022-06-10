@@ -3,7 +3,7 @@ title: XLIV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Ten den byl podmračný a sychravý. Princezna pokašlávala, mrazilo ji a opět hořela, ale nevydržela v posteli: čekala odpověď Prokopovu. Vyhlížela oknem, nevyjde-li ven, a zase zavolala Paula. Stále totéž: pan inženýr přechází po pokoji. A neříká nic? Ne, nic neříká. Vlekla se od stěny ke stěně, jako by ho chtěla provázet; a zas usedla a kolébala se celým tělem, aby opila svůj zimničný nepokoj. Oh, ani to už nelze snést! Zničehonic mu začala psát dlouhý dopis; zapřísahala ho, aby si ji vzal za ženu; že nemusí vydat nic, žádné své tajemství, žádný Krakatit; že ona za ním půjde do jeho života a bude mu sloužit, děj se co děj. „Miluji Tě tak,“ psala, „že mně už žádná oběť nestačí, abych Ti ji přinesla. Podrob mne zkoušce, zůstaň chudý a neznámý; půjdu s Tebou jako Tvá žena, a nikdy již se nebudu moci vrátit do světa, který opustím. Vím, že mne miluješ málo a jen roztržitým koutkem srdce; ale zvykneš si na mne. Byla jsem pyšná, zlá a vášnivá; změnila jsem se, chodím mezi starými věcmi jako cizí, přestala jsem být –“ Přečtla to a roztrhala to na kousky tiše sténajíc. Byl večer, a od Prokopa zpráva nepřicházela.
 
@@ -58,3 +58,5 @@ Obrátila k němu oči. „Milý,“ zašeptala, a bledou lící jí prokmitla m
 „Nemohu,“ sténal ponořen tváří v její vlasy. „Jsem nejbídnější člověk. Zra-zradil jsem celý svět, celý lidský svět. Naplij mně do tváře, ale ne-vy-háněj mne! Proč tě nemohu pustit? Dám Krakatit, slyšíš? přísahal jsem to; ale teď, teď mne nech zapomenout! Kde – kde – kde máš ústa? Jsem podlec, ale líbej mne! Jsem ztra-ztra–“
 
 Zakolísal, jako by měl padnout; nyní se mu mohla vymknout, tápal rukama do prázdna; tu zvrátila hlavu, přehodila vlasy nazad a nastavila mu rty. Vzal ji do rukou, ztuhlou a pasivní; líbal její sevřená ústa, palčivé líce, krk, oči; vzlykal chraptivě, nebránila se, nechala se přímo nést. Zděsil se její nehybné trpnosti a pustil ji couvaje. Zapotácela se, přejela si dlaní čelo, usmála se uboze – byl to strašlivě žalný pokus o úsměv – a vzala ho kolem krku.
+
+</section>

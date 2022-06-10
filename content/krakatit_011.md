@@ -3,7 +3,7 @@ title: VI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Na nádraží bylo mu čekati půldruhé hodiny. Sedl si na chodbě a chvěl se zimou. V poraněné ruce mu pulzovala ukrutná bolest; zavíral oči, a tu se mu zdálo, že ta bolavá ruka roste, že je veliká jako hlava, jako tykev, jako hrnec na vyváření prádla, a že v celém jejím rozsahu palčivě cuká živé maso. Přitom mu bylo mdlo k dávení a na čele mu ustavičně vyrážel studený pot úzkosti. Nesměl se podívat na špinavé, poplivané, zablácené dlážky chodby, aby se mu nezvedal žaludek. Vyhrnul si límec a polo snil, pomalu přemáhán nekonečnou lhostejností. Zdálo se mu, že zas je vojákem a leží poraněn v širém poli; kde – kde to pořád bojují? Tu zazněl mu do uší prudký zvon a někdo volal: „Týnice, Duchcov, Moldava, nastupovat!“
 
@@ -86,3 +86,5 @@ Prokop se nesmírně podivil. „Vždyť říkal… říkal, že jede sem. Já m
 „Aničko, židli,“ křikl starý pán podivným hlasem.
 
 Tu ještě zaslechl Prokop tlumený výkřik a poroučel se na zem. Zalila ho nesmírná temnota, a pak již nebylo nic.
+
+</section>

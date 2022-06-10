@@ -3,7 +3,7 @@ title: XXXVIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Chodba byla prázdná. Kradl se, jak tiše to vůbec šlo, k pokojům princezniným a čekal přede dveřmi, nepohnutý jako plechový rytíř tam dole ve vestibulu. Vyběhla komorná, vykřikla strašně, jako by viděla bubáka, a zmizela ve dveřích. Po chvíli je otevřela, docela vytřeštěná, a couvajíc mu ukázala beze slova dovnitř, načež se co nejrychleji ztratila. Princezna se mu vlekla vstříc; halila se v dlouhý plášť, patrně jen tak vyskočila z postele, a vlasy nad čelem měla slepené a zmáčené, jako by právě odhodila chladivý obklad, a byla šedivě bledá a nehezká. Pověsila se mu na krk a zvedla k němu rty rozpukané horkostí. „To jsi hodný,“ šeptala mátožně. „Mně hlava třeští migrénou, oh bože! Prý máš samé pumy po kapsách? Já se tě nebojím. Jdi teď, nejsem hezká. Přijdu k tobě v poledne, nepůjdu jíst, řeknu, že mi není dobře. Jdi.“ Dotkla se jeho úst obolenými, loupajícími se rty a zakryla si tváře, aby ji ani neviděl.
 
@@ -83,7 +83,9 @@ Oncle Rohn starostlivě, přesmutně mrkal ptačíma očima poety.
 
 „Teď můžeme jít,“ zašeptala princezna.
 
-  
+</section>
+
+<section>
 
 Kvečeru přijel dotyčný následník bývalého trůnu. U vchodu čestná rota, hlášení, špalír služebnictva a takové ty okolky; park i zámek slavnostně osvětleny. Prokop seděl na návršíčku před laboratoří a díval se mračnýma očima k zámku. Nikdo tudy nešel; bylo ticho a temno, jen zámek zářil prudkými snopy paprsků.
 
@@ -106,3 +108,5 @@ Jako umíněné dítě řinčí Prokop svým chřestítkem. Ponenáhlu okna zhas
 I oncle Rohn už zhasil; nyní svítí jediné zardělé okno. Zda najde lidská myšlenka cestu, zda si prorazí a mocí provrtá dráhu těmi sto či kolika metry němého prostoru, aby zasáhla bdící mozek druhého člověka? Co ti mám vzkázat, tatarská kněžno? Spi, je už podzim; a je-li nějaký Bůh, ať ti hladí palčivé čelo.
 
 Červené okno zhaslo.
+
+</section>

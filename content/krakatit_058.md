@@ -3,7 +3,7 @@ title: LIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Běžel po silnici těžce sípaje; přeběhl vršek kopce a utíkal do údolu; ohnivá záplava za ním mizela. Mizely věci a stíny zality plynoucí mlhou; bylo to, jako by vše nehmotně, mátožně odplývalo a bylo unášeno bezbřehou řekou, kde nezašplouná vlna a racek nezakřičí. Děsil ho vlastní dupot v tichém a nesmírném odtékání všeho; tu zpomalil, zdusil kroky a putoval nezvučně do mléčné tmy.
 
@@ -92,3 +92,5 @@ Vozík drkotal po chatrné silnici; bílý valášek horlivě pletl nohama natř
 „Já… já už nevím,… jak… se má… dělat… Krakatit!“
 
 „Tak vidíš,“ děl starý spokojeně. „Přece jen jsi něco našel.“
+
+</section>

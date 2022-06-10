@@ -3,7 +3,7 @@ title: LI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Daimon spěchal, aby už byl doma. „Kde je vlastně Grottup?“ zeptal se Prokop zčistajasna, když už byli dole.
 
@@ -96,3 +96,5 @@ Je stěží vidět na cestu. Prokop se rozhlíží a chvěje se chladem. Kam, ka
 Šel několik kroků a zastavil se; stojí a kouká do země. Tedy do Balttinu? Škytl hrubým, bezslzným pláčem a obrátil se na patě.
 
 Do Grottup!
+
+</section>

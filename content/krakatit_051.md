@@ -3,7 +3,7 @@ title: XLVI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Stanul a naslouchal trna hrůzou, zda nezaslechne praskot vozu roztříštěného někde v zákrutu silnice. Není to výbušné hučení motoru z dálky? Není to děsné a smrtelné ticho konce? Bez sebe uháněl Prokop po silnici za ní. Seběhl serpentinou dolů, k patě svahu; ani památky po voze. Utíkal opět nahoru, pátral po úbočích, slézal drásaje si ruce, kde rozeznával něco temného nebo světlého; bylo to hloží nebo kamení, a tu opět klopýtal a drápal se na silnici a zarýval se očima do tmy, zda… zda není někde hromada trosek, a pod ní…
 
@@ -68,3 +68,5 @@ Mluvil hladce jako zkušený řečník, totiž mysle přitom na něco jiného, a
 „Co – co – co tím myslíte?“ ozval se Prokop. „Co s tím mám dělat?“
 
 Kamarád Daimon stanul a hleděl upřeně na Prokopa. „Budete dělat, co chcete. Budete dělat veliké věci. Kdo vám ještě může poroučet?“
+
+</section>

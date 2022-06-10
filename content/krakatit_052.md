@@ -3,7 +3,7 @@ title: XLVII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Daimon přitáhl židli k Prokopovi a usedl.
 
@@ -30,3 +30,5 @@ Rozhodnete se sám, povedete-li první rány směrem politickým nebo hospodář
 Hleďte, jsem průmyslník, novinář, bankéř, politik, vše, co chcete; zkrátka jsem zvyklý počítat, ohlížet se na okolnosti a kramařit s omezenými šancemi. Právě proto vám musím říci, a je to jediná rada, kterou vám dávám, než se chopíte vlády: nepočítejte a neohlížejte se. Jakmile se jednou ohlédnete, změníte se v plačící sloup jako žena Lotova. Já jsem rozum a číslo; hledím-li vzhůru, chtěl bych se rozplynout v šílenství a v nespočetnosti. Vše, co je, nevyhnutelně klesá z chaosu neomezenosti přes číslo k nicotě; každá velká síla se staví proti tomuto sestupnému pádu; každá velikost chce se stát nesmírností. Zahozena je síla, která se nepřelije přes staré hranice. Vám je dána do rukou moc vykonat nesmírné věci; jste jí hoden či chcete s ní žabařit? Já, starý praktik, vám pravím: myslete na šílené a bezměrné skutky, na rozměry bezpříkladné, na nesmyslné rekordy lidské moci; skutečnost vám uškubne padesát i osmdesát procent z každého velikého plánu; ale to, co zůstane, musí ještě být nesmírné. Pokoušejte se o nemožné, abyste uskutečnil aspoň nějakou neznámou možnost. Vy víte, jak velká věc je experiment; dobrá, všichni vladaři světa se nejvíc děsí toho, že by to měli zkusit jinak, neslýchaně a obráceně; nic není konzervativnější než lidské vládnutí. Vy jste první člověk na světě, který může pokládat celý svět za svou laboratoř. Toto jest svrchované pokušení na temeni hory: nedám ti vše, co je pod tebou, k požitku a rozkoši moci; ale je ti to dáno, abys toho dobýval, abys to předělal a zkusil něco lepšího, než je tento bídný a ukrutný svět. Světu je znovu a znovu třeba tvůrce; ale tvůrce, který není svrchovaným pánem a vládcem, je jenom blázen. Vaše myšlenky budou rozkazy; vaše sny budou dějinné převraty; a kdybyste nepostavil nic víc než svůj pomník, stojí to za to. Přijměte, co je vaše.
 
 A nyní půjdeme; čekají na nás.“
+
+</section>

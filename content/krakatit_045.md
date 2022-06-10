@@ -3,7 +3,7 @@ title: XL\.
 contentType: prose
 ---
 
-  
+<section>
 
 Pršelo. S bílým šátkem parlamentáře přišel tlustý cousin navrhnout Prokopovi, aby toho nechal; že zase dostane svou laboratoř a kdesi cosi. Prokop prohlásil, že odtud nepůjde, ledaže by ho vyhodili do povětří; ale dřív že on něco udělá, to budete koukat! S touto temnou hrozbou se cousin vracel; v zámku patrně nesli velmi těžce, že vlastní vjezd do zámku je blokován, ale nechtěli s věcí dělat žádný hluk.
 
@@ -38,3 +38,5 @@ Sedli si na lavičce u vody, kde se slunívala hnědá princezna. Na západě se
 A tamhle na souši krátkými, spěchavými krůčky jde pan Paul s košem na lokti, rozhlíží se vpravo vlevo a chvílemi volá stařeckým hláskem: „Kuku! Kuku!“ Prokop jel k němu na bitevní lodi; mermomocí chtěl vědět, kdo ho s tím posílá. „Prosím, nikdo,“ tvrdil stařík; „ale má dcera, jako Alžběta, je klíčnice.“ Byl by se málem rozmluvil o své dceři Alžbětě; ale Prokop ho pohladil po bílých vláscích a vzkázal někomu nejmenovanému, že je zdráv a při síle.
 
 Dnes pil dr. Krafft skoro sám, žvanil, filozofoval a opět kašlal na všechnu filozofii: čin prý, čin je všecko. Prokop se chvěl na princeznině lavičce a díval se pořád na jednu hvězdu, bůhví proč si vybral zrovna tu, byla to oranžová Betelgeuse ve hlavách Oriona. Nebyla to pravda, že je zdráv; píchalo ho divně v těch místech, kde to v něm harašilo a šelestilo kdysi v Týnici, motala se mu hlava a třásl se láman zimnicí. Když pak chtěl něco říci, mátl se mu jazyk a jektal tak, že dr. Krafft vystřízlivěl a tuze se znepokojil. Honem uložil Prokopa na lehátko v kabině a přikryl ho vším možným, i řasnatým pláštěm princezniným, a vyměňoval mu na čele namočený ubrousek. Prokop tvrdil, že je to rýma; k půlnoci usnul a blábolil, pronásledován děsnými sny.
+
+</section>

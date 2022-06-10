@@ -3,7 +3,7 @@ title: VII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Nebylo nic; jen jako kdyby se časem protrhly mlhy, zjevil se vzorek malované stěny, řezaná římsa skříně, cíp záclony či frýzek[\[5\]](./resources/undefined) stropu vlys; nebo se naklonila nějaká tvář jakoby nad otvorem studně, ale nebylo vidět jejích rysů. Něco se dělo, někdo časem svlažil horké rty nebo pozvedal bezvládné tělo, ale vše mizelo v plynoucích útržcích snění. Byly to krajiny, kobercové vzory, diferenciální počty, ohnivé koule, chemické formule; jen časem něco vyplulo navrch a stalo se na okamžik jasnějším snem, aby se to vzápětí zas rozplynulo v širokotokém bezvědomí.
 
@@ -66,3 +66,5 @@ Prokop zakroutil hlavou; nevěděl o ničem, co by chtěl. „Kolik je hodin?“
 Dívka se zasmála a vyběhla. Prokopovi hučelo v hlavě; pořád se hleděl rozpomenout a pořád mu vše unikalo. A už je tu děvče, něco povídá a podává mu zrcátko. Prokop chce zvednout ruku, ale bůhsámví proč to nejde; děvče mu vkládá držadlo mezi prsty, ale zrcátko padá na pokrývku. Tu zbledlo děvče, nějak se znepokojilo a samo mu nastavilo zrcadlo k očím. Prokop se dívá, vidí docela zarostlé tváře a obličej skoro neznámý; hledí a nemůže pochopit, a tu se mu roztřásly rty.
 
 „Lehněte si, hned si zas lehněte,“ káže mu drobounký hlásek skoro plačící, a rychlé ruce mu nastavují podušku. Prokop se sváží naznak a zavírá oči; jen chvilinku si zdřímnu, myslí si, a udělalo se libé, hluboké ticho.
+
+</section>

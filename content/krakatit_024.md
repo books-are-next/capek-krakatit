@@ -3,7 +3,7 @@ title: XIX\.
 contentType: prose
 ---
 
-  
+<section>
 
 „Vy tedy myslíte,“ koktal Prokop, „že… že snad…“
 
@@ -86,3 +86,5 @@ Před barákem zatroubilo auto.
 „Kam?“
 
 „Zatím se najíst.“
+
+</section>

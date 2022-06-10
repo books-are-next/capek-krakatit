@@ -3,7 +3,7 @@ title: XXXII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Konec všemu: byla to skoro úleva, nebo alespoň něco jistého a bez pochyb; a Prokop se do toho zahryzl s buldočí houževnatostí. Dobrá, je konec, není se již tedy čeho bát. Nepřišla schválně; stačí, tenhle políček stačí; je tedy konec. Seděl v lenošce neschopen vstát, znovu a znovu se opíjeje svým ponížením. Odkopnutý sluha. Nestoudná, nadutá, bez citu. Jistě mne dávala k lepšímu svým galánům. Nuže, dohráno; tím lépe.
 
@@ -41,7 +41,9 @@ Až daleko za zámkem, na úhorové půdě střelnice, zaryl Prokop tvář do hl
 
 Deset kroků stranou seděl vážný a soustředěný pan Holz.
 
-  
+</section>
+
+<section>
 
 Noc, která nastala, byla dusná a tíživá, neobyčejně černá; chýlilo se k bouři. V takové chvíli jsou lidé divně podrážděni a nemají se nijak rozhodovat o svém osudu; neboť nedobrý je to čas.
 
@@ -51,7 +53,9 @@ Krátce nato zadrnčelo okno ložnice princezniny; princezna vyskočila a otevř
 
 Jen na obzoru se blýská širokými žlutými plameny; ale ulevující bouře se ještě nespustila.
 
-  
+</section>
+
+<section>
 
 Vystřízlivělý Prokop se vrhl střemhlav do laboratorní práce, nebo aspoň se k tomu nutil. Před chvílí odešel od něho Carson; byl studeně popuzen a prohlásil zřetelně, že podle všeho bude pan Prokop co nejdříve transferován jinam, na místo bezpečnější; když prý to nejde po dobrém, tedy to půjde po zlém. Nu, vše jedno; na ničem už nezáleží. Zkumavka praskla Prokopovi v prstech.
 
@@ -60,3 +64,5 @@ V předsíni odpočívá pan Holz s hlavou ofáčovanou. Prokop mu strkal pár t
 V předsíni šramot, jako když někdo vyletí z dřímoty. Zas asi návštěva, Krafft či kdo; Prokop se ani neobrátil od kahanu, když zaskřípěly dveře. „Milý, milý,“ zašeptalo to ode dveří. Prokop zavrávoral, zachytil se stolu a otočil se jako v snách. Princezna stála opřena o veřeje, bledá, s očima temně utkvělýma, a tiskla pěstě k prsoum, snad aby přemohla tlučení srdce.
 
 Šel k ní chvěje se na celém těle, a dotkl se prsty jejích lící a ramen, jako by nemohl uvěřit, že je to ona. Položila mu studené, třesoucí se prsty na ústa. Tu vytrhl dveře a nahlédl do předsíně. Pan Holz zmizel.
+
+</section>

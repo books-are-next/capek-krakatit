@@ -3,7 +3,7 @@ title: XIV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Zatím už doktor Tomeš sedí u snídaně funě a bruče po těžkém porodu; přitom vrhá na Anči pohledy zkoumavé a nespokojené. Anči sedí jako zařezaná, nejí, nepije, nevěří prostě svým očím, že se Prokop ještě neukázal; nějak se jí třesou rty, patrně užuž přijdou slzy. Tu vejde Prokop jaksi zbytečně rázně, je bledý a nemůže si ani sednout, jak má naspěch; jen taktak že pozdraví, přeběhne Anči očima, jako by ji ani neznal, a hned se ptá s popudlivou netrpělivostí: „Kde je teď váš Jirka?“
 
@@ -54,3 +54,5 @@ Prokopa zrovna drtila přemíra těžkého štěstí. Nebyla tedy Tomšova! A ni
 Ano, nalézt ji; musím jí především… především vrátit tyhle její peníze (ani se nestyděl za záminku tak průhlednou) a říci jí, že… že zkrátka… že může na mne počítat, stran Tomše a vůbec… „Byl ke mně nezapomenutelně laskav.“ Prokop až sepjal ruce: bože, co vše jsem odhodlán učinit, abych si zasloužil tahle slova –
 
 Ó-ó, jak ten vlak pomalu jede!
+
+</section>
