@@ -3,7 +3,7 @@ title: I\.
 contentType: prose
 ---
 
-  
+<section>
 
 S večerem zhoustla mlha sychravého dne. Je ti, jako by ses protlačoval řídkou vlhkou hmotou, jež se za tebou neodvratně zavírá. Chtěl bys být doma. Doma, u své lampy, v krabici čtyř stěn. Nikdy ses necítil tak opuštěn.
 
@@ -98,3 +98,5 @@ Prokop vydal ze sebe cosi na způsob smíchu. „Chtěl bys vědět, že? Holenk
 „Co je ti?“
 
 „Krakatit,“ zabručel Prokop, udělal celým tělem jakýsi otáčivý pohyb a svalil se na zem v mrákotách.
+
+</section>

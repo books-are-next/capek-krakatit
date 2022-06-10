@@ -3,7 +3,7 @@ title: XXI\.
 contentType: prose
 ---
 
-  
+<section>
 
 „Počkejte,“ zarazil ho Prokop. „Dovolte, abych vás představil. Inženýr Carson, sir Reginald Carson.“
 
@@ -108,3 +108,5 @@ Prokop pochytil jemnou výtku a upadl do rozpaků. „Ta věc… není dosud zra
 „Věřím. Spoléhám na vás,“ řekl mocný muž a znovu mu podal ruku.
 
 To bylo vše.
+
+</section>

@@ -3,7 +3,7 @@ title: XXVIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 To se rozumí, slavný chirurg neuznal práci vojenského řezníka, roztahoval znovu Prokopovy zlomeniny a nakonec to vše zalil do sádry a řekl, že levá extremita zůstane podle všeho chromá.
 
@@ -70,3 +70,5 @@ Princezna ztuhla a byla najednou sto mil daleko. „Ah, kníže Rohn,“ opravil
 Nicméně ráno nato donesl pan Paul Prokopovi cosi jako svátost, a že prý to přinesla princeznina komorná.
 
 Byla to krabička pronikavě vonného nahnědlého pudru.
+
+</section>

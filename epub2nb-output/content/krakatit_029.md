@@ -3,7 +3,7 @@ title: XXIV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Prokop se coural po parku mrze se na cosi a nevyspale zívaje. Divil se, co s ním vlastně chtějí, a měřil s nelibostí své boty podobné vojenským bagančatům i své unošené nohavice. Ponořen v tyto myšlenky divže nevlezl až doprostřed tenisového hřiště, kde princezna hrála se dvěma panáky v bílých šatech. Uhnul rychle a pustil se směrem, kde předpokládal konec parku. Nu, na této straně končil se pak park jakousi terasou: kamenná balustrádka a kolmo dolů zeď nějakých dvanáct metrů vysoká. Možno se pokochat vyhlídkou na borové lesíky a na vojáčka, který dole přechází s nasazeným bajonetem.
 
@@ -188,3 +188,5 @@ Prokop se s odporem díval na dvůr, kde polonahý chlapec, krváceje z úst i n
 Prokop se svou legitimací se pustil k hlavním vratům. Děda vrátný ji studoval a vrtěl hlavou; tenhle lístek prý platí jen pro východ C, tamhle, co se jde k laboratořím. Prokop putoval k východu C; filmový chlapík s placatou čepicí prohlédl legitimaci a ukazoval: tady rovně, pak třetí příčná severní cesta. Prokop se ovšem dal první cestou k jihu; ale po pěti krocích ho zadržel polní četník: zpátky a třetí cesta vlevo. Prokop si odplivl na třetí cestu vlevo a nabral to rovnou přes louku: za okamžik ho honili tři lidé, tudy že se nesmí. Šel tedy poslušně třetí severní cestou, a když si myslel, že už na něho nekoukají, zamířil mezi muniční sklady. Tam ho sebral voják s bajonetem a poučil ho, že má jít tamhle, na rozcestí VII, cesta N 6. Prokop zkoušel své štěstí na každé křižovatce; všude ho zadrželi a posílali na cestu VII, N 6; i umoudřil se konečně a pochopil, že legitimace popsaná písmenami „C 3 n. w. F. H. A. VII, N 6. Bar. V, 7. S. b.!“ má smysl tajemný a nevyhnutelný, jemuž jest se slepě podříditi. Šel tedy, kam mu ukazovali cestu. Tady už nebyly muniční baráky, ale malé betonové stavbičky všelijak číslované, patrně pokusné laboratoře či co, roztroušené mezi pískovými násypy a borovými lesíky. Jeho cesta se stočila k docela osamělému domku V, 7, i zamířil k němu. Na dveřích byla mosazná tabulka „Ing. Prokop“. Prokop odemkl klíčem, který mu dal Carson, a vešel dovnitř.
 
 Byla tam vzorně zařízená laboratoř pro chemii třaskavin – tak moderní a úplná, že se v Prokopovi zatajil dech radostí odborníka. Na hřebíku visela jeho stará halena, v rohu vojenský kavalec tak jako v Praze, a v přihrádkách velkolepě vybaveného psacího stolu ležely pečlivě spořádány a zkatalogizovány veškeré jeho tištěné články a rukopisné poznámky.
+
+</section>

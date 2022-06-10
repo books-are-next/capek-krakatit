@@ -3,7 +3,7 @@ title: III\.
 contentType: prose
 ---
 
-  
+<section>
 
 Zdálo se mu, že slyší hukot jakoby nesčetných kol. „To je nějaká továrna,“ myslel si a běžel po schodech nahoru. Zničehonic se ocitl před velikými dveřmi, kde stálo na skleněné tabulce: Plinius. Zaradoval se nesmírně a vešel dovnitř. „Je tu pan Plinius?“ ptal se nějaké slečinky u psacího stroje. „Hned přijde,“ řekla slečinka, a tu k němu přistoupil vysoký oholený muž v cutawayi a s ohromnými kruhovými skly na očích. „Co si přejete?“ řekl.
 
@@ -110,3 +110,5 @@ Prokop otevřel oči. Nad ním se skláněl Tomeš s tužkou a zápisníkem v ru
 „Co?“ mumlal Prokop neklidně. „Co chceš? Jak… jak se to dělá?“
 
 „Něco se ti zdálo,“ řekl Tomeš a schoval zápisník za zády. „Spi, člověče, spi.“
+
+</section>

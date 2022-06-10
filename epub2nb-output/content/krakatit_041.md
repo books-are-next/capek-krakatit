@@ -3,7 +3,7 @@ title: XXXVI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Lépe by byl učinil, kdyby byl toho večera nepřišel; ale přihnal se právě proto, že mu to zakazovala. Oncle Charles byl k němu velmi, velmi přívětivý; naneštěstí viděl, jak si ti dva při docela nevhodné a okaté příležitosti tisknou ruce, vzal si na to dokonce monokl, aby to lépe viděl; pak teprve princezna utrhla ruku a začervenala se jako školačka. Oncle k ní přistoupil a něco jí pošeptal odváděje ji pryč. Pak se již nevrátila; jen Rohn přišel a tvářil se jakoby nic a mluvil s Prokopem, velmi diskrétně sonduje po citlivých místech. Prokop se držel neobyčejně hrdinně, nevyzradil nic, což milého strýčka uspokojilo, i když ne co do věci, tedy aspoň co do formy. „Ve společnosti je nutno být velice, velice obezřelý,“ řekl posléze, udíleje takto zároveň důtku i radu; a Prokopovi se velmi ulevilo, když ho hned potom opustil a nechal přemýšlet o dosahu posledních slov.
 
@@ -72,3 +72,5 @@ Prokop stál nehnutě, s čelem skloněným jako beran; ale bon prince cítil, j
 „Ahaha,“ rozkřikl se Prokop, „tohle tedy? A – a ty si myslíš, že teď, teď ustoupím? Tak si jen počkej!“
 
 A nežli se oncle Rohn vzpamatoval, zmizel mu ve tmě uháněje k laboratoři. Pan Holz mlčky za ním.
+
+</section>

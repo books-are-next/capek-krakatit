@@ -3,7 +3,7 @@ title: XXXIV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Když přišel po večeři, nevěřící už a celý ve střehu, stěží ji poznal, jak byla krásná. Cítila jeho užaslý a žárlivý pohled, pohled, který ji obléval od hlavy k patě; i zazářila a oddávala se mu očima tak bez ohledu k ostatním, že trnul. Byl tam nějaký nový host, d’Hémon se jmenoval, diplomat či co: člověk mongolského typu s fialovými pysky a krátkými černými vousy kolem. Tenhle pán tedy byl patrně znalý fyzikální chemie; Becquerel, Planck, Niels Bohr, Millikan a taková jména mu jen lítala od huby; znal Prokopa z literatury a ohromně se interesoval o jeho práci. Prokop se dal strhnout, rozpovídal se, zapomněl na okamžik dívat se na princeznu; za to utržil pod stolem takové kopnutí do bérce, že sykl a byl by jí to málem vrátil; nádavkem dostal planoucí pohled žárlivosti. V té chvíli musel zodpovědět hloupou otázku prince Suwalského, co je to vlastně ta energie, o které tu pořád povídají; i popadl cukřenku, vrhl na princeznu pohled tak rozhořčený, jako by jí to chtěl hodit na hlavu, a vysvětloval, kdyby se podařilo naráz vyvinout a vybít všecku energii obsaženou v tomhle, že by to vyhodilo do povětří Montblanc i s Chamonix; ale to že se nepodaří.
 
@@ -46,3 +46,5 @@ Moucha masařka divoce zabzučela. To se ví, kněžna! Kam, kam jsi dal hlavu, 
 Princezna rychle, tiše vklouzla do pokoje. U dveří sáhla po vypínači a zhasla; a potmě cítil Prokop ruku, jež se lehýnce dotýká jeho tváře a klade se mu kolem krku. Sevřel princeznu v dlaních; je tak útlá a skoro netělesná, že se jí dotýká s bázní jako něčeho křehoučkého a pavučinového. Dýchá mu do tváře vzdušné polibky a šeptá něco nesrozumitelně; nehmotné hlazení mrazí Prokopovy vlasy. Cosi zalomcuje křehoučkým tělem, ruka na jeho šíji se přimyká těsněji a vlahé rty se pohybují na jeho ústech, jako by bezhlase a naléhavě mluvily. Nekonečnou vlnou, celým přílivem záchvěvů zmocňuje se Prokopa silněji a silněji; táhne k sobě jeho hlavu, tiskne se k němu hrudí a koleny, ovíjí ho oběma pažemi, vrhá se ústy do jeho úst; strašné, bolestné sevření drtící a němé, náraz zubů o sebe, sténání člověka, který se dusí; vrávorají v křečovitém, nepříčetném objetí, nepustit! zalknout se! srůst nebo zemřít! Vzlykla a zalomila se bezvládně; uvolnil děsné kleště svých rukou, vymkla se, zakolísala se jako opilá, vyňala ze záňadří šáteček a osušila na rtech sliny nebo krev; a aniž řekla slova, vešla do sousedního osvětleného pokoje.
 
 S hlavou praskající zůstal Prokop potmě. Toto poslední objetí mu připadlo jako rozloučení.
+
+</section>

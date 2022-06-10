@@ -3,7 +3,7 @@ title: XVIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Pan Carson si sedl a zapálil si velmi tlusté cigáro, načež usilovně přemítal. „Tjaja,“ řekl po chvíli. „Tak vám to taky vybuchlo. Kdy to bylo? Datum.“
 
@@ -112,3 +112,5 @@ Prokop se zastavil jako vražen do země. „Představte si,“ kázal horečně
 „Čemu?“
 
 „Té zatracené stanici anarchistů.“
+
+</section>

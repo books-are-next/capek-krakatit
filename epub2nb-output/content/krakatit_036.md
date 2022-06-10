@@ -3,7 +3,7 @@ title: XXXI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Den nato pršelo. Prokop běhal po parku vztekaje se, že takhle princeznu asi vůbec neuvidí. Avšak vyběhla prostovlasá do deště a utíkala k němu. „Jen na pět minut, jen na pět minut,“ šeptala udýchaně a nastavila mu rty k políbení. Tu však zahlédla pana Holze. „Kdo je ten člověk?“
 
@@ -49,7 +49,9 @@ Sklonil se k jejím rtům; chutnaly kajícným steskem.
 
 V šumění deště se blížily kroky pana Holze.
 
-  
+</section>
+
+<section>
 
 Nemožno, nemožno! po celý den se Prokop trudil a špehoval, kde by ji zahlédl. „Večer k nám nesmíš.“ Nu ovšem, nejsi z její společnosti; je jí volněji mezi urozenými klacky. Bylo to prapodivné: v hloubi srdce se Prokop ujišťoval, že ji vlastně nemá rád, ale žárlil zběsile, umučeně, pln vzteku a pokoření. Večer se potloukal v dešti po parku a myslel na to, že teď sedí princezna u večeře, že září, že je tam veselo a volno; připadal si jako prašivý pes vykopnutý do deště. Nejstrašnější útrapa života je pohana.
 
@@ -57,7 +59,9 @@ A teď tomu udělám konec, rozhodl se; běžel domů, hodil na sebe černé ša
 
 Nic víc, nic víc se nestalo toho dne. A přece se Prokop zmítal na svém lůžku kousaje do podušek; a v druhém křídle zámku nespal někdo po celou noc.
 
-  
+</section>
+
+<section>
 
 Ráno pan Paul přinesl ostře vonící dopis; neřekl od koho. „Drahý člověče,“ stálo tam, „dnes Tě neuvidím; nevím, co si počnu. Jsme hrozně nápadni; prosím Tě, buď rozumnější než já. (Několik řádků přeškrtáno.) Nesmíš chodit před zámkem, nebo za Tebou vyběhnu. Prosím, učiň něco, aby Tě zbavili toho protivného hlídače. Měla jsem špatnou noc; vypadám hrozně, nechci, abys mne dnes viděl. Nechoď k nám, mon oncle Charles už dělá narážky; křičela jsem na něho a nemluvím s ním; mne rozčiluje, že má tak nesnesitelně pravdu. – Milý, poraď mi: Teď právě jsem vyhnala svou komornou, donesli mi, že má poměr se štolbou a chodí k němu. Nesnesu to; byla bych ji tloukla do tváře, když se mi přiznala. Byla krásná a plakala, a já jsem se pásla na tom, jak jí tekou slzy; představ si, nikdy jsem tak zblízka neviděla, jak se dělá slza, vyhrkne, kane rychle, zastaví se a pak ji dohoní druhá. Já plakat neumím; když jsem byla malá, křičela jsem, až jsem zmodrala, ale slzy mi netekly. Vyhnala jsem ji na hodinu; nenáviděla jsem ji, mrazilo mne, když stála přede mnou. Máš pravdu, jsem zlá a pukám vztekem; ale proč ona smí všechno? Drahý, prosím tě, přimluv se za ni; povolám ji zpět a udělám s ní, co budeš chtít, jen když budu vidět, že dovedeš takové věci ženám odpouštět. Vidíš, jsem zlá a ke všemu ještě závistivá. Nevím si rady steskem; chtěla bych Tě vidět, ale teď nemohu. Nesmíš mi psát. Líbám Tě.“
 
@@ -88,3 +92,5 @@ Pan Holz trčí přímo před altánem s rukama v kapsách. Jeho unavený obrys 
 V dalekém městečku bije půlnoc. Tedy konec všemu.
 
 Černým parkem uhání Prokop domů, bůhví proč teď má tak naspěch. Běží schýlen, a pět kroků za ním zívá a kluše pan Holz.
+
+</section>

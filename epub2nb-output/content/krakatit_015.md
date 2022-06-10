@@ -3,7 +3,7 @@ title: X\.
 contentType: prose
 ---
 
-  
+<section>
 
 Nuže, bylo lépe; den za dnem se Prokopovi vracel život drobnými krůčky. Cítil jen malátnost hlavy, bylo mu stále trochu jako ve snách. Nezbývalo než poděkovat doktorovi a jeti po svém. Chtěl to ohlásit jednou po večeři, ale zrovna všichni mlčeli jako zařezaní. A pak vzal starý doktor Prokopa pod paží a dovedl si ho do ordinace; po nějakém okolkování vyhrkl s rozpačitou hrubostí, že jako Prokop nemusí odjíždět, ať raději odpočívá, že nemá ještě vyhráno, a vůbec ať si tu zůstane a dost. Prokop se matně bránil; faktum ovšem bylo, že se ještě necítil v sedle a že se poněkud rozmazlil. Zkrátka o odjezdu nebylo zatím řeči.
 
@@ -52,3 +52,5 @@ Nyní doktor nosil klíč od ordinace v kapse. Prokop si objednal balík učený
 Po letech zase cítí Prokop tělesné blaho. Živočišně se oddává slunci a mhouří oči, aby naslouchal šumění svého těla. Vzdychne a sedá k práci; ale chce se mu běhat, toulá se daleko po kraji a věnuje se náruživé radosti dýchat. Někdy potká Anči v domě či v zahradě a pokouší se něco povídat; Anči se na něj dívá po očku a neví co mluvit; ale ani Prokop to neví, a proto upadá do bručivého tónu. Zkrátka je mu lépe nebo se aspoň cítí jistější, je-li sám.
 
 Při studiu pozoroval, že mnoho zanedbal; věda byla už v mnohém dále a jinde, leckdy se musel nově orientovat; a hlavně se bál vzpomínat na svou vlastní práci, neboť tam, to cítil, se mu nejvíc potrhala souvislost. Pracoval jako mezek nebo snil; snil o nových laboratorních metodách, ale zároveň ho lákal jemný a odvážný kalkul teoretika; a vztekal se sám na sebe, když jeho hrubý mozek nebyl s to rozštípnout teninký vlas problému. Byl si vědom, že jeho laboratorní „destruktivní chemie“ otvírá nejpodivnější průhledy do teorie hmoty; narážel na nečekané souvislosti, ale hned zas je rozšlapal svým příliš těžkým uvažováním. Rozmrzen praštil vším, aby se ponořil do nějakého hloupého románu; ale i tam ho pronásledovala laboratorní posedlost: místo slov četl samé chemické symboly; byly to bláznivé vzorce plné prvků dosud neznámých, jež ho znepokojovaly i ve snách.
+
+</section>

@@ -3,7 +3,7 @@ title: XXX\.
 contentType: prose
 ---
 
-  
+<section>
 
 Pan Carson běžel napřed k místu výbuchu. Princezna – patrně schválně – se opozdila; Prokop myslel, že mu chce něco říci, ale ona jen ukázala prstem na tváři: pozor, tady – Prokop si rychle sáhl na tvář; našel tam krvavé stopy jejího kousnutí, i zvedl hrst hlíny a rozmazal si ji po líci, jako by ho při výbuchu zasáhla hrouda.
 
@@ -25,11 +25,15 @@ Prokopovi pukalo srdce náhlou přemírou něžnosti. „Kdy,“ bručel, „kdy
 
 Jejich prsty se palčivě spletly; nevěda o tom táhl ji k sobě. „Nesmíš, teď nesmíš,“ zasykla a ožehla ho plamenným pohledem.
 
-  
+</section>
+
+<section>
 
 Jinaké větší škody pokusný výbuch Vicitu nezpůsobil. Shodilo to jen několik komínů na blízkých barácích a vyrazily se tlakem vzduchu nějaké okenní tabulky. Také velké vitráže v pokoji knížete Hagena pukly; v tu chvíli se chromý pán namáhavě vztyčil a stoje, jako voják, očekával další katastrofu.
 
-  
+</section>
+
+<section>
 
 Společnost v panském křídle seděla po večeři u černé kávy, když vešel Prokop rovnou hledaje očima princeznu; nemohl už snést řeřavá muka pochybností. Princezna zbledla; ale žoviální strýček Rohn se hned Prokopa ujal a gratuloval mu ke skvělému výkonu a kdesi cosi. Dokonce nadutý Suwalski se vyptával se zájmem, je-li to pravda, že pán může každou věc obrátit v třaskavinu. „Dejme tomu takový cukr,“ opakoval pořád, a žasl, když Prokop zabručel, že cukrem se střílelo už dávno za Veliké války. Po jistou dobu byl Prokop vůbec středem zájmu; ale koktal, odbýval všechny otázky a za živého boha nerozuměl povzbuzujícím pohledům princezniným; jen je chytal svýma krvavýma očima s děsnou pozorností. Princezna byla jako na trní.
 
@@ -56,3 +60,5 @@ Princezna vstala sotva vlekouc nohy. „Pánové prominou,“ děla chabě, pohl
 Nu, pak bylo nutno oslavit nějak Prokopův výkon; koneckonců byli to dobromyslní mládenci, kteří se jen hrozně rádi chvástali svými hrdinskými kousky. Prokop u nich ohromně stoupl v ceně tím, že rozmačkal láhev a dovedl pak vypít neuvěřitelné množství vína a kořalek, aniž spadl pod stůl. Ve tři hodiny ráno jej princ Suwalski slavnostně líbal a tlustý cousin téměř se slzami v očích mu nabízel tykání; pak skákali přes židle a dělali strašný rámus. Prokop se usmíval a měl hlavu jako v oblacích; ale když ho chtěli dovést k jediné balttinské holce, vytrhl se jim a prohlásil, že jsou opilá hovada a on že jde spat.
 
 Avšak místo aby tak zcela rozumně učinil, pustil se do černého parku a dlouho, nesmírně dlouho měřil očima temnou frontu zámku hledaje jakési okno. Pan Holz dřímal patnáct kroků dále, opřen o strom.
+
+</section>

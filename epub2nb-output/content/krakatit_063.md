@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Brizance (franc.) – tříštivost. _Pozn. red_.
 
 [\[2\]](./resources/undefined) Ve velkém. _Pozn. red_.
@@ -94,3 +96,5 @@ contentType: prose
 [\[45\]](./resources/undefined) Sláva vítězství! _Pozn. red_.
 
 [\[46\]](./resources/undefined) Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.
+
+</section>

@@ -3,7 +3,7 @@ title: XLI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Ráno se Krafft probudil teprve Paulovým kukáním; chtěl vyskočit, ale byl úplně zdřevěnělý, neboť celou noc mrzl a spal stočen jako pes. Když se konečně jakžtakž sebral, shledal, že je Prokop pryč; a jedna lodička z jejich flotily se kolébala u břehu. Měl velikou úzkost o svého vůdce, byl by ho šel hledat, ale bál se opustit pevnost tak dobře vybudovanou. I zlepšoval na ní, co ještě mohl, a vyhlížel krátkozrakýma očima Prokopa.
 
@@ -62,3 +62,5 @@ Procitl teprve tím, že jeden z černých pánů opatrně poslouchal na jeho pr
 „S čím?“ divil se Prokop.
 
 Černý pán mávl rukou. „Klid,“ řekl, „jenom klid.“ Prokop, třeba mu bylo nekonečně bídně, se ušklíbl; když si doktoři nevědí rady, vždycky předpisují klid. Ale ten s dobrýma rukama mu povídal: „Musíte věřit, že se uzdravíte. Víra dělá zázraky.“
+
+</section>

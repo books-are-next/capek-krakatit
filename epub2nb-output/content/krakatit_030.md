@@ -3,7 +3,7 @@ title: XXV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Půl roku neměl Prokop v rukou milované nádobíčko chemika.
 
@@ -36,3 +36,5 @@ Zatím princezna ani nedutajíc putovala cestičkou červených buků. Najednou 
 Za úsvitu našli Prokopa tvrdě spícího na lehátku v japonském altánu. Byl úžasně rozdrásán a zablácen a šaty na něm visely v cárech; na čele měl bouli jako pěst a vlasy spečené krví. Pan Carson potřásl hlavou nad spícím hrdinou noci. Potom se přišoural pan Paul a pečlivě přikryl chrupajícího spáče teplou houní; pak přinesl i umyvadlo s vodou a ručník, čisté prádlo a zbrusu nové sportovní šaty od pana Drehbeina, a po špičkách odešel.
 
 Jen dva nenápadní muži v civilu, s revolvery v zadní kapse, se procházeli až do rána v blízkosti japonského altánu s nenucenou tváří lidí, kteří dohlížejí na východ slunce.
+
+</section>

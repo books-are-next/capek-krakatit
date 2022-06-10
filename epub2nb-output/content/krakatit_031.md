@@ -3,7 +3,7 @@ title: XXVI\.
 contentType: prose
 ---
 
-  
+<section>
 
 Prokop čekal, kdoví co že bude následovat po oné noci; nenásledovalo nic, či spíše následoval ho onen člověk s lulkou – jediný, kterého se Prokop jaksi bál. Ten člověk se jmenoval Holz, – jméno, jež povídalo velmi málo o jeho tiché a bdělé podstatě. Kamkoliv se Prokop hnul, pohyboval se svých pět kroků za nim; Prokopa to divoce dráždilo a týral ho po celý den způsobem nejrafinovanějším: například pobíhal sem tam, sem tam po krátké cestičce padesátkrát a stokrát, čekaje, že pana Holze omrzí udělat vždycky po dvaceti krocích čelem vzad; pana Holze to však neomrzelo. I jal se Prokop utíkat a běžel třikrát round celým parkem; pan Holz mlčky uháněl za ním a ani nepřestal pouštět obláčky kouře, zatímco Prokop se udýchal, až to v něm hvízdalo.
 
@@ -40,3 +40,5 @@ Po půldruhé hodině vyrazil pan Carson z pokoje Prokopova, fialový a lesklý 
 Vešla princezna ve večerních šatech, popelavě bledá a s obočím palčivě staženým. Prokop jí pokročil vstříc a chtěl, jak se zdálo, něco říci; ale princezna jej zadržela pohybem ruky, pohybem, jenž byl pln výsosti a odporu, a řekla zadrhlým hlasem: „Jdu se vám… pane… omluvit za onen výstup. Nemínila jsem vás šlehnout. Lituji toho nesmírně.“
 
 Prokop zrudl a chtěl opět něco říci; ale princezna pokračovala: „Poručík Rohlauf dnes odjede. Kníže prosí, abyste někdy přišel k našemu stolu. Zapomeňte na tu příhodu. Na shledanou.“ Rychle mu podala ruku; Prokop se sotva dotkl jejích prstů. Byly velmi chladné a jako mrtvé.
+
+</section>

@@ -3,7 +3,7 @@ title: XLIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Neviděl princeznu od té doby, co ulehla; jen mu psala několikrát denně kratičké a horoucí dopisy, jež víc tajily, než povídaly. Od Paula slyšel, že polehává a opět přechází po pokojích; nemohl pochopit, že k němu nepřijde, sám již vstával z postele a čekal, že ho aspoň na minutku zavolá. Nevěděl, že ona zatím plivá krev z tuberkulózní kaverny, která se v ní akutně otevřela; nenapsala mu to, patrně se děsila, že by se mu jaksi ošklivěla, že by ho pálily na rtech stopy jejích někdejších polibků nebo co; a hlavně, hlavně se hrozila toho, že by se nezdržela a i nyní ho pocelovala horečnými rty. Neměl tušení, že v jeho vlastních chrchlech našli doktoři stopy infekce, což uvádělo princeznu v zoufalství sebeobviňování a úzkosti; nevěděl prostě nic, vztekal se, že s ním dělají takové okolky, když už se cítí skoro zdráv, a trnul studeným děsem, když opět uplynul den, aniž princezna projevila přání vidět ho. Omrzel jsem se jí, napadlo ho; nikdy jsem pro ni nebyl víc než chvilkový rozmar. Podezříval ji ze všeho možného; nechtěl se ponížit k tomu, aby sám naléhal na schůzku, nepsal jí skorem a jen čekal v lenošce s rukama a nohama ledovějícíma, že ona přijde, že vzkáže, že se něco vůbec stane.
 
@@ -76,3 +76,5 @@ Pan Carson pokyvoval hlavou skutečně a hluboce dojat. „Je to tak,“ řekl. 
 Prokop už neposlouchal; vyskočil a pobíhal po pokoji s tváří svraštělou a rozlícenou. „Já… já tedy musím, že?“ drtil chraptivě. „Tak tedy já musím? Dobře, když musím… Vy jste mne zaskočili! Já přece nechtěl –“
 
 Oncle Rohn vstal a položil mu mírně ruku na rameno. „Prokope,“ řekl, „rozhodneš se sám. Nepospícháme na tebe; poraď se s tím nejlepším, co v tobě je; dotaž se Boha, lásky nebo svědomí nebo cti nebo já nevím čeho. Jen pamatuj, že nejde jen o tebe, ale i o tu, která tě miluje tak, že je s to… učinit…“ Mávl bezmocně rukou. „Pojďme!“
+
+</section>

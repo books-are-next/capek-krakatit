@@ -3,7 +3,7 @@ title: XLV\.
 contentType: prose
 ---
 
-  
+<section>
 
 Bděli přimknuti k sobě a s očima vytřeštěnýma do polotmy. Cítil její srdce horečně bíti; nepromluvila slova za ty hodiny, líbala ho nenasytně a opět se odtrhla, kladla šáteček mezi své a jeho rty, jako by se bála na něho dechnout; i nyní odvrací tvář a zírá horečně do tmy –
 
@@ -118,3 +118,5 @@ Nedívala se na něho, neslyšela, co odpovídá; a hle, nyní se jí chvějí v
 „Už nejsi Prokopokopak,“ šeptala, „jsi nešťastný, nešťastný člověk. Viď, trháš sebou na řetěze… jako já. Bylo to… nedobré pouto, co nás svázalo; a přece, když to člověk přetrhává, je mu… je mu, jako by celé nitro šlo s sebou, i srdce, i duše… Bude v člověku čisto, když zůstane tak prázdný a pustý?“ Slzy jí vyhrkly prudčeji. „Milovala jsem tě, a teď už tě neuvidím. Jdi, jdi mi z cesty, já otočím.“
 
 Nehnul se, jako zkamenělý. Pojela těsně k němu. „Sbohem, Prokope,“ řekla tiše, a počala pozpátku sjíždět po silnici. Rozběhl se za ní; tu sjížděla couvajíc vozem rychleji, rychleji, stále rychleji; bylo to, jako by se propadala.
+
+</section>

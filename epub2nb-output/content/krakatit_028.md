@@ -3,7 +3,7 @@ title: XXIII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Rozhodlo se to bohužel jinak, než mínil.
 
@@ -90,3 +90,5 @@ Pan Carson kousal nějaký list, jakoby nic. „Škoda,“ řekl. „Tady je moc
 „To nespěchá. Odpočněte si, a je to. Nu, já musím po své práci. Můžete dělat, co vám je libo. Žádné formality. Chcete-li se vykoupat, tak tamhle je rybník. Nic nic, až později. Udělejte si pohodlí. Tak.“
 
 A byl pryč.
+
+</section>

@@ -3,7 +3,7 @@ title: XII\.
 contentType: prose
 ---
 
-  
+<section>
 
 Hned ráno ji zastihl, jak drhne mydlinkami Honzíka v neckách; psisko zoufale vytřepávalo vodu, ale Anči se nedala, držela ho za čupřiny a náruživě mydlila, postříkaná, zmáčená na břiše a usmátá. „Pozor,“ křičela z dálky, „postříká vás!“ Vypadala jako mladá nadšená maminka; oj bože, jak je vše prosté a jasné na tomto slunném světě!
 
@@ -86,3 +86,5 @@ Ještě jednou bylo Prokopovi svésti němý boj s pokušením. „Dobrou noc, A
 Anči poslušně vstala. „Dobrou noc,“ řekla a váhala; tak stáli proti sobě a nevěděli, co počít nebo skončit. Anči byla bledá, rozčileně mžikala a vypadala, jako by se chtěla odhodlat k nějakému hrdinství; ale když Prokop – už nadobro ztráceje hlavu – vztáhl ruku po jejím lokti, uhnula zbaběle a dala se na ústup. Tak šli zahradní stezičkou dobře na metr od sebe; ale když došli tam, co je ten nejčernější stín, patrně ztratili směr či co, neboť Prokop narazil zuby na nějaké čelo, políbil chvatně studený nos a našel svými ústy rty zoufale semknuté; tu je rozryl hrubou přesilou, lámaje děví šíji vypáčil jektající zuby a ukrutně líbal horoucí vláhu otevřených, sténajících úst. Pak už se mu vydrala z rukou, postavila se u zahradních vrátek a vzlykala. Tu ji běží Prokop těšit, hladí ji, rozsévá hubičky do vlasů a na ucho, na šíj a na záda, ale nepomáhá to; prosí, obrací k sobě mokré líčko, mokré oči, mokrou a štkající pusu, má ústa plná slanosti slz, celuje a hladí, a náhle vidí, že ona se už ničemu nebrání, že se vzdala na milost a nemilost a snad pláče nad svou hroznou porážkou. Nuže, všechno mužské rytířství rázem procitá v Prokopovi; pouští z náručí tu hromádku neštěstí a nesmírně dojat líbá jenom zoufalé prsty smáčené slzami a třesoucí se. Tak, tak je to lépe; a tu zas ona složí tvář na jeho hrubou pracku a celuje ji vlhkou, palčivou pusou a horkým dechem a tlukotem zrosených řas, a nedá si ji vzít. A tu i on mžiká očima a tají dech, aby nevzdychl mukou něhy.
 
 Anči zvedla hlavu. „Dobrou noc,“ povídá tiše a nastaví zcela prostě rty. Prokop se k nim skloní, vdechne na ně polibek, jak jemný jen umí, a už se ani neodváží ji doprovodit dál; stojí a trne, a pak se klidí až na druhý konec zahrady, kam nepronikne ani paprsek z jejího okna: stojí a vypadá, jako by se modlil. Nikoliv, není to modlitba; je to jen nejkrásnější noc života.
+
+</section>

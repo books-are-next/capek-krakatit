@@ -3,7 +3,7 @@ title: V\.
 contentType: prose
 ---
 
-  
+<section>
 
 Zdálo se mu, že jde ohromnou zelinářskou zahradou; kolem dokola nic než samé zelné hlávky, ale nejsou to hlávky, nýbrž zešklebené a olezlé, krhavé a blekotající, nestvůrné, vodnaté, trudovité a vyboulené hlavy lidské; vyrůstají z hubených košťálů a lezou po nich odporné zelené housenky. A hle, přes pole k němu běží dívka se závojem na tváři; zvedá trochu sukni a přeskakuje lidské hlávky. Tu vyrůstají zpod každé z nich nahé, úžasně tenké a chlupaté ruce a sahají jí po nohou a po sukních. Dívka křičí v šílené hrůze a zvedá sukni výše, až nad silná kolena, obnažuje bílé nohy a snaží se přeskočit ty chňapající ruce. Prokop zavírá oči; nesnese pohled na její bílé silné nohy, a šílí úzkostí, že ji ty zelné hlávky zhanobí. Tu vrhá se na zem a uřezává kapesním nožem první hlávku; ta zvířecky ječí a cvaká mu vyžranými zuby po rukou. Nyní druhá, třetí hlávka; Kriste Ježíši, kdy skosí to ohromné pole, než se dostane k dívce zápasící tam na druhé straně nekonečné zahrady? Zběsile vyskakuje a šlape po těch příšerných hlavách, rozdupává je, kope do nich; zaplete se nohama do jejich tenkých, přísavných pracek, padá, je uchopen, rván, dušen, a vše mizí.
 
@@ -52,3 +52,5 @@ Ve dveřích se zastavila a chtěla něco říci; mačkala v ruce kliku a čekal
 „Ne,“ vydechla a rychle na něj pohlédla. „Na shledanou.“
 
 Dveře za ní zapadly. Prokop se na ně díval, bylo mu najednou na smrt těžko a chabě, hlava se mu točila, a stálo ho nesmírné úsilí, aby učinil jediný krok.
+
+</section>
