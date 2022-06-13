@@ -2,38 +2,18 @@
 title: Tiráž
 ---
 
-<section>  
 **Karel Čapek**  
 **Krakatit**  
-</section>  
-<section>  
 Edice Bratři Čapkové  
-</section>  
-<section>  
 Obálka Alena Kubíková  
-</section>  
-<section>  
 Redakce Jaroslava Bednářová  
-</section>  
-<section>  
 Vydala **Městská knihovna v Praze**  
-</section>  
-<section>  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-<section>  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla [Krakatit](https://search.mlp.cz/cz/titul/tovarna-na-absolutno-krakatit/2302/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1982. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ***
 
@@ -41,14 +21,6 @@ Mariánské nám. 1, 115 72 Praha 1
 
 Text díla (Karel Čapek: Krakatit), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-</section>
-
-<section>
-
 [![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
-
-</section>
-
-<section>
