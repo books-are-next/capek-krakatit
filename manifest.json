@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-krakatit-5816db7",
-  "revision": "5816db7",
+  "identifier": "capek-krakatit-10e82b2",
+  "revision": "10e82b2",
   "readingOrder": [
     "promo.html",
     "krakatit_005.html",
@@ -74,8 +74,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:46:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272005750
+    "date": "Thu Jun 23 2022 09:56:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978169447
   },
   "documents": [
     {
