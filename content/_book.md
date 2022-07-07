@@ -74,7 +74,7 @@ readingOrder:
   - krakatit_061.html
   - krakatit_062.html
   - krakatit_063.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
