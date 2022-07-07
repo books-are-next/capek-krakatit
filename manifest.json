@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-krakatit-10e82b2",
-  "revision": "10e82b2",
+  "identifier": "capek-krakatit-a0b7dfb",
+  "revision": "a0b7dfb",
   "readingOrder": [
     "promo.html",
     "krakatit_005.html",
@@ -71,11 +71,11 @@
     "krakatit_061.html",
     "krakatit_062.html",
     "krakatit_063.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:56:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978169447
+    "date": "Thu Jul 07 2022 08:18:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181894968
   },
   "documents": [
     {
@@ -1224,7 +1224,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -1259,7 +1259,7 @@
       "role": "chapter",
       "order": 59,
       "prev": "krakatit_062.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1272,11 +1272,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 126,
-      "chars": 848,
+      "chars": 847,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "krakatit_063.html",
       "next": null,
@@ -1294,7 +1294,7 @@
   "totals": {
     "all": {
       "words": 78889,
-      "chars": 465597,
+      "chars": 465596,
       "ideas": 2104
     },
     "chapters": {

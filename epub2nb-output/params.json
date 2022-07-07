@@ -64,7 +64,7 @@
             "filename": "krakatit_003.md",
             "xhtml": "krakatit_003.html",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "krakatit_004.md",
             "xhtml": "krakatit_004.html",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -855,7 +855,7 @@
             "filename": "krakatit_064.md",
             "xhtml": "krakatit_064.html",
             "id": 63,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1346,6 +1346,6 @@
       "user": "books-are-next",
       "repo": "capek-krakatit"
     },
-    "generatedAt": 1655978054882
+    "generatedAt": 1657181693816
   }
 }
