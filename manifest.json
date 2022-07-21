@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-krakatit-91c778a",
-  "revision": "91c778a",
+  "identifier": "capek-krakatit-c5c6f04",
+  "revision": "c5c6f04",
   "readingOrder": [
     "promo.html",
     "krakatit_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:58:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187890660
+    "date": "Thu Jul 21 2022 14:41:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414501794
   },
   "documents": [
     {
@@ -1274,7 +1274,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 126,
-      "chars": 847,
+      "chars": 848,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -1294,7 +1294,7 @@
   "totals": {
     "all": {
       "words": 78889,
-      "chars": 465596,
+      "chars": 465597,
       "ideas": 2104
     },
     "chapters": {
