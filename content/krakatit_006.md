@@ -69,7 +69,7 @@ Prokop vydal ze sebe cosi na způsob smíchu. „Chtěl bys vědět, že? Holenk
 
 „– to vybuchlo.“
 
-„Vybuchlo. Jen takový nálet, jen prášek, co jsem utrousil. Ani to vidět nebylo. Tuhle – žárovka – kilometr dál. Ta to nebyla. A já – v lenošce, jako kus dřeva. Víš, unaven. Příliš práce. A najednou… prásk! Já letěl na zem. Okna to vyrazilo a – žárovka pryč. Detonace jako – jako když bouchne lydditová patrona. Stra-strašná brizance[\[1\]](./resources/undefined). Já – já nejdřív myslel, že praskla ta por-porcená – ponce – por-ce-lánová, polcelánová, porcenálová, poncelár, jak se to honem, to bílé, víte, izolátor, jak se to jmenuje? Kře-mi-čitan hlinitý.“
+„Vybuchlo. Jen takový nálet, jen prášek, co jsem utrousil. Ani to vidět nebylo. Tuhle – žárovka – kilometr dál. Ta to nebyla. A já – v lenošce, jako kus dřeva. Víš, unaven. Příliš práce. A najednou… prásk! Já letěl na zem. Okna to vyrazilo a – žárovka pryč. Detonace jako – jako když bouchne lydditová patrona. Stra-strašná brizance[^1]. Já – já nejdřív myslel, že praskla ta por-porcená – ponce – por-ce-lánová, polcelánová, porcenálová, poncelár, jak se to honem, to bílé, víte, izolátor, jak se to jmenuje? Kře-mi-čitan hlinitý.“
 
 „Porcelán.“
 

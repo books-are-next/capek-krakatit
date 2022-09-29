@@ -9,7 +9,7 @@ Ten den byl podmračný a sychravý. Princezna pokašlávala, mrazilo ji a opět
 
 Snad se ohlásí sám, napadlo ji, a v netrpělivém chvatu se dala oblékat do večerních šatů. Rozčilena stála před velikým zrcadlem a zkoumala se palčivýma očima, děsně nespokojena s účesem, se šaty, se vším možným; pokrývala rozpálené líce novými a novými vrstvami pudru, mrazilo ji na nahých pažích, ověšovala se šperky; připadala si ošklivá, nemožná a nemotorná. „Nepřišel Paul?“ ptala se každou chvíli. Konečně přišel: nic nového, pan Prokop sedí potmě a nedovolí rozsvítit.
 
-Je už pozdě; princezna nesmírně unavena sedí před zrcadlem, pudr jí odprýskává s rozžhavených lící, je zrovna šedivá a ruce má ztuhlé. „Odstroj mne,“ káže chabě komorné. Svěží, telátkovité děvče snímá s ní šperk za šperkem, rozpíná šaty a navléká jí průsvitný peignoir[\[42\]](./resources/undefined); a právě když se chystá pročesat její rozpoutanou hřívu, vrazí do dveří Prokop neohlášen.
+Je už pozdě; princezna nesmírně unavena sedí před zrcadlem, pudr jí odprýskává s rozžhavených lící, je zrovna šedivá a ruce má ztuhlé. „Odstroj mne,“ káže chabě komorné. Svěží, telátkovité děvče snímá s ní šperk za šperkem, rozpíná šaty a navléká jí průsvitný peignoir[^42]; a právě když se chystá pročesat její rozpoutanou hřívu, vrazí do dveří Prokop neohlášen.
 
 Princezna strnula a zbledla ještě víc. „Jdi, Marieke,“ vydechla a sevřela na hubených prsou peignoir. „Proč… jsi… přišel?“
 

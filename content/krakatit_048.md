@@ -55,7 +55,7 @@ Bylo hrozné ticho. Le bon prince se díval z okna, Carsonovy oči zmizely za bl
 
 „Co?“
 
-Carson napsal prstem do vzduchu veliké K. „Nic víc,“ vydechl odlehčen. „Den nato dostanete dekret… jmenován extra statum[\[40\]](./resources/undefined) setníkem-inženýrem sapérů[\[41\]](./resources/undefined)… přidělen do Balttinu. Hotovo. Tak.“
+Carson napsal prstem do vzduchu veliké K. „Nic víc,“ vydechl odlehčen. „Den nato dostanete dekret… jmenován extra statum[^40] setníkem-inženýrem sapérů[^41]… přidělen do Balttinu. Hotovo. Tak.“
 
 „Totiž jen prozatím setníkem,“ ozval se oncle Charles. „Víc jsme nedocílili. Ale dostalo se nám záruky, že jakmile dojde neočekávaně k válce –“
 

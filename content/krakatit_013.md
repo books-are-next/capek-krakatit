@@ -45,7 +45,7 @@ Doktor chtěl hubovat dál, ale zavrčel jen a mávl rukou. „A jak se cítíte
 
 Prokop mlčel.
 
-„Tak tedy, pane inženýre,“ spustil doktor. „Z toho si nic nedělat. Nějaký čásek to potrvá, co? Rozumíte mi? Nesmíte si namáhat hlavu. Nemyslet. To se vrátí… po kouskách. Jen přechodná porucha, slabá amence[\[7\]](./resources/undefined), rozumíte mi? To přejde samo od sebe, co? Rozumíte mi?“
+„Tak tedy, pane inženýre,“ spustil doktor. „Z toho si nic nedělat. Nějaký čásek to potrvá, co? Rozumíte mi? Nesmíte si namáhat hlavu. Nemyslet. To se vrátí… po kouskách. Jen přechodná porucha, slabá amence[^7], rozumíte mi? To přejde samo od sebe, co? Rozumíte mi?“
 
 Doktor křičel, potil se a rozčiloval se, jako by se hádal s hluchoněmým. Prokop se na něj pozorně díval, a ozval se klidně: „Já tedy zůstanu slabomyslný?“
 

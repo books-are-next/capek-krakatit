@@ -47,7 +47,7 @@ Pan Carson se rozřehtal a vysmekl se mu jako uličník. „Nebo, jaképak nebo?
 
 „Zmlátím vás,“ soptil Prokop řítě se na něho celou svou těžkou vahou. Carson kvičel radostí a skákal po trávníku kličkuje jako zajíc. „Honem,“ jásal, „tady jsem,“ a už zase uklouzl Prokopovi pod rukou a dělal na něho kukuč za pněm stromu.
 
-Prokop mlčky uháněl za ním s pěstmi zaťatými, vážný a hrozný jako Aiás[\[18\]](./resources/undefined). Supěl už bez dechu, když najednou zahlédl, že ze zámeckých schodů přihmouřenýma očima sleduje jejich běh hnědá amazonka. Zastyděl se nesmírně, stanul a jaksi se lekl, že teď snad ta dívka mu přijde ohmatat kotníky.
+Prokop mlčky uháněl za ním s pěstmi zaťatými, vážný a hrozný jako Aiás[^18]. Supěl už bez dechu, když najednou zahlédl, že ze zámeckých schodů přihmouřenýma očima sleduje jejich běh hnědá amazonka. Zastyděl se nesmírně, stanul a jaksi se lekl, že teď snad ta dívka mu přijde ohmatat kotníky.
 
 Pan Carson, najednou zase docela vážný, coural se k němu s rukama v kapsách a povídal přátelsky: „Málo tréninku. Nesmíte pořád sedět. Cvičit srdce. Tak. Aá,“ zahlaholil rozzářen, „naše velitelka, haholihoo! Dcera starého,“ dodával tiše. „Princezna Wille, totiž Wilhelmina Adelhaida Maud a tak dále. Zajímavá holka, osmadvacet let, ohromná jezdkyně. Musím vás představit,“ řekl nahlas a vlekl vzpouzejícího se Prokopa k dívce. „Nejjasnější princezno,“ volal zdálky, „tady vám – do jisté míry proti jeho vůli – představuji našeho hosta. Inženýr Prokop. Strašně zuřivý člověk. Chce mne zabít.“
 

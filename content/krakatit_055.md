@@ -45,7 +45,7 @@ Prokop se obrátil ke stolu jako ve snách. Ne, to tu nebylo, nenene, to sem nep
 
 „Tamto je normální stanice,“ vysvětloval Daimon, „na obyčejné hovory. To druhé je naše extinkční stanice. Tou posíláme ty antivlny, protiproudy, umělé magnetické bouře nebo jak to chcete jmenovat. To je celé naše tajemství. Vyznáte se v tom?“
 
-„Ne.“ Prokop zběžně přehlédl aparáty zcela nepodobné všemu, co znal. Mělo to spoustu odporů, jakousi drátěnou mřížku, cosi podobného katodové trubici, nějaké izolované bubny či co a podivný koherer, relé a tastr[\[44\]](./resources/undefined) s kontakty; nevěděl, co to vůbec je. Nechal aparátu a koukal na strop, je-li na něm také ta divná kresba dřeva, která mu tam doma vždycky připomínala hlavu starce. Ano, je je je tam. A tamhle je to zrcátko s uraženým rohem –
+„Ne.“ Prokop zběžně přehlédl aparáty zcela nepodobné všemu, co znal. Mělo to spoustu odporů, jakousi drátěnou mřížku, cosi podobného katodové trubici, nějaké izolované bubny či co a podivný koherer, relé a tastr[^44] s kontakty; nevěděl, co to vůbec je. Nechal aparátu a koukal na strop, je-li na něm také ta divná kresba dřeva, která mu tam doma vždycky připomínala hlavu starce. Ano, je je je tam. A tamhle je to zrcátko s uraženým rohem –
 
 „Co říkáte aparátu?“ ptal se Daimon.
 

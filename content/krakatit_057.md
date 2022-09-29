@@ -99,7 +99,7 @@ K plotu se loudavě blížila bílá postava s hořícím uhlíkem cigarety. „
 
 „Prosím vás, přijde sem Tomeš?“
 
-„Ani ho nenapadne,“ povídal laborant opovržlivě. „Nepotřebuje vás. Za čtvrt hodiny to máme hotovo, a pak, gloria victoria[\[45\]](./resources/undefined)! pak se napiju.“
+„Ani ho nenapadne,“ povídal laborant opovržlivě. „Nepotřebuje vás. Za čtvrt hodiny to máme hotovo, a pak, gloria victoria[^45]! pak se napiju.“
 
 „Prosím vás, řekněte mu, ať… ať mně dá jen tu adresu!“
 
@@ -123,7 +123,7 @@ Uprostřed polí našel něco světlého; hmatal na to, byl to poražený kří�
 
 Tu vyrazila nad Grottupem obrovská černá masa, vše zhaslo; jako by se tma roztrhla, vyšlehl vteřinu nato ohnivý sloup, strašlivě zaplál a rozhodil kyklopskou hradbu dýmu; a tu již zadul hučící náraz vzduchu, něco zapraskalo, stromy skřípavě zašuměly, a prásk! děsné švihnutí bičem, rachot, burácející úder a dunění; země se chvěje a ve vzduchu šíleně víří urvané listí. Lapaje po dechu, drže se oběma rukama podstavce kříže, aby ho to nesmetlo, poulí Prokop oči do sršící výhně. I rozštípne se země mocí ohňovou, a v rachotu hromu promluví Pán.
 
-Ráz na ráz se vyvalil druhý a třetí masiv, roztrhl se rudým šlehnutím a zaplál třetí, nejhroznější výbuch; patrně chytly sklady. Nějaká hořící masa letí do nebe, rozprskne se a snáší se deštěm explodujících jisker. Zadul nesmírný praštící rachot a mění se v bubnovou palbu; ve skladech explodují zápalné rakety a srší jako jiskry pod bušícím kladivem. Rozlil se brunátný oheň požáru, jenž puká tata rrrtata suchými ranami jako hnízdo mitrajéz[\[46\]](./resources/undefined). Vyrazil čtvrtý a pátý výbuch s třeskným zařváním houfnice; požár přeletěl na obě strany; hoří málem půl obzoru.
+Ráz na ráz se vyvalil druhý a třetí masiv, roztrhl se rudým šlehnutím a zaplál třetí, nejhroznější výbuch; patrně chytly sklady. Nějaká hořící masa letí do nebe, rozprskne se a snáší se deštěm explodujících jisker. Zadul nesmírný praštící rachot a mění se v bubnovou palbu; ve skladech explodují zápalné rakety a srší jako jiskry pod bušícím kladivem. Rozlil se brunátný oheň požáru, jenž puká tata rrrtata suchými ranami jako hnízdo mitrajéz[^46]. Vyrazil čtvrtý a pátý výbuch s třeskným zařváním houfnice; požár přeletěl na obě strany; hoří málem půl obzoru.
 
 Teprve nyní doletěl zoufalý praskot skoseného lesa grottupského; ale už se přes něj valila nárazová kanonáda hořících skladů. Šestý výbuch se roztrhl tvrdým ostrým třesknutím; patrně kresylit; vzápětí hlouběji, basově zahoukla exploze sudů s dynamonem. Bleskem vyletí ohromný planoucí projektil dopolou nebes; vyšlehne vysoký plamen, zhasne a vyskočí o kus dál, ale teprve po vteřinách zahlučí rána a zaburácí hromový otřes. Na chvíli ticho, že slyšíš praskot ohně, jako když se roští láme; nový rachotící a těžký náraz, a nad grottupskými závody rázem se slehne plamen, nechávaje jen nízké žíření; prudkým letícím plápolem hoří město Grottup.
 

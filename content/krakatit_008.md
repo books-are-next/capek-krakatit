@@ -25,7 +25,7 @@ Prokop se zvědavě díval do jeho neobyčejně výrazné tváře. Mělo to brit
 
 „Škoda něco rozbít. I atomu je škoda. Nu tak dál.“
 
-„Já… rozbiju atom. Já vím, že už Rutherford… Ale to byla jen taková páračka se zářením, víte? To nic není. To se musí en masse[\[2\]](./resources/undefined). Jestli chcete, já vám rozbourám tunu bismutu; rozštípne to ce-celý svět, ale to je jedno. Chcete?“
+„Já… rozbiju atom. Já vím, že už Rutherford… Ale to byla jen taková páračka se zářením, víte? To nic není. To se musí en masse[^2]. Jestli chcete, já vám rozbourám tunu bismutu; rozštípne to ce-celý svět, ale to je jedno. Chcete?“
 
 „Proč byste to dělal?“
 
@@ -33,7 +33,7 @@ Prokop se zvědavě díval do jeho neobyčejně výrazné tváře. Mělo to brit
 
 „Nu, třeba v atomu,“ mínil Plinius.
 
-„Aha,“ prohlásil Prokop vítězně a utřel si pot. „Tady je ten vtip. Jednoduše v atomu. Ono to… vrazí atomy do sebe… a… sss… serve betaplášť… a jádro se musí rozpadnout. To je alfaexploze. Víte, kdo jsem? Já jsem první člověk, který překročil koeficient stlačitelnosti, pane. Já jsem našel atomové výbuchy. Já… já jsem vyrazil z bismutu tantal. Poslyšte, víte vy, kolik je vy-výkonu v jednom gramu rtuti? Čtyři sta dvaašedesát milionů kilogramometrů. Hmota je děsně silná. Hmota je regiment, který přešlapuje na místě: ráz dva, ráz dva; ale dejte ten pravý povel, a regiment vyrazí v útok, en evant![\[3\]](./resources/undefined) To je výbuch, rozumíte? Hurá!“
+„Aha,“ prohlásil Prokop vítězně a utřel si pot. „Tady je ten vtip. Jednoduše v atomu. Ono to… vrazí atomy do sebe… a… sss… serve betaplášť… a jádro se musí rozpadnout. To je alfaexploze. Víte, kdo jsem? Já jsem první člověk, který překročil koeficient stlačitelnosti, pane. Já jsem našel atomové výbuchy. Já… já jsem vyrazil z bismutu tantal. Poslyšte, víte vy, kolik je vy-výkonu v jednom gramu rtuti? Čtyři sta dvaašedesát milionů kilogramometrů. Hmota je děsně silná. Hmota je regiment, který přešlapuje na místě: ráz dva, ráz dva; ale dejte ten pravý povel, a regiment vyrazí v útok, en evant![^3] To je výbuch, rozumíte? Hurá!“
 
 Prokop se zarazil vlastním křikem; v hlavě mu bušilo tak, že přestal cokoli vnímat. „Promiňte,“ řekl, aby zamluvil rozpaky, a hledal třesoucí se rukou své pouzdro na cigára. „Kouříte?“
 

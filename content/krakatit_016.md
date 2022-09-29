@@ -35,7 +35,7 @@ Vrátil jídlo skoro netknuté a vrhl se rozmrzen na postel. Je zřejmo, že už
 
 Služka mu přinesla večeři. Nechal ji vystydnout a poslouchal, co se děje dole. Vidličky cinkaly, doktor bručel a náramně brzo po večeři práskl dveřmi u svého pokoje. Bylo ticho.
 
-Jist, že už nikoho nepotká, sebral se Prokop a šel do zahrady. Byla vlažná a jasná noc. Už kvetou šeříky a pustoryl, Bootes[\[11\]](./resources/undefined) široce rozpíná na nebi svou hvězdnou náruč, je ticho prohloubené dalekým psím štěkáním. O kamennou zídku v zahradě se opírá něco světlého. Je to ovšem Anči.
+Jist, že už nikoho nepotká, sebral se Prokop a šel do zahrady. Byla vlažná a jasná noc. Už kvetou šeříky a pustoryl, Bootes[^11] široce rozpíná na nebi svou hvězdnou náruč, je ticho prohloubené dalekým psím štěkáním. O kamennou zídku v zahradě se opírá něco světlého. Je to ovšem Anči.
 
 „Je krásně, že?“ dostal ze sebe, aby vůbec něco řekl, a opřel se o zídku vedle ní. Anči nic, jenom odvrací tvář a její ramena sebou nezvykle a neklidně trhají.
 

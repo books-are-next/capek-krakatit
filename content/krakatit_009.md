@@ -9,7 +9,7 @@ Teď jsem něco vyžvanil, uvědomoval si Prokop jasnějším cípem mozku; ale 
 
 Byl úplně zpocen a odkopán. Díval se horečnýma očima na Tomše, který chvatně přecházel po pokoji a házel nějaké věci do kufříku; ale nepoznával ho. „Poslyšte, poslyšte,“ začal, „to je k smíchu, poslyšte, tak počkejte, to musíte, poslyšte –“ Chtěl říci jako vtip ten podivuhodný odborný název, a sám se smál předem; ale živou mocí si nemohl vzpomenout, jak to vlastně bylo, i rozmrzel se a umlkl.
 
-Tomeš si oblékl ulstr[\[4\]](./resources/undefined) a narazil čepici; a když už bral kufřík, zaváhal a sedl si na pelest k Prokopovi. „Poslyš, starouši,“ řekl starostlivě, „já teď musím odejet. K tátovi, do Týnice. Nedá-li mně peníze, tak – se už nevrátím, víš? Ale nic si z toho nedělej. Ráno sem přijde domovnice a přivede ti doktora, ano?“
+Tomeš si oblékl ulstr[^4] a narazil čepici; a když už bral kufřík, zaváhal a sedl si na pelest k Prokopovi. „Poslyš, starouši,“ řekl starostlivě, „já teď musím odejet. K tátovi, do Týnice. Nedá-li mně peníze, tak – se už nevrátím, víš? Ale nic si z toho nedělej. Ráno sem přijde domovnice a přivede ti doktora, ano?“
 
 „Kolik je hodin?“ ptal se Prokop netečně.
 
