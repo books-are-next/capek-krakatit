@@ -35,10 +35,102 @@ Den nato už Prokop v posteli seděl a slavně přijímal návštěvy. Veškeré
 
 Krafft se přivlekl zsinalý a zkroušený. Oslavoval v noci své zázračné fluidum velkými úlitbami vína, a nyní mu bylo prabídně. Bědoval, že navždycky utopil svou ódickou sílu, a umiňoval si od nynějška indickou askezi podle jógy.
 
-Přišel i oncle Charles, byl très aimable[\[38\]](./resources/undefined) a jemně zdrženlivý; Prokop mu byl vděčen, že le bon prince našel pěkný tón jako před měsícem, znovu mu vykaje a zábavně povídaje o svých zkušenostech. Jen když se hovor vzdáleně dotkl princezny, padala na ně jistá rozpačitost.
+Přišel i oncle Charles, byl très aimable[^38] a jemně zdrženlivý; Prokop mu byl vděčen, že le bon prince našel pěkný tón jako před měsícem, znovu mu vykaje a zábavně povídaje o svých zkušenostech. Jen když se hovor vzdáleně dotkl princezny, padala na ně jistá rozpačitost.
 
 Zatím princezna v druhém křídle suše, bolestně pokašlávala a přijímala každé půl hodiny Paula, který musel povídat, co dělá Prokop, co jedl, kdo je u něho.
 
-Ještě se mu vracely horečky s děsnými sny. Viděl temnou kůlnu a nekonečné řady sudů s Krakatitem; před kůlnou chodí vojáček se zbraní sem a tam, sem a tam; nic víc, ale bylo to hrůzné. Zdálo se mu, že je zase ve válce; před ním nesmírné pole s mrtvými, všichni jsou mrtvi, i on je mrtvý a přimrzlý ledem k zemi; jen pan Carson klopýtá přes mrtvoly, sakruje mezi zuby a dívá se netrpělivě na hodinky. Z druhé strany se škubavými, posunčivými pohyby blíží chromý Hagen; jde kupodivu rychle, skáče jako polní kobylka a vrže při každém křečovitém pohybu. Carson nedbale pozdraví a něco mu povídá; Prokop marně napíná uši, neslyší ani slova, snad to odnáší vítr; Hagen ukazuje předlouhou vychrtlou rukou k obzoru; co si to povídají? Hagen se odvrátí, sáhne si k ústům a vyjme odtamtud žlutý koňský chrup i s čelistmi; místo úst má nyní propadlou černou díru, jež se bezhlase chechtá. Druhou rukou si vydloubne z očnice ohromnou bulvu oka a drže ji mezi prsty nastavuje ji zblízka k tváři padlým; a žlutý chrup v jeho druhé ruce skřehotavě počítá: „Sedmnáct tisíc sto dvacet jedna, sto dvacet dvě, sto dvacet tři.“ Prokop se nemůže odvrátit, neboť je mrtev; děsná krvavá bulva utkví nad jeho lící, a koňský chrup zaskřehotá „sedmnáct tisíc sto dvacet devět“ a cvakne. Nyní se již Hagen ztrácí v dálce, pořád počítaje; a přes mrtvoly skáče princezna se sukněmi nestoudně vyhrnutými vysoko nad kraj kalhot, blíží se k Prokopovi a mává v ruce tatarským bunčukem, jako by to byl bičík. Stane nad Prokopem, zalechtá ho bunčukem[\[39\]](./resources/undefined) pod nosem a šťouchá ho špičkou nohy do hlavy, jako by zkoušela, je-li mrtev. Tryskla mu krev do tváří, ač byl skutečně mrtev, tak mrtev, že cítil v sobě srdce zmrzlé na kost; avšak nemohl snést pohled na její ztepilé nohy. „Milý, milý,“ zašeptala a pomalým pohybem spustila sukně, klekla mu u hlav a sahala dlaní lehýnce po jeho prsou. Najednou mu vytrhla z kapsy tu silnou převázanou obálku a vyskočila, roztrhala ji zuřivě na kousky a hodila do větru. Pak se s rukama rozpřaženýma roztočila a vířila, vířila šlapajíc po mrtvých, až zmizela v noční tmě.
+Ještě se mu vracely horečky s děsnými sny. Viděl temnou kůlnu a nekonečné řady sudů s Krakatitem; před kůlnou chodí vojáček se zbraní sem a tam, sem a tam; nic víc, ale bylo to hrůzné. Zdálo se mu, že je zase ve válce; před ním nesmírné pole s mrtvými, všichni jsou mrtvi, i on je mrtvý a přimrzlý ledem k zemi; jen pan Carson klopýtá přes mrtvoly, sakruje mezi zuby a dívá se netrpělivě na hodinky. Z druhé strany se škubavými, posunčivými pohyby blíží chromý Hagen; jde kupodivu rychle, skáče jako polní kobylka a vrže při každém křečovitém pohybu. Carson nedbale pozdraví a něco mu povídá; Prokop marně napíná uši, neslyší ani slova, snad to odnáší vítr; Hagen ukazuje předlouhou vychrtlou rukou k obzoru; co si to povídají? Hagen se odvrátí, sáhne si k ústům a vyjme odtamtud žlutý koňský chrup i s čelistmi; místo úst má nyní propadlou černou díru, jež se bezhlase chechtá. Druhou rukou si vydloubne z očnice ohromnou bulvu oka a drže ji mezi prsty nastavuje ji zblízka k tváři padlým; a žlutý chrup v jeho druhé ruce skřehotavě počítá: „Sedmnáct tisíc sto dvacet jedna, sto dvacet dvě, sto dvacet tři.“ Prokop se nemůže odvrátit, neboť je mrtev; děsná krvavá bulva utkví nad jeho lící, a koňský chrup zaskřehotá „sedmnáct tisíc sto dvacet devět“ a cvakne. Nyní se již Hagen ztrácí v dálce, pořád počítaje; a přes mrtvoly skáče princezna se sukněmi nestoudně vyhrnutými vysoko nad kraj kalhot, blíží se k Prokopovi a mává v ruce tatarským bunčukem, jako by to byl bičík. Stane nad Prokopem, zalechtá ho bunčukem[^39] pod nosem a šťouchá ho špičkou nohy do hlavy, jako by zkoušela, je-li mrtev. Tryskla mu krev do tváří, ač byl skutečně mrtev, tak mrtev, že cítil v sobě srdce zmrzlé na kost; avšak nemohl snést pohled na její ztepilé nohy. „Milý, milý,“ zašeptala a pomalým pohybem spustila sukně, klekla mu u hlav a sahala dlaní lehýnce po jeho prsou. Najednou mu vytrhla z kapsy tu silnou převázanou obálku a vyskočila, roztrhala ji zuřivě na kousky a hodila do větru. Pak se s rukama rozpřaženýma roztočila a vířila, vířila šlapajíc po mrtvých, až zmizela v noční tmě.
 
 </section>
+
+[^1]: Brizance (franc.) – tříštivost. _Pozn. red_.
+
+[^2]: Ve velkém. _Pozn. red_.
+
+[^3]: Kupředu! _Pozn. red_.
+
+[^4]: Ulstr – těžký zimní kabát. _Pozn. red_.
+
+[^5]: Frýzek – vlys. _Pozn. red_.
+
+[^6]: Překlad O. Vaňorného (1921).
+
+[^7]: Amence (lat.) – zmatenost. _Pozn. red_.
+
+[^8]: Divinace (lat.) – tušení, předvídání. _Pozn. red_.
+
+[^9]: Kybelé, podle řecké mytologie maloasijská „velká matka bohů“, matka veškerého života. _Pozn. red_.
+
+[^10]: L. Buchner (1824–1899) – něm. lékař a filozof s radikálně materialistickými názory. _Pozn. red_.
+
+[^11]: Bootes (lat.) – souhvězdí Pastýře. _Pozn. red_.
+
+[^12]: Ženerózní /generózní (franc.) – šlechetný. _Pozn. red_.
+
+[^13]: Očekávám tě, P. S. Pozor, K. dorazil z Hamburku… _Pozn. red_.
+
+[^14]: Jinak na to K. přijde. _Pozn. red_.
+
+[^15]: „Jednomu jest vznešenou, nebeskou bohyní, druhému vydatnou krávou, která mu dává mléko.“ Schillerův epigram, překlad O. Vaňorný. _Pozn. red_.
+
+[^16]: Nauen – německé město, v němž byla r. 1906 založena nejstarší německá radiostanice. _Pozn. red._
+
+[^17]: Makao /macao – karetní hra. _Pozn. red_.
+
+[^18]: Aiás – hrdina Homérovy Iliady, nejvyšší a nejsilnější ze všech Achájců. _Pozn. red_.
+
+[^19]: Laissez-passer (franc.) – propustka. _Pozn. red_.
+
+[^20]: Chaise longue (franc.) – lehátko. _Pozn. red_.
+
+[^21]: Želví polévka. _Pozn. red_.
+
+[^22]: Bej / beg (tur.) – islámský panovník, později nižší hodnostář či úředník. _Pozn. red_.
+
+[^23]: Galop (franc.) – klus. _Pozn. red_.
+
+[^24]: Fraktura femoris (lat.) – zlomenina stehenní kosti. _Pozn. red_.
+
+[^25]: Swedenborg, Imanuel (1688–1772) – švéd. přírodovědec, známý mj. svými teozofickými vizemi. _Pozn. red_.
+
+[^26]: Cousine (franc.) – bratranec. _Pozn. red_.
+
+[^27]: Můj strýc. _Pozn. red_.
+
+[^28]: Velký umělec. _Pozn. red_.
+
+[^29]: Učitel tance. _Pozn. red_.
+
+[^30]: Elože (řec.) – chvalořeč, pochvala. _Pozn. red_.
+
+[^31]: To je hloupé. _Pozn. red_.
+
+[^32]: Kakemono (jap.) – svitkový závěsný obraz. _Pozn. red_.
+
+[^33]: Konfinace – úřední příkaz k pobytu na určeném místě, omezení volného pohybu. _Pozn. red_.
+
+[^34]: Inkulpace – obvinění. _Pozn. red_.
+
+[^35]: Dernier cri (franc.) – dosl. poslední výkřik. _Pozn. red_.
+
+[^36]: Komtur (franc.) – vyšší hodnostář rytířského řádu. _Pozn. red_.
+
+[^37]: Dreadnought (angl.) – pův. název bitevní lodi (Ničeho se neboj), obecné označení pro takový typ lodí. _Pozn. red_.
+
+[^38]: Velmi laskavý. _Pozn. red_.
+
+[^39]: Bunčuk (tur.) – vojenský odznak (žerď s koňským ohonem). _Pozn. red_.
+
+[^40]: Extra statum (lat.) – mimo stav, mimořádně. _Pozn. red_.
+
+[^41]: Sapér (franc.) – ženista. _Pozn. red_.
+
+[^42]: Peignoir (franc.) – župan. _Pozn. red_.
+
+[^43]: Kontribuce – peněžní dávky vymáhané okupační mocí na obyvatelstvu obsazeného území. _Pozn. red_.
+
+[^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.
+
+[^45]: Sláva vítězství! _Pozn. red_.
+
+[^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.

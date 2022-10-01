@@ -15,7 +15,7 @@ Prokop zamířil v tu stranu, kde se park svažoval dolů; našel tam rybník s 
 
 To vše Prokopa velmi rozlaďovalo. Carson mně musí říci, kudy se jde ven, umiňoval si; nejsem přece kanár, aby mne drželi v kleci. Vyhnul se obloukem tenisovému hřišti a zamířil k parkové cestě, kudy ho Carson vedl nahoru do zámku. Jenže teď se mu postavil do cesty filmový chlapík v placaté čepici, a kam prý pán ráčí.
 
-„Ven,“ řekl Prokop zkrátka. Ale „tudy se nesmí,“ vysvětloval mu člověk v čepici; tudy prý se jde k muničním barákům, a kdo tam chce jít, musí mít laissez-passer[\[19\]](./resources/undefined) od ředitelství. Ostatně vrata ze zámku přímo ven jsou tuhle zpátky, po hlavní cestě a vlevo prosím.
+„Ven,“ řekl Prokop zkrátka. Ale „tudy se nesmí,“ vysvětloval mu člověk v čepici; tudy prý se jde k muničním barákům, a kdo tam chce jít, musí mít laissez-passer[^19] od ředitelství. Ostatně vrata ze zámku přímo ven jsou tuhle zpátky, po hlavní cestě a vlevo prosím.
 
 Prokop se tedy pustil po hlavní cestě a vlevo prosím, až přišel k velikým mřížovým vratům. Děda vrátný mu šel otevřít. „Račte mít lístek?“
 
@@ -33,13 +33,13 @@ Děda krčil lítostivě rameny: „Prosím, dneska mi dali rozkaz.“
 
 Chudáku, myslel si Prokop, ty bys tak někoho mohl zadržet! Jen udělat rukou takhle –
 
-Z okna vrátného domku vyhlédla povědomá tvář, náramně podobná jistému Bobovi. Prokop tedy ani nedokončil svou myšlenku, otočil se na patě a loudal se zpátky k zámku. U všech rohatých, řekl si, to jsou divné okolky; skoro to vypadá, jako by tu někdo měl být zavřen. Dobrá, promluvím si o tom s Carsonem. Především vůbec nestojím o jejich pohostinství a nepůjdu k obědu; nebudu sedět s panáky, kteří se tam na tenisovém hřišti chechtali za mými zády. – Rozhořčen nesmírně odebral se Prokop do pokojů, které mu byly vykázány, a vrhl se na staroučkou chaise longue[\[20\]](./resources/undefined), až to zapraskalo, a hněval se. Za chvíli zaklepal pan Paul a ptal se vlídně a starostlivě, půjde-li pán k déjeuner.
+Z okna vrátného domku vyhlédla povědomá tvář, náramně podobná jistému Bobovi. Prokop tedy ani nedokončil svou myšlenku, otočil se na patě a loudal se zpátky k zámku. U všech rohatých, řekl si, to jsou divné okolky; skoro to vypadá, jako by tu někdo měl být zavřen. Dobrá, promluvím si o tom s Carsonem. Především vůbec nestojím o jejich pohostinství a nepůjdu k obědu; nebudu sedět s panáky, kteří se tam na tenisovém hřišti chechtali za mými zády. – Rozhořčen nesmírně odebral se Prokop do pokojů, které mu byly vykázány, a vrhl se na staroučkou chaise longue[^20], až to zapraskalo, a hněval se. Za chvíli zaklepal pan Paul a ptal se vlídně a starostlivě, půjde-li pán k déjeuner.
 
 „Nepůjdu,“ vrčel Prokop.
 
 Pan Paul se poklonil a zmizel. Za chvilku tu byl zas a strkal před sebou stůl na kolečkách, pokrytý sklenicemi, křehoučkým porcelánem a stříbrem. „Prosím, jaké víno?“ ptal se něžně. Prokop zamručel cosi jako aby mu dali pokoj.
 
-Pan Paul šel po špičkách ke dveřím a vzal tam z dvou bílých pracek velikou mísu. „Consommé de tortues[\[21\]](./resources/undefined),“ šeptal pozorně a naléval Prokopovi, načež mísa opět zmizela v bílých tlapách. Toutéž cestou přišla ryba, pečeně, saláty, věci, které Prokop jakživ nejedl, a ani dobře nevěděl, jak se jedí; než ostýchal se dát před panem Paulem najevo jakékoliv rozpaky. Kupodivu, jeho hněv se nějak rozplýval. „Sedněte si,“ kázal Paulovi, ochutnávaje nosem a patrem nahořklé bleďoučké víno. Pan Paul se šetrně uklonil a zůstal ovšem stát.
+Pan Paul šel po špičkách ke dveřím a vzal tam z dvou bílých pracek velikou mísu. „Consommé de tortues[^21],“ šeptal pozorně a naléval Prokopovi, načež mísa opět zmizela v bílých tlapách. Toutéž cestou přišla ryba, pečeně, saláty, věci, které Prokop jakživ nejedl, a ani dobře nevěděl, jak se jedí; než ostýchal se dát před panem Paulem najevo jakékoliv rozpaky. Kupodivu, jeho hněv se nějak rozplýval. „Sedněte si,“ kázal Paulovi, ochutnávaje nosem a patrem nahořklé bleďoučké víno. Pan Paul se šetrně uklonil a zůstal ovšem stát.
 
 „Poslyšte, Paul,“ pokračoval Prokop, „myslíte, že tu jsem zavřen?“
 
@@ -75,7 +75,7 @@ Pan Paul uvažoval a počítal. „Na hlavní stráži asi dvě stě. To je infa
 
 „Ne, děkuju vám.“
 
-Prokop se natáhl na chaise longue rozkošnicky jako sytý bej[\[22\]](./resources/undefined). Nu uvidíme, řekl si; až potud to není tak zlé. Chtěl vše uvážit, ale místo toho si vzpomněl, jak před ním Carson poskakoval. Že bych ho nedohonil? napadlo ho a pustil se za ním. Stačil jediný pětimetrový skok; ale tu se Carson vznesl jako kobylka a hladce přelétl přes skupinu keřů. Prokop dupnul nohou a vzlétl za ním, a jen zvedl nohy, když letěl nad vrcholky křoví. Nový odraz, a již letěl bůhvíkam, nestaraje se dále o Carsona. Vznášel se mezi stromy, lehýnký a volný jako pták; zkusil několik plaveckých rázů nohama, a vida, stoupal výš. To se mu nesmírně zalíbilo. Mocnými tempy se šrouboval kolmo nahoru. Pod nohama se mu jako pěkně narýsovaný plán otevíral zámecký park se svými altány, trávníky a vinutými cestami; lze rozeznat tenisové hřiště, rybník, střechu zámku, březový hájek; tam je ten dvůr se psy a borový les a ostnatý plot, a napravo už začínají muniční baráky, a za nimi vysoká zeď. Prokop zamířil vzduchem nad tu stranu parku, kde dosud nebyl. Cestou zjistil, že to, co považoval za terasu, je vlastně bývalé opevnění zámku, mohutná bašta s podsebitím a příkopem, druhdy patrně napájeným z rybníka. Hlavně mu šlo o tu část parku mezi hlavním východem a baštou; jsou tam zarostlé cestičky a divoké křoví, hradba vysoká už jen asi tři metry a pod ní jakési smetiště nebo kompost; dále zelinářská zahrada a kolem řádková zeď hodně chatrná a v ní zelená vrátka; za vrátky silnice. Tam se podívám, řekl si Prokop a snášel se pomalu dolů. Tu však vyrazila na silnici škadrona jízdy s tasenými šavlemi, a rovnou na něho. Prokop přitáhl nohy až k bradě, aby mu je neusekli; ale tím dostal takový kolmý rozmach, že vylétl do výše jako šíp. Když se zas podíval dolů, viděl vše maličké jako na mapě; dole na silnici předjíždí malinká baterie děl, lesklá hlaveň se obrací nahoru, vyrazil bílý obláček, a bum! první granát přeletěl Prokopovi nad hlavou. Zastřelují se, mínil Prokop, a rychle vesloval rukama, aby se dostal dál. Bum! druhý granát zafičel Prokopovi před nosem. Prokop se dal na ústup tak rychle, jak to šlo. Bum! třetí rána mu rázem přerazila křídla a Prokop se řítil hlavou k zemi, a procitl. Někdo klepal na dveře.
+Prokop se natáhl na chaise longue rozkošnicky jako sytý bej[^22]. Nu uvidíme, řekl si; až potud to není tak zlé. Chtěl vše uvážit, ale místo toho si vzpomněl, jak před ním Carson poskakoval. Že bych ho nedohonil? napadlo ho a pustil se za ním. Stačil jediný pětimetrový skok; ale tu se Carson vznesl jako kobylka a hladce přelétl přes skupinu keřů. Prokop dupnul nohou a vzlétl za ním, a jen zvedl nohy, když letěl nad vrcholky křoví. Nový odraz, a již letěl bůhvíkam, nestaraje se dále o Carsona. Vznášel se mezi stromy, lehýnký a volný jako pták; zkusil několik plaveckých rázů nohama, a vida, stoupal výš. To se mu nesmírně zalíbilo. Mocnými tempy se šrouboval kolmo nahoru. Pod nohama se mu jako pěkně narýsovaný plán otevíral zámecký park se svými altány, trávníky a vinutými cestami; lze rozeznat tenisové hřiště, rybník, střechu zámku, březový hájek; tam je ten dvůr se psy a borový les a ostnatý plot, a napravo už začínají muniční baráky, a za nimi vysoká zeď. Prokop zamířil vzduchem nad tu stranu parku, kde dosud nebyl. Cestou zjistil, že to, co považoval za terasu, je vlastně bývalé opevnění zámku, mohutná bašta s podsebitím a příkopem, druhdy patrně napájeným z rybníka. Hlavně mu šlo o tu část parku mezi hlavním východem a baštou; jsou tam zarostlé cestičky a divoké křoví, hradba vysoká už jen asi tři metry a pod ní jakési smetiště nebo kompost; dále zelinářská zahrada a kolem řádková zeď hodně chatrná a v ní zelená vrátka; za vrátky silnice. Tam se podívám, řekl si Prokop a snášel se pomalu dolů. Tu však vyrazila na silnici škadrona jízdy s tasenými šavlemi, a rovnou na něho. Prokop přitáhl nohy až k bradě, aby mu je neusekli; ale tím dostal takový kolmý rozmach, že vylétl do výše jako šíp. Když se zas podíval dolů, viděl vše maličké jako na mapě; dole na silnici předjíždí malinká baterie děl, lesklá hlaveň se obrací nahoru, vyrazil bílý obláček, a bum! první granát přeletěl Prokopovi nad hlavou. Zastřelují se, mínil Prokop, a rychle vesloval rukama, aby se dostal dál. Bum! druhý granát zafičel Prokopovi před nosem. Prokop se dal na ústup tak rychle, jak to šlo. Bum! třetí rána mu rázem přerazila křídla a Prokop se řítil hlavou k zemi, a procitl. Někdo klepal na dveře.
 
 „Vstupte,“ křikl Prokop a vyskočil, nechápaje, kde vůbec je.
 
@@ -190,3 +190,95 @@ Prokop se svou legitimací se pustil k hlavním vratům. Děda vrátný ji studo
 Byla tam vzorně zařízená laboratoř pro chemii třaskavin – tak moderní a úplná, že se v Prokopovi zatajil dech radostí odborníka. Na hřebíku visela jeho stará halena, v rohu vojenský kavalec tak jako v Praze, a v přihrádkách velkolepě vybaveného psacího stolu ležely pečlivě spořádány a zkatalogizovány veškeré jeho tištěné články a rukopisné poznámky.
 
 </section>
+
+[^1]: Brizance (franc.) – tříštivost. _Pozn. red_.
+
+[^2]: Ve velkém. _Pozn. red_.
+
+[^3]: Kupředu! _Pozn. red_.
+
+[^4]: Ulstr – těžký zimní kabát. _Pozn. red_.
+
+[^5]: Frýzek – vlys. _Pozn. red_.
+
+[^6]: Překlad O. Vaňorného (1921).
+
+[^7]: Amence (lat.) – zmatenost. _Pozn. red_.
+
+[^8]: Divinace (lat.) – tušení, předvídání. _Pozn. red_.
+
+[^9]: Kybelé, podle řecké mytologie maloasijská „velká matka bohů“, matka veškerého života. _Pozn. red_.
+
+[^10]: L. Buchner (1824–1899) – něm. lékař a filozof s radikálně materialistickými názory. _Pozn. red_.
+
+[^11]: Bootes (lat.) – souhvězdí Pastýře. _Pozn. red_.
+
+[^12]: Ženerózní /generózní (franc.) – šlechetný. _Pozn. red_.
+
+[^13]: Očekávám tě, P. S. Pozor, K. dorazil z Hamburku… _Pozn. red_.
+
+[^14]: Jinak na to K. přijde. _Pozn. red_.
+
+[^15]: „Jednomu jest vznešenou, nebeskou bohyní, druhému vydatnou krávou, která mu dává mléko.“ Schillerův epigram, překlad O. Vaňorný. _Pozn. red_.
+
+[^16]: Nauen – německé město, v němž byla r. 1906 založena nejstarší německá radiostanice. _Pozn. red._
+
+[^17]: Makao /macao – karetní hra. _Pozn. red_.
+
+[^18]: Aiás – hrdina Homérovy Iliady, nejvyšší a nejsilnější ze všech Achájců. _Pozn. red_.
+
+[^19]: Laissez-passer (franc.) – propustka. _Pozn. red_.
+
+[^20]: Chaise longue (franc.) – lehátko. _Pozn. red_.
+
+[^21]: Želví polévka. _Pozn. red_.
+
+[^22]: Bej / beg (tur.) – islámský panovník, později nižší hodnostář či úředník. _Pozn. red_.
+
+[^23]: Galop (franc.) – klus. _Pozn. red_.
+
+[^24]: Fraktura femoris (lat.) – zlomenina stehenní kosti. _Pozn. red_.
+
+[^25]: Swedenborg, Imanuel (1688–1772) – švéd. přírodovědec, známý mj. svými teozofickými vizemi. _Pozn. red_.
+
+[^26]: Cousine (franc.) – bratranec. _Pozn. red_.
+
+[^27]: Můj strýc. _Pozn. red_.
+
+[^28]: Velký umělec. _Pozn. red_.
+
+[^29]: Učitel tance. _Pozn. red_.
+
+[^30]: Elože (řec.) – chvalořeč, pochvala. _Pozn. red_.
+
+[^31]: To je hloupé. _Pozn. red_.
+
+[^32]: Kakemono (jap.) – svitkový závěsný obraz. _Pozn. red_.
+
+[^33]: Konfinace – úřední příkaz k pobytu na určeném místě, omezení volného pohybu. _Pozn. red_.
+
+[^34]: Inkulpace – obvinění. _Pozn. red_.
+
+[^35]: Dernier cri (franc.) – dosl. poslední výkřik. _Pozn. red_.
+
+[^36]: Komtur (franc.) – vyšší hodnostář rytířského řádu. _Pozn. red_.
+
+[^37]: Dreadnought (angl.) – pův. název bitevní lodi (Ničeho se neboj), obecné označení pro takový typ lodí. _Pozn. red_.
+
+[^38]: Velmi laskavý. _Pozn. red_.
+
+[^39]: Bunčuk (tur.) – vojenský odznak (žerď s koňským ohonem). _Pozn. red_.
+
+[^40]: Extra statum (lat.) – mimo stav, mimořádně. _Pozn. red_.
+
+[^41]: Sapér (franc.) – ženista. _Pozn. red_.
+
+[^42]: Peignoir (franc.) – župan. _Pozn. red_.
+
+[^43]: Kontribuce – peněžní dávky vymáhané okupační mocí na obyvatelstvu obsazeného území. _Pozn. red_.
+
+[^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.
+
+[^45]: Sláva vítězství! _Pozn. red_.
+
+[^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.

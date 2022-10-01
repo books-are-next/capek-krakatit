@@ -7,13 +7,13 @@ contentType: prose
 
 To se rozumí, slavný chirurg neuznal práci vojenského řezníka, roztahoval znovu Prokopovy zlomeniny a nakonec to vše zalil do sádry a řekl, že levá extremita zůstane podle všeho chromá.
 
-Prokopovi nastaly dny slavné a ležácké. Krafft mu předčítal Swedenborga[\[25\]](./resources/undefined) a pan Paul rodinné kalendáře, zatímco princezna dala obklopit lůžko trpitele všemi nádhernými vazbami světové literatury. Nakonec Prokopa omrzely i kalendáře a jal se Krafftovi diktovat soustavné dílo o destruktivní chemii. Nejvíc si – kupodivu – oblíbil Carsona, jehož drzost a bezohlednost mu imponovala; neboť našel pod ní veliké plány a potrhlou fanatičnost zásadního, mezinárodního militaristy. Pan Paul byl na vrcholu blaženství; nyní byl nepostradatelný od noci do noci a mohl sloužiti každým dechem a každým krůčkem svých šouravých nohou.
+Prokopovi nastaly dny slavné a ležácké. Krafft mu předčítal Swedenborga[^25] a pan Paul rodinné kalendáře, zatímco princezna dala obklopit lůžko trpitele všemi nádhernými vazbami světové literatury. Nakonec Prokopa omrzely i kalendáře a jal se Krafftovi diktovat soustavné dílo o destruktivní chemii. Nejvíc si – kupodivu – oblíbil Carsona, jehož drzost a bezohlednost mu imponovala; neboť našel pod ní veliké plány a potrhlou fanatičnost zásadního, mezinárodního militaristy. Pan Paul byl na vrcholu blaženství; nyní byl nepostradatelný od noci do noci a mohl sloužiti každým dechem a každým krůčkem svých šouravých nohou.
 
 Ležíš sevřen hmotou, podoben poraženému pni; ale což necítíš jiskření strašlivých a neznámých sil v té nehybné hmotě, jež tě poutá? Hovíš si na prachových poduškách nabitých větší silou než sud dynamitu; tvé tělo je spící třaskavina, a i třesoucí se, zvadlá ručička Paulova skrývá v sobě větší možnou brizanci než melinitová kapsle. Spočíváš nehnutě v oceánu nezměřitelných, nerozložených, nevypáčených sil; co je kolem tebe, nejsou pokojné zdi, tiší lidé a hučící koruny stromů, nýbrž muniční sklad, kosmická prachárna připravená k strašlivému výkonu; ťukáš kloubem na hmoty, jako bys přehlížel sudy ekrazitu, zkoumaje, jak jsou plné.
 
 Prokopovy ruce zprůhledněly nehybností, ale nabyly zato podivného hmatu: cítily zrovna a odhadovaly detonační potenciál všeho, čehokoliv se dotkly. Mladé tělo má ohromné brizantní napětí; ale opět dr. Krafft, nadšenec a idealista, obsahuje poměrně slabou výbušnou kvalitu, kdežto Carsonovo detonační číslo se blíží tetranitranilinu; a Prokop se zachvěním vzpomínal na chladný dotek princezniny ruky, jenž mu vyzradil příšernou brizanci toho zpupného amazonského tvora. Prokop si lámal hlavu, závisí-li potenciální třaskavá energie organismu na přítomnosti nějakých enzymových či jakých látek, nebo na chemické stavbě samotných buněčných jader, jež jsou náboji par excellence. Ať je tomu jakkoliv: rád bych viděl, jak by ta černá, nadutá holka explodovala.
 
-Teď už pan Paul vozí Prokopa v lenošce po parku; pan Holz je nyní zbytečný, ale činí se, neboť byl v něm objeven veliký talent masérský, a Prokop cítí z jeho tuhých prstů zrovna prýštit blahodárnou explozivní sílu. Potká-li někdy princezna pacienta v parku, promluví něco s dokonalou a přesně odměřenou zdvořilostí, a Prokop k svému vzteku nikdy nepochopí, jak se to dělá; neboť sám je buď příliš hrubý, nebo příliš sdílný. Ostatní společnost vidí v Prokopovi podivína; to jim dává právo nebrat ho vážně a jemu volnost býti k nim nezdvořilý jako drvoštěp. Jednou se princezna ráčila u něho zastavit s celým průvodem; nechala pány stát, usedla vedle Prokopa a ptala se ho po jeho práci. Prokop, chtěje jí co nejvíce vyhovět, upadl do tak odborného výkladu, jako by měl přednášku na mezinárodním kongresu chemiků; kníže Suwalski a jakýsi cousin[\[26\]](./resources/undefined) se začali šťouchat a smát, a tu se Prokop rozvzteklil a utrhl se na ně, jim že to nepovídá. Všechny oči se obrátily na Její Jasnost, neboť na ní bylo usadit nesrstného plebejce; ale princezna se trpělivě usmála a poslala pány hrát tenis. Zatímco se za nimi dívala očima jako kmín přimhouřenýma, zpytoval ji Prokop úkosem; vlastně poprvé si jí pořádně všiml. Byla tuhá, tenká, s nadbytkem pigmentu v pleti, vlastně ne zrovna hezká; maličká ňadra, nohy přehozeny, skvostné rasové ruce; na pyšném čele jizva, oči skryté a prudké, pod ostrým nosem temné chmýří, zpupné a tvrdé rty; nu ano, vlastně téměř hezká. Jaké má opravdu oči?
+Teď už pan Paul vozí Prokopa v lenošce po parku; pan Holz je nyní zbytečný, ale činí se, neboť byl v něm objeven veliký talent masérský, a Prokop cítí z jeho tuhých prstů zrovna prýštit blahodárnou explozivní sílu. Potká-li někdy princezna pacienta v parku, promluví něco s dokonalou a přesně odměřenou zdvořilostí, a Prokop k svému vzteku nikdy nepochopí, jak se to dělá; neboť sám je buď příliš hrubý, nebo příliš sdílný. Ostatní společnost vidí v Prokopovi podivína; to jim dává právo nebrat ho vážně a jemu volnost býti k nim nezdvořilý jako drvoštěp. Jednou se princezna ráčila u něho zastavit s celým průvodem; nechala pány stát, usedla vedle Prokopa a ptala se ho po jeho práci. Prokop, chtěje jí co nejvíce vyhovět, upadl do tak odborného výkladu, jako by měl přednášku na mezinárodním kongresu chemiků; kníže Suwalski a jakýsi cousin[^26] se začali šťouchat a smát, a tu se Prokop rozvzteklil a utrhl se na ně, jim že to nepovídá. Všechny oči se obrátily na Její Jasnost, neboť na ní bylo usadit nesrstného plebejce; ale princezna se trpělivě usmála a poslala pány hrát tenis. Zatímco se za nimi dívala očima jako kmín přimhouřenýma, zpytoval ji Prokop úkosem; vlastně poprvé si jí pořádně všiml. Byla tuhá, tenká, s nadbytkem pigmentu v pleti, vlastně ne zrovna hezká; maličká ňadra, nohy přehozeny, skvostné rasové ruce; na pyšném čele jizva, oči skryté a prudké, pod ostrým nosem temné chmýří, zpupné a tvrdé rty; nu ano, vlastně téměř hezká. Jaké má opravdu oči?
 
 Tu je k němu plně obrátila, a Prokop se zmátl. „Prý umíte hmatem poznat povahu,“ řekla honem. „Vypravoval o tom Krafft.“ Prokop se zasmál tomuto ženskému výkladu své zvláštní chemotaxe. „Nu ano,“ povídal, „člověk cítí, kolik má která věc síly; to nic není.“ Princezna pohlédla rychle na jeho ruku a potom kolem dokola; nebyl tam nikdo.
 
@@ -31,7 +31,7 @@ Princezna mlčky pokývla: ano.
 
 Vyliv takto svou osobní, uraženou hořkost, začal Prokop o princezně smýšlet laskavěji; dokonce ho tuze mrzelo, že se mu nyní zřejmě vyhýbá. Chystal se říci jí při nejbližší příležitosti něco hodně přívětivého, ale příležitost se už nenaskytla.
 
-Na zámek přijel kníže Rohn, zvaný mon oncle[\[27\]](./resources/undefined) Charles, bratr nebožky kněžny, takový vzdělaný a jemný světoběžník, amatér všeho možného, tres grand artiste[\[28\]](./resources/undefined), jak se říkalo, který dokonce napsal několik historických románů, ale jinak byl nadmíru milý člověk; k Prokopovi pojal zvláštní náklonnost a trávil u něho celé hodiny. Prokop mnoho profitoval od jemného pána, obrousil se jaksi a pochopil, že jsou na světě také jiné věci než destruktivní chemie. Oncle Charles byl vtělená anekdotická kronika; Prokop rád stočil hovor na princeznu a naslouchal se zájmem, jaké to bývalo zlé, ztřeštěné, pyšné a velkodušné děvčátko, jež kdysi střelilo po svém maître de danse[\[29\]](./resources/undefined) a jindy si chtělo dát vyříznout kus kůže na transplantaci pro popálenou chůvu; když jí to zakázali, porazila ze vzteku une vitrine s nejvzácnějším sklem. Le bon oncle také přivlekl k Prokopovi klacka Egona a dával jej (Prokopa) chlapci za příklad s takovými elóžemi[\[30\]](./resources/undefined), že se chudák Prokop červenal stejně jako Egonek.
+Na zámek přijel kníže Rohn, zvaný mon oncle[^27] Charles, bratr nebožky kněžny, takový vzdělaný a jemný světoběžník, amatér všeho možného, tres grand artiste[^28], jak se říkalo, který dokonce napsal několik historických románů, ale jinak byl nadmíru milý člověk; k Prokopovi pojal zvláštní náklonnost a trávil u něho celé hodiny. Prokop mnoho profitoval od jemného pána, obrousil se jaksi a pochopil, že jsou na světě také jiné věci než destruktivní chemie. Oncle Charles byl vtělená anekdotická kronika; Prokop rád stočil hovor na princeznu a naslouchal se zájmem, jaké to bývalo zlé, ztřeštěné, pyšné a velkodušné děvčátko, jež kdysi střelilo po svém maître de danse[^29] a jindy si chtělo dát vyříznout kus kůže na transplantaci pro popálenou chůvu; když jí to zakázali, porazila ze vzteku une vitrine s nejvzácnějším sklem. Le bon oncle také přivlekl k Prokopovi klacka Egona a dával jej (Prokopa) chlapci za příklad s takovými elóžemi[^30], že se chudák Prokop červenal stejně jako Egonek.
 
 Po pěti nedělích už běhal o holi; vracel se stále častěji do laboratoře a pracoval jako morovatý, až mu zas procitla bolest v noze, takže cestou domů zrovna visel na ruce pozorného Holze. Pan Carson zářil, když viděl Prokopa tak mírného a pracovitého, a ťukal chvílemi na onu stranu, kde v Pánu odpočíval Krakatit; než to byla věc, o níž Prokop nechtěl ani slyšet.
 
@@ -72,3 +72,95 @@ Nicméně ráno nato donesl pan Paul Prokopovi cosi jako svátost, a že prý to
 Byla to krabička pronikavě vonného nahnědlého pudru.
 
 </section>
+
+[^1]: Brizance (franc.) – tříštivost. _Pozn. red_.
+
+[^2]: Ve velkém. _Pozn. red_.
+
+[^3]: Kupředu! _Pozn. red_.
+
+[^4]: Ulstr – těžký zimní kabát. _Pozn. red_.
+
+[^5]: Frýzek – vlys. _Pozn. red_.
+
+[^6]: Překlad O. Vaňorného (1921).
+
+[^7]: Amence (lat.) – zmatenost. _Pozn. red_.
+
+[^8]: Divinace (lat.) – tušení, předvídání. _Pozn. red_.
+
+[^9]: Kybelé, podle řecké mytologie maloasijská „velká matka bohů“, matka veškerého života. _Pozn. red_.
+
+[^10]: L. Buchner (1824–1899) – něm. lékař a filozof s radikálně materialistickými názory. _Pozn. red_.
+
+[^11]: Bootes (lat.) – souhvězdí Pastýře. _Pozn. red_.
+
+[^12]: Ženerózní /generózní (franc.) – šlechetný. _Pozn. red_.
+
+[^13]: Očekávám tě, P. S. Pozor, K. dorazil z Hamburku… _Pozn. red_.
+
+[^14]: Jinak na to K. přijde. _Pozn. red_.
+
+[^15]: „Jednomu jest vznešenou, nebeskou bohyní, druhému vydatnou krávou, která mu dává mléko.“ Schillerův epigram, překlad O. Vaňorný. _Pozn. red_.
+
+[^16]: Nauen – německé město, v němž byla r. 1906 založena nejstarší německá radiostanice. _Pozn. red._
+
+[^17]: Makao /macao – karetní hra. _Pozn. red_.
+
+[^18]: Aiás – hrdina Homérovy Iliady, nejvyšší a nejsilnější ze všech Achájců. _Pozn. red_.
+
+[^19]: Laissez-passer (franc.) – propustka. _Pozn. red_.
+
+[^20]: Chaise longue (franc.) – lehátko. _Pozn. red_.
+
+[^21]: Želví polévka. _Pozn. red_.
+
+[^22]: Bej / beg (tur.) – islámský panovník, později nižší hodnostář či úředník. _Pozn. red_.
+
+[^23]: Galop (franc.) – klus. _Pozn. red_.
+
+[^24]: Fraktura femoris (lat.) – zlomenina stehenní kosti. _Pozn. red_.
+
+[^25]: Swedenborg, Imanuel (1688–1772) – švéd. přírodovědec, známý mj. svými teozofickými vizemi. _Pozn. red_.
+
+[^26]: Cousine (franc.) – bratranec. _Pozn. red_.
+
+[^27]: Můj strýc. _Pozn. red_.
+
+[^28]: Velký umělec. _Pozn. red_.
+
+[^29]: Učitel tance. _Pozn. red_.
+
+[^30]: Elože (řec.) – chvalořeč, pochvala. _Pozn. red_.
+
+[^31]: To je hloupé. _Pozn. red_.
+
+[^32]: Kakemono (jap.) – svitkový závěsný obraz. _Pozn. red_.
+
+[^33]: Konfinace – úřední příkaz k pobytu na určeném místě, omezení volného pohybu. _Pozn. red_.
+
+[^34]: Inkulpace – obvinění. _Pozn. red_.
+
+[^35]: Dernier cri (franc.) – dosl. poslední výkřik. _Pozn. red_.
+
+[^36]: Komtur (franc.) – vyšší hodnostář rytířského řádu. _Pozn. red_.
+
+[^37]: Dreadnought (angl.) – pův. název bitevní lodi (Ničeho se neboj), obecné označení pro takový typ lodí. _Pozn. red_.
+
+[^38]: Velmi laskavý. _Pozn. red_.
+
+[^39]: Bunčuk (tur.) – vojenský odznak (žerď s koňským ohonem). _Pozn. red_.
+
+[^40]: Extra statum (lat.) – mimo stav, mimořádně. _Pozn. red_.
+
+[^41]: Sapér (franc.) – ženista. _Pozn. red_.
+
+[^42]: Peignoir (franc.) – župan. _Pozn. red_.
+
+[^43]: Kontribuce – peněžní dávky vymáhané okupační mocí na obyvatelstvu obsazeného území. _Pozn. red_.
+
+[^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.
+
+[^45]: Sláva vítězství! _Pozn. red_.
+
+[^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.

@@ -99,7 +99,7 @@ K plotu se loudavě blížila bílá postava s hořícím uhlíkem cigarety. „
 
 „Prosím vás, přijde sem Tomeš?“
 
-„Ani ho nenapadne,“ povídal laborant opovržlivě. „Nepotřebuje vás. Za čtvrt hodiny to máme hotovo, a pak, gloria victoria[\[45\]](./resources/undefined)! pak se napiju.“
+„Ani ho nenapadne,“ povídal laborant opovržlivě. „Nepotřebuje vás. Za čtvrt hodiny to máme hotovo, a pak, gloria victoria[^45]! pak se napiju.“
 
 „Prosím vás, řekněte mu, ať… ať mně dá jen tu adresu!“
 
@@ -123,10 +123,102 @@ Uprostřed polí našel něco světlého; hmatal na to, byl to poražený kří�
 
 Tu vyrazila nad Grottupem obrovská černá masa, vše zhaslo; jako by se tma roztrhla, vyšlehl vteřinu nato ohnivý sloup, strašlivě zaplál a rozhodil kyklopskou hradbu dýmu; a tu již zadul hučící náraz vzduchu, něco zapraskalo, stromy skřípavě zašuměly, a prásk! děsné švihnutí bičem, rachot, burácející úder a dunění; země se chvěje a ve vzduchu šíleně víří urvané listí. Lapaje po dechu, drže se oběma rukama podstavce kříže, aby ho to nesmetlo, poulí Prokop oči do sršící výhně. I rozštípne se země mocí ohňovou, a v rachotu hromu promluví Pán.
 
-Ráz na ráz se vyvalil druhý a třetí masiv, roztrhl se rudým šlehnutím a zaplál třetí, nejhroznější výbuch; patrně chytly sklady. Nějaká hořící masa letí do nebe, rozprskne se a snáší se deštěm explodujících jisker. Zadul nesmírný praštící rachot a mění se v bubnovou palbu; ve skladech explodují zápalné rakety a srší jako jiskry pod bušícím kladivem. Rozlil se brunátný oheň požáru, jenž puká tata rrrtata suchými ranami jako hnízdo mitrajéz[\[46\]](./resources/undefined). Vyrazil čtvrtý a pátý výbuch s třeskným zařváním houfnice; požár přeletěl na obě strany; hoří málem půl obzoru.
+Ráz na ráz se vyvalil druhý a třetí masiv, roztrhl se rudým šlehnutím a zaplál třetí, nejhroznější výbuch; patrně chytly sklady. Nějaká hořící masa letí do nebe, rozprskne se a snáší se deštěm explodujících jisker. Zadul nesmírný praštící rachot a mění se v bubnovou palbu; ve skladech explodují zápalné rakety a srší jako jiskry pod bušícím kladivem. Rozlil se brunátný oheň požáru, jenž puká tata rrrtata suchými ranami jako hnízdo mitrajéz[^46]. Vyrazil čtvrtý a pátý výbuch s třeskným zařváním houfnice; požár přeletěl na obě strany; hoří málem půl obzoru.
 
 Teprve nyní doletěl zoufalý praskot skoseného lesa grottupského; ale už se přes něj valila nárazová kanonáda hořících skladů. Šestý výbuch se roztrhl tvrdým ostrým třesknutím; patrně kresylit; vzápětí hlouběji, basově zahoukla exploze sudů s dynamonem. Bleskem vyletí ohromný planoucí projektil dopolou nebes; vyšlehne vysoký plamen, zhasne a vyskočí o kus dál, ale teprve po vteřinách zahlučí rána a zaburácí hromový otřes. Na chvíli ticho, že slyšíš praskot ohně, jako když se roští láme; nový rachotící a těžký náraz, a nad grottupskými závody rázem se slehne plamen, nechávaje jen nízké žíření; prudkým letícím plápolem hoří město Grottup.
 
 Ztuhlý úděsem zvedl se Prokop a klopýtal odtud.
 
 </section>
+
+[^1]: Brizance (franc.) – tříštivost. _Pozn. red_.
+
+[^2]: Ve velkém. _Pozn. red_.
+
+[^3]: Kupředu! _Pozn. red_.
+
+[^4]: Ulstr – těžký zimní kabát. _Pozn. red_.
+
+[^5]: Frýzek – vlys. _Pozn. red_.
+
+[^6]: Překlad O. Vaňorného (1921).
+
+[^7]: Amence (lat.) – zmatenost. _Pozn. red_.
+
+[^8]: Divinace (lat.) – tušení, předvídání. _Pozn. red_.
+
+[^9]: Kybelé, podle řecké mytologie maloasijská „velká matka bohů“, matka veškerého života. _Pozn. red_.
+
+[^10]: L. Buchner (1824–1899) – něm. lékař a filozof s radikálně materialistickými názory. _Pozn. red_.
+
+[^11]: Bootes (lat.) – souhvězdí Pastýře. _Pozn. red_.
+
+[^12]: Ženerózní /generózní (franc.) – šlechetný. _Pozn. red_.
+
+[^13]: Očekávám tě, P. S. Pozor, K. dorazil z Hamburku… _Pozn. red_.
+
+[^14]: Jinak na to K. přijde. _Pozn. red_.
+
+[^15]: „Jednomu jest vznešenou, nebeskou bohyní, druhému vydatnou krávou, která mu dává mléko.“ Schillerův epigram, překlad O. Vaňorný. _Pozn. red_.
+
+[^16]: Nauen – německé město, v němž byla r. 1906 založena nejstarší německá radiostanice. _Pozn. red._
+
+[^17]: Makao /macao – karetní hra. _Pozn. red_.
+
+[^18]: Aiás – hrdina Homérovy Iliady, nejvyšší a nejsilnější ze všech Achájců. _Pozn. red_.
+
+[^19]: Laissez-passer (franc.) – propustka. _Pozn. red_.
+
+[^20]: Chaise longue (franc.) – lehátko. _Pozn. red_.
+
+[^21]: Želví polévka. _Pozn. red_.
+
+[^22]: Bej / beg (tur.) – islámský panovník, později nižší hodnostář či úředník. _Pozn. red_.
+
+[^23]: Galop (franc.) – klus. _Pozn. red_.
+
+[^24]: Fraktura femoris (lat.) – zlomenina stehenní kosti. _Pozn. red_.
+
+[^25]: Swedenborg, Imanuel (1688–1772) – švéd. přírodovědec, známý mj. svými teozofickými vizemi. _Pozn. red_.
+
+[^26]: Cousine (franc.) – bratranec. _Pozn. red_.
+
+[^27]: Můj strýc. _Pozn. red_.
+
+[^28]: Velký umělec. _Pozn. red_.
+
+[^29]: Učitel tance. _Pozn. red_.
+
+[^30]: Elože (řec.) – chvalořeč, pochvala. _Pozn. red_.
+
+[^31]: To je hloupé. _Pozn. red_.
+
+[^32]: Kakemono (jap.) – svitkový závěsný obraz. _Pozn. red_.
+
+[^33]: Konfinace – úřední příkaz k pobytu na určeném místě, omezení volného pohybu. _Pozn. red_.
+
+[^34]: Inkulpace – obvinění. _Pozn. red_.
+
+[^35]: Dernier cri (franc.) – dosl. poslední výkřik. _Pozn. red_.
+
+[^36]: Komtur (franc.) – vyšší hodnostář rytířského řádu. _Pozn. red_.
+
+[^37]: Dreadnought (angl.) – pův. název bitevní lodi (Ničeho se neboj), obecné označení pro takový typ lodí. _Pozn. red_.
+
+[^38]: Velmi laskavý. _Pozn. red_.
+
+[^39]: Bunčuk (tur.) – vojenský odznak (žerď s koňským ohonem). _Pozn. red_.
+
+[^40]: Extra statum (lat.) – mimo stav, mimořádně. _Pozn. red_.
+
+[^41]: Sapér (franc.) – ženista. _Pozn. red_.
+
+[^42]: Peignoir (franc.) – župan. _Pozn. red_.
+
+[^43]: Kontribuce – peněžní dávky vymáhané okupační mocí na obyvatelstvu obsazeného území. _Pozn. red_.
+
+[^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.
+
+[^45]: Sláva vítězství! _Pozn. red_.
+
+[^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.

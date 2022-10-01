@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-Nebylo nic; jen jako kdyby se časem protrhly mlhy, zjevil se vzorek malované stěny, řezaná římsa skříně, cíp záclony či frýzek[\[5\]](./resources/undefined) stropu vlys; nebo se naklonila nějaká tvář jakoby nad otvorem studně, ale nebylo vidět jejích rysů. Něco se dělo, někdo časem svlažil horké rty nebo pozvedal bezvládné tělo, ale vše mizelo v plynoucích útržcích snění. Byly to krajiny, kobercové vzory, diferenciální počty, ohnivé koule, chemické formule; jen časem něco vyplulo navrch a stalo se na okamžik jasnějším snem, aby se to vzápětí zas rozplynulo v širokotokém bezvědomí.
+Nebylo nic; jen jako kdyby se časem protrhly mlhy, zjevil se vzorek malované stěny, řezaná římsa skříně, cíp záclony či frýzek[^5] stropu vlys; nebo se naklonila nějaká tvář jakoby nad otvorem studně, ale nebylo vidět jejích rysů. Něco se dělo, někdo časem svlažil horké rty nebo pozvedal bezvládné tělo, ale vše mizelo v plynoucích útržcích snění. Byly to krajiny, kobercové vzory, diferenciální počty, ohnivé koule, chemické formule; jen časem něco vyplulo navrch a stalo se na okamžik jasnějším snem, aby se to vzápětí zas rozplynulo v širokotokém bezvědomí.
 
 Konečně přišla chvíle, kdy procitl; viděl nad sebou teplý a bezpečný strop se štukovým frýzkem; našel očima své vlastní hubené, mrtvě bílé ruce na květované přikrývce; za nimi objevil pelest postele, skříň a bílé dveře: vše nějak milé, tiché a už známé. Neměl ponětí, kde je; chtěl o tom uvažovat, ale měl nemožně slabou hlavu, vše se mu opět počalo mást, i zavřel oči a odpočíval v odevzdané chabosti.
 
@@ -29,7 +29,7 @@ Deidia ďainós: ano, bál se hrozně, ale i dívka se bála a tiskla k prsoum b
 
 Prokop těžce vzdychl a pozvedl úděsně vyhublé ruce. „Alla, anass’, eleaire! Avšak slituj se, paní, vždyť vytrpěv útrapy mnohé, nejdřív přišel jsem k tobě – z těch druhých nikoho neznám lidí, co v krajině té a v městě své obydlí mají. Do města cestu mi ukaž, dej roucho, bych tělo si zakryl, jestližes vzala, sem jdouc, snad nějaký na prádlo obal.“
 
-Nyní se dívčí tvář poněkud vyjasnila, vlahé rty se pootevřely; snad Nausikaá promluví, ale Prokop chtěl jí ještě požehnati za ten obláček líbezného soucitu, kterým růžovělo její líčko. „Soi de theoi tosa doien, hosa fresi sési menoinás: bozi pak račte ti dát, čeho ve své mysli si žádáš, muže i dům, a přidejtež vám i svorného ducha, vzácný to dar, – vždyť lepšího nic ni krasšího není, než když smýšlením svorni svou domácnost společně vedou žena i muž, jak odpůrcům v žal, tak na radost velkou všechněm příznivcům svým, a nejvíc to pocítí sami.“[\[6\]](./resources/undefined)
+Nyní se dívčí tvář poněkud vyjasnila, vlahé rty se pootevřely; snad Nausikaá promluví, ale Prokop chtěl jí ještě požehnati za ten obláček líbezného soucitu, kterým růžovělo její líčko. „Soi de theoi tosa doien, hosa fresi sési menoinás: bozi pak račte ti dát, čeho ve své mysli si žádáš, muže i dům, a přidejtež vám i svorného ducha, vzácný to dar, – vždyť lepšího nic ni krasšího není, než když smýšlením svorni svou domácnost společně vedou žena i muž, jak odpůrcům v žal, tak na radost velkou všechněm příznivcům svým, a nejvíc to pocítí sami.“[^6]
 
 Poslední slova Prokop už skoro jen dýchal; sám stěží rozuměl tomu, co odříkává, vytékalo to plynně a bez vůle z nějakého neznámého kouta paměti; bylo tomu skoro dvacet let, co se jakžtakž probíral sladkou melodií šestého zpěvu. Působilo mu až fyzickou úlevu nechávat to volně odtékat; dělalo se mu v hlavě lehčeji a jasněji, bylo mu skoro blaženě v té plihé a libé slabosti, a tu se mu zachvěl na rtech rozpačitý úsměv.
 
@@ -68,3 +68,95 @@ Dívka se zasmála a vyběhla. Prokopovi hučelo v hlavě; pořád se hleděl ro
 „Lehněte si, hned si zas lehněte,“ káže mu drobounký hlásek skoro plačící, a rychlé ruce mu nastavují podušku. Prokop se sváží naznak a zavírá oči; jen chvilinku si zdřímnu, myslí si, a udělalo se libé, hluboké ticho.
 
 </section>
+
+[^1]: Brizance (franc.) – tříštivost. _Pozn. red_.
+
+[^2]: Ve velkém. _Pozn. red_.
+
+[^3]: Kupředu! _Pozn. red_.
+
+[^4]: Ulstr – těžký zimní kabát. _Pozn. red_.
+
+[^5]: Frýzek – vlys. _Pozn. red_.
+
+[^6]: Překlad O. Vaňorného (1921).
+
+[^7]: Amence (lat.) – zmatenost. _Pozn. red_.
+
+[^8]: Divinace (lat.) – tušení, předvídání. _Pozn. red_.
+
+[^9]: Kybelé, podle řecké mytologie maloasijská „velká matka bohů“, matka veškerého života. _Pozn. red_.
+
+[^10]: L. Buchner (1824–1899) – něm. lékař a filozof s radikálně materialistickými názory. _Pozn. red_.
+
+[^11]: Bootes (lat.) – souhvězdí Pastýře. _Pozn. red_.
+
+[^12]: Ženerózní /generózní (franc.) – šlechetný. _Pozn. red_.
+
+[^13]: Očekávám tě, P. S. Pozor, K. dorazil z Hamburku… _Pozn. red_.
+
+[^14]: Jinak na to K. přijde. _Pozn. red_.
+
+[^15]: „Jednomu jest vznešenou, nebeskou bohyní, druhému vydatnou krávou, která mu dává mléko.“ Schillerův epigram, překlad O. Vaňorný. _Pozn. red_.
+
+[^16]: Nauen – německé město, v němž byla r. 1906 založena nejstarší německá radiostanice. _Pozn. red._
+
+[^17]: Makao /macao – karetní hra. _Pozn. red_.
+
+[^18]: Aiás – hrdina Homérovy Iliady, nejvyšší a nejsilnější ze všech Achájců. _Pozn. red_.
+
+[^19]: Laissez-passer (franc.) – propustka. _Pozn. red_.
+
+[^20]: Chaise longue (franc.) – lehátko. _Pozn. red_.
+
+[^21]: Želví polévka. _Pozn. red_.
+
+[^22]: Bej / beg (tur.) – islámský panovník, později nižší hodnostář či úředník. _Pozn. red_.
+
+[^23]: Galop (franc.) – klus. _Pozn. red_.
+
+[^24]: Fraktura femoris (lat.) – zlomenina stehenní kosti. _Pozn. red_.
+
+[^25]: Swedenborg, Imanuel (1688–1772) – švéd. přírodovědec, známý mj. svými teozofickými vizemi. _Pozn. red_.
+
+[^26]: Cousine (franc.) – bratranec. _Pozn. red_.
+
+[^27]: Můj strýc. _Pozn. red_.
+
+[^28]: Velký umělec. _Pozn. red_.
+
+[^29]: Učitel tance. _Pozn. red_.
+
+[^30]: Elože (řec.) – chvalořeč, pochvala. _Pozn. red_.
+
+[^31]: To je hloupé. _Pozn. red_.
+
+[^32]: Kakemono (jap.) – svitkový závěsný obraz. _Pozn. red_.
+
+[^33]: Konfinace – úřední příkaz k pobytu na určeném místě, omezení volného pohybu. _Pozn. red_.
+
+[^34]: Inkulpace – obvinění. _Pozn. red_.
+
+[^35]: Dernier cri (franc.) – dosl. poslední výkřik. _Pozn. red_.
+
+[^36]: Komtur (franc.) – vyšší hodnostář rytířského řádu. _Pozn. red_.
+
+[^37]: Dreadnought (angl.) – pův. název bitevní lodi (Ničeho se neboj), obecné označení pro takový typ lodí. _Pozn. red_.
+
+[^38]: Velmi laskavý. _Pozn. red_.
+
+[^39]: Bunčuk (tur.) – vojenský odznak (žerď s koňským ohonem). _Pozn. red_.
+
+[^40]: Extra statum (lat.) – mimo stav, mimořádně. _Pozn. red_.
+
+[^41]: Sapér (franc.) – ženista. _Pozn. red_.
+
+[^42]: Peignoir (franc.) – župan. _Pozn. red_.
+
+[^43]: Kontribuce – peněžní dávky vymáhané okupační mocí na obyvatelstvu obsazeného území. _Pozn. red_.
+
+[^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.
+
+[^45]: Sláva vítězství! _Pozn. red_.
+
+[^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.

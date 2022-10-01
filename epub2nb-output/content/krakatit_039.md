@@ -37,7 +37,7 @@ Už nabíral do plic homérický smích, aby spustil hned s prvními (proboha, j
 
 Prokop nevěřil svým očím. Dějí se takovéhle věci, není to smluvená produkce pro smích, berou ti lidé vážně své role? Tlustý cousin jej vzal pod paží a táhl diskrétně stranou. „Víte, co to znamená?“ šeptal rozčilen. „Starého Hagena raní mrtvice, až se to dozví. Panovnický rod! Viděl jste tady ondyno toho následníka? Měla být svatba a rozešlo se to. Ten člověk, ten je sem jistě poslán – Jezus, taková linie!“
 
-Prokop se mu vymknul. „Odpusťte,“ mumlal, vysoukal se co možná nejneobratněji na chodbu a vešel do třetího pokoje. Bylo to jakési čajové zákoutí se zastřenými světly, samý lak, červený porcelán, kakemona[\[32\]](./resources/undefined) a podobné hlouposti. Prokop pobíhal s rukama na zádech a bručel v miniaturním pokojíku jako moucha masařka narážející hlavou na okenní tabule. Sakra, něco se změnilo; pro pár všivých tatarských rasů, za které by se slušný člověk styděl… Pěkný původ, děkuju nechci! A pro pár takových Hunů ti idioti zrovna trnou, padají na břicho, a ona, ona sama – Moucha masařka se bezdeše zarazila. Teď přijde… tatarská kněžna a řekne: Milý, milý, je mezi námi konec; považ přece, že pravnučka Litaj-chána se nemůže milovat se synem ševcovým. Klep, klep, slyšel v hlavě tatínkovo kladívko, a zdálo se mu, že čichá těžký, tříslový pach kůže a trapné čpění ševcovského mazu; a maminka v modré zástěře stojí, chudák, celá rudá nad plotýnkou –
+Prokop se mu vymknul. „Odpusťte,“ mumlal, vysoukal se co možná nejneobratněji na chodbu a vešel do třetího pokoje. Bylo to jakési čajové zákoutí se zastřenými světly, samý lak, červený porcelán, kakemona[^32] a podobné hlouposti. Prokop pobíhal s rukama na zádech a bručel v miniaturním pokojíku jako moucha masařka narážející hlavou na okenní tabule. Sakra, něco se změnilo; pro pár všivých tatarských rasů, za které by se slušný člověk styděl… Pěkný původ, děkuju nechci! A pro pár takových Hunů ti idioti zrovna trnou, padají na břicho, a ona, ona sama – Moucha masařka se bezdeše zarazila. Teď přijde… tatarská kněžna a řekne: Milý, milý, je mezi námi konec; považ přece, že pravnučka Litaj-chána se nemůže milovat se synem ševcovým. Klep, klep, slyšel v hlavě tatínkovo kladívko, a zdálo se mu, že čichá těžký, tříslový pach kůže a trapné čpění ševcovského mazu; a maminka v modré zástěře stojí, chudák, celá rudá nad plotýnkou –
 
 Moucha masařka divoce zabzučela. To se ví, kněžna! Kam, kam jsi dal hlavu, člověče! Teď klekneš, přijde-li, uhodíš čelem o zem a řekneš: Smilování, tatarská kněžno; já už se víckrát neukážu.
 
@@ -48,3 +48,95 @@ Princezna rychle, tiše vklouzla do pokoje. U dveří sáhla po vypínači a zha
 S hlavou praskající zůstal Prokop potmě. Toto poslední objetí mu připadlo jako rozloučení.
 
 </section>
+
+[^1]: Brizance (franc.) – tříštivost. _Pozn. red_.
+
+[^2]: Ve velkém. _Pozn. red_.
+
+[^3]: Kupředu! _Pozn. red_.
+
+[^4]: Ulstr – těžký zimní kabát. _Pozn. red_.
+
+[^5]: Frýzek – vlys. _Pozn. red_.
+
+[^6]: Překlad O. Vaňorného (1921).
+
+[^7]: Amence (lat.) – zmatenost. _Pozn. red_.
+
+[^8]: Divinace (lat.) – tušení, předvídání. _Pozn. red_.
+
+[^9]: Kybelé, podle řecké mytologie maloasijská „velká matka bohů“, matka veškerého života. _Pozn. red_.
+
+[^10]: L. Buchner (1824–1899) – něm. lékař a filozof s radikálně materialistickými názory. _Pozn. red_.
+
+[^11]: Bootes (lat.) – souhvězdí Pastýře. _Pozn. red_.
+
+[^12]: Ženerózní /generózní (franc.) – šlechetný. _Pozn. red_.
+
+[^13]: Očekávám tě, P. S. Pozor, K. dorazil z Hamburku… _Pozn. red_.
+
+[^14]: Jinak na to K. přijde. _Pozn. red_.
+
+[^15]: „Jednomu jest vznešenou, nebeskou bohyní, druhému vydatnou krávou, která mu dává mléko.“ Schillerův epigram, překlad O. Vaňorný. _Pozn. red_.
+
+[^16]: Nauen – německé město, v němž byla r. 1906 založena nejstarší německá radiostanice. _Pozn. red._
+
+[^17]: Makao /macao – karetní hra. _Pozn. red_.
+
+[^18]: Aiás – hrdina Homérovy Iliady, nejvyšší a nejsilnější ze všech Achájců. _Pozn. red_.
+
+[^19]: Laissez-passer (franc.) – propustka. _Pozn. red_.
+
+[^20]: Chaise longue (franc.) – lehátko. _Pozn. red_.
+
+[^21]: Želví polévka. _Pozn. red_.
+
+[^22]: Bej / beg (tur.) – islámský panovník, později nižší hodnostář či úředník. _Pozn. red_.
+
+[^23]: Galop (franc.) – klus. _Pozn. red_.
+
+[^24]: Fraktura femoris (lat.) – zlomenina stehenní kosti. _Pozn. red_.
+
+[^25]: Swedenborg, Imanuel (1688–1772) – švéd. přírodovědec, známý mj. svými teozofickými vizemi. _Pozn. red_.
+
+[^26]: Cousine (franc.) – bratranec. _Pozn. red_.
+
+[^27]: Můj strýc. _Pozn. red_.
+
+[^28]: Velký umělec. _Pozn. red_.
+
+[^29]: Učitel tance. _Pozn. red_.
+
+[^30]: Elože (řec.) – chvalořeč, pochvala. _Pozn. red_.
+
+[^31]: To je hloupé. _Pozn. red_.
+
+[^32]: Kakemono (jap.) – svitkový závěsný obraz. _Pozn. red_.
+
+[^33]: Konfinace – úřední příkaz k pobytu na určeném místě, omezení volného pohybu. _Pozn. red_.
+
+[^34]: Inkulpace – obvinění. _Pozn. red_.
+
+[^35]: Dernier cri (franc.) – dosl. poslední výkřik. _Pozn. red_.
+
+[^36]: Komtur (franc.) – vyšší hodnostář rytířského řádu. _Pozn. red_.
+
+[^37]: Dreadnought (angl.) – pův. název bitevní lodi (Ničeho se neboj), obecné označení pro takový typ lodí. _Pozn. red_.
+
+[^38]: Velmi laskavý. _Pozn. red_.
+
+[^39]: Bunčuk (tur.) – vojenský odznak (žerď s koňským ohonem). _Pozn. red_.
+
+[^40]: Extra statum (lat.) – mimo stav, mimořádně. _Pozn. red_.
+
+[^41]: Sapér (franc.) – ženista. _Pozn. red_.
+
+[^42]: Peignoir (franc.) – župan. _Pozn. red_.
+
+[^43]: Kontribuce – peněžní dávky vymáhané okupační mocí na obyvatelstvu obsazeného území. _Pozn. red_.
+
+[^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.
+
+[^45]: Sláva vítězství! _Pozn. red_.
+
+[^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.
