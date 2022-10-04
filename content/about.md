@@ -50,9 +50,9 @@ Karel Čapek
 [^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.  
 [^45]: Sláva vítězství! _Pozn. red_.  
 [^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
-![](../Images/image003.png)  
+  
 [^1]: Brizance (franc.) – tříštivost. _Pozn. red_.  
 [^2]: Ve velkém. _Pozn. red_.  
 [^3]: Kupředu! _Pozn. red_.  
@@ -99,7 +99,7 @@ V MKP 1. elektronické vydání z 1. 10. 2022.
 [^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.  
 [^45]: Sláva vítězství! _Pozn. red_.  
 [^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 **Karel Čapek**  
 **Krakatit**  
@@ -155,7 +155,7 @@ V MKP 2. opravené vydání
 [^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.  
 [^45]: Sláva vítězství! _Pozn. red_.  
 [^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -163,10 +163,10 @@ Znění tohoto textu vychází z díla [Krakatit](https://search.mlp.cz/cz/titul
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Karel Čapek: Krakatit), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
