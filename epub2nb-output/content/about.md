@@ -50,7 +50,7 @@ Karel Čapek
 [^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.  
 [^45]: Sláva vítězství! _Pozn. red_.  
 [^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
   
 [^1]: Brizance (franc.) – tříštivost. _Pozn. red_.  
@@ -99,7 +99,7 @@ V MKP 1. elektronické vydání z 10. 10. 2022.
 [^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.  
 [^45]: Sláva vítězství! _Pozn. red_.  
 [^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 **Karel Čapek**  
 **Krakatit**  
@@ -155,7 +155,7 @@ V MKP 2. opravené vydání
 [^44]: Tastr (něm.) – tlačítko, vypínač. _Pozn. red_.  
 [^45]: Sláva vítězství! _Pozn. red_.  
 [^46]: Mitrajéza (z franc. mitrailleuse) – palná zbraň, předchůdce kulometu. _Pozn. red_.  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
